@@ -36,7 +36,10 @@ help:
 clean:
 	-rm -rf $(BUILDDIR)/*
 
-html:
+doclists.rst:
+	./parse_data.py
+
+html: doclists.rst
 	$(SPHINXBUILD) -b html $(ALLSPHINXOPTS) $(BUILDDIR)/html
 	@echo
 	@echo "Build finished. The HTML pages are in $(BUILDDIR)/html."
