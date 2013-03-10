@@ -98,6 +98,7 @@ html_theme = 'haiku'
 # documentation.
 html_theme_options = {'full_logo': True,
                       }
+html_copy_source = False
 
 # Add any paths that contain custom themes here, relative to this directory.
 #html_theme_path = []

@@ -1,20 +1,28 @@
+.. _index:
+
 Abstract Archive
 ================
 
-* :ref:`search`
+* :ref:`Search <search>`
 
 Paper Abstracts
 ---------------
 
-* Sort by Author
-* Sort by Author's Institution
-* Sort by Title
-* Sort by Track
+.. toctree::
+    :maxdepth: 1
+
+    All <paper_title>
+    First Author's Name <paper_author>
+    First Author's Institution <paper_inst>
+    Technical Track <paper_track>
 
 Poster Abstracts
 ----------------
 
-* Sort by Author
-* Sort by Author's Institution
-* Sort by Title
-* Sort by Track
+.. toctree::
+    :maxdepth: 1
+    
+    All <poster_title>
+    First Author's Name <poster_author>
+    First Author's Institution <poster_inst>
+    Technical Track <poster_track>

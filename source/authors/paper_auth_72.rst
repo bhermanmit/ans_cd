@@ -1,0 +1,6 @@
+ :ref:`Back to Index <index>`
+
+Howard, Trevor
+--------------
+
+* :download:`Trevor Howard, Oregon State University. Computational Fluid Dynamics Analysis of Vortex Shedding Between Inline Plates. Thermal Hydraulics/Fluids <../docs/335.pdf>`
