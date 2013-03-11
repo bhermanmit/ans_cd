@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Mankosa, Mike
--------------
+Langewisch, Dustin
+------------------
 
-* :download:`Mike Mankosa, The Pennsylvania State University. OUTREACH PROGRAMS TO ACCURATELY INFORM THE PUBLIC ABOUT NUCLEAR POWER. Education, Training & Workforce Development <../docs/236.pdf>`
+* :download:`Dustin Langewisch, Massachusetts Institute of Technology. Uncertainty Quantification for Computational Multiphase Fluid Dynamics. Mathematics & Computation <../docs/292.pdf>`

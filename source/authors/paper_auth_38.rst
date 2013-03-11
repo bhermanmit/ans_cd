@@ -1,6 +1,7 @@
  :ref:`Back to Index <index>`
 
-Dances, Chris
+Frazer, David
 -------------
 
-* :download:`Chris Dances, University of Utah. University of Utah TRIGA Virtual Reactor Simulator in Python and Qt. Mathematics & Computation <../docs/216.pdf>`
+* :download:`David Frazer, University of California - Berkeley. Nano/micro Scale Characterization of SiC/SiC Composite Materials. Materials Science & Technology <../docs/260.pdf>`
+* :download:`David Frazer, University of California - Berkeley. Evaluation of Passive Layer Failure Utilizing Micro Bend Bar Testing. Materials Science & Technology <../docs/321.pdf>`

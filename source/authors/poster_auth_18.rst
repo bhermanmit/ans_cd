@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Fray, Elliott
--------------
+Farmand, Romina
+---------------
 
-* :download:`Elliott Fray, Massachusetts Institute of Technology. Materials Testing and Development of Functionally Graded Composite Fuel Cladding and Piping for the Lead-Bismuth Cooled Nuclear Reactor. Materials Science & Technology <../docs/326.pdf>`
+* :download:`Romina Farmand, University of Nevada - Las Vegas. Synthesis and Characterization of Low-Valent Rhenium Dimers with Multiple Metal-Metal Bonds. Special Session: Radiochemistry <../docs/407.pdf>`

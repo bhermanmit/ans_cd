@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Akindele, Oluwatomi
--------------------
+Block, Matthew
+--------------
 
-* :download:`Oluwatomi Akindele, Texas A&M University. INVESTIGATION OF PVT DETECTOR PERFORMANCE BASED ON DETECTOR THICKNESS. Detection & Measurements <../docs/126.pdf>`
+* :download:`Matthew Block, Pennsylvania State University. The Effect of Radiation Exposure During a 6-Month CubeSat Mission. Radiation Protection & Shielding <../docs/174.pdf>`

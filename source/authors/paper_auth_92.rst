@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Li, Lulu
---------
+Maradia, Vivek
+--------------
 
-* :download:`Lulu Li, . A Low Order Acceleration Scheme for Using Methods of Characteristics to Solve Transport Equation. Reactor Physics <../docs/391.pdf>`
+* :download:`Vivek Maradia, Pandit Deendayal Petroleum University. Accident Sequence Modeling for Indian Fast Breeder Test Reactor. Nuclear Criticality Safety <../docs/104.pdf>`

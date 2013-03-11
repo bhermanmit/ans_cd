@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Sorbom, Brandon
----------------
+Schweitzer, Amanda
+------------------
 
-* :download:`Brandon Sorbom, MIT. A Molten Salt Liquid Immersion Blanket Design For Use in a Compact, Modular Fusion Reactor. Fusion Energy & Plasmas <../docs/344.pdf>`
+* :download:`Amanda Schweitzer, Pennsylvania State University. A Study of PWR's Water Chemistry and the Effects on the Reactor Operation and Surrounding Environment. Environmental Sciences <../docs/170.pdf>`

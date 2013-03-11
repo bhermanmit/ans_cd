@@ -1,6 +1,7 @@
  :ref:`Back to Index <index>`
 
-Korea Advanced Institute of Science and Technolog
--------------------------------------------------
+Polytechnique Montreal
+----------------------
 
-* :download:`Sungmin Shin, Korea Advanced Institute of Science and Technolog. MONITORING METHOD DEVELOPMENT FOR SAFETY COMPONENT ON STANDBY STATE. Nuclear Installations Safety <../docs/215.pdf>`
+* :download:`Thomas Clerc, Polytechnique Montreal. Presentation of the MERC Work-flow for the Computation of a 2D Radial Reflector in a PWR. Mathematics & Computation <../docs/156.pdf>`
+* :download:`Haykel Raouafi, Polytechnique Montreal. DRAGON 3D Simulation of Spatial Self-Shielding Effect in Sample Irradiated in SLOWPOKE-2 Reactor. Reactor Physics <../docs/348.pdf>`

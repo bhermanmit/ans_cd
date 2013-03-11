@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Woodley, David
---------------
+Sweet, Ryan
+-----------
 
-* :download:`David Woodley, North Carolina State University. HIGH TEMPERATURE TEST CAPSULE FOR IRRADIATION EXPERIMENTS IN THE PULSTAR REACTOR. Materials Science & Technology <../docs/259.pdf>`
+* :download:`Ryan Sweet, University of Tennessee. Helium Bubble Formation in Plasma Facing Surfaces for Fusion Reactor Applications. Fusion Energy & Plasmas <../docs/328.pdf>`

@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Zorrilla, Alexander
--------------------
+Zhong, Jianguo
+--------------
 
-* :download:`Alexander Zorrilla, University of Florida. ANALYSIS OF SKIN DOSE MAPPING FOR A STANDARD FLUOROSCOPY PROCEDURE IN PATIENTS OF VARYING SIZES. Biology & Medicine <../docs/280.pdf>`
+* :download:`Jianguo Zhong, Rensselaer Polytechnic Institute. Analysis of Heat Transfer in Supercritical Water Reactor Core. Thermal Hydraulics/Fluids <../docs/398.pdf>`

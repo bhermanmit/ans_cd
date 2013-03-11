@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Patrick Riley, Michael
-----------------------
+Phillips, Bren
+--------------
 
-* :download:`Michael Patrick Riley, The Pennsylvania State University. Correlation for the Prediction of Nucleate Boiling Heat Flux on a Downward Facing Hemispherical Surface during a Severe Accident. Thermal Hydraulics/Fluids <../docs/128.pdf>`
+* :download:`Bren Phillips, Massachusetts Institute of Technology. Nucleation Site Density, Bubble Departure Diameter, Wait Time and Local Temperature Distribution in Subcooled Flow Boiling of Water at Atmospheric Pressure. Thermal Hydraulics/Fluids <../docs/180.pdf>`

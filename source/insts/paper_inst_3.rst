@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-EPFL/PSI
---------
+Georgia Institute of Technology
+-------------------------------
 
-* :download:`Boris Hombourger, EPFL/PSI. Study of a closed Thorium-232 fuel cycle Molten Salt Reactor core in different spectra. Reactor Physics <../docs/264.pdf>`
+* :download:`Molly C. Cook, Georgia Institute of Technology. Using Social Media to Brand and Promote a Student Section. Student Sections Activities <../docs/285.pdf>`

@@ -1,7 +1,7 @@
  :ref:`Back to Index <index>`
 
-Georgia Institute of Technology
--------------------------------
+Khalifa University
+------------------
 
-* :download:`Molly C. Cook, Georgia Institute of Technology. Using Social Media to Brand and Promote a Student Section. Student Sections Activities <../docs/285.pdf>`
-* :download:`Christopher McGahee, Georgia Institute of Technology. RADIATION DETECTION PLATE TO BE USED AT SECURITY CHECKPOINTS IN ASSOCIATION WITH NEW ZNO DETECTORS. Detection & Measurements <../docs/197.pdf>`
+* :download:`Mouza Al Hebsi, Khalifa University. Numerical Investigation on the Dissolution of a Light Gas Stratification in a Safety Containment Model. Thermal Hydraulics/Fluids <../docs/184.pdf>`
+* :download:`Amal Hraiz, Khalifa University. 3-D Full Core Calculations of Westinghouse AP1000 Using WIMS/PARCS/SNAP Code System. Reactor Physics <../docs/193.pdf>`

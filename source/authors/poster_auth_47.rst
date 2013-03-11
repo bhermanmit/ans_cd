@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Styron, Jedediah
-----------------
+Shaner, Sam
+-----------
 
-* :download:`Jedediah Styron, University of New Mexico. Thorium Fuel with Increased Burn-up. Operations & Power <../docs/354.pdf>`
+* :download:`Sam Shaner, Massachusetts Institute of Technology. Transient CMFD-accelerated MOC via IQS with Fully-Implicit Coarse-Time Stepping. Reactor Physics <../docs/346.pdf>`

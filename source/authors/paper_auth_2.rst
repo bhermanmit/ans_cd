@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-, can
------
+Akindele, Oluwatomi
+-------------------
 
-* :download:`can , liao. Study on Pulse Shape Discrimination with an EJ339A Boron-Loaded Liquid Scintillation Detector. Detection & Measurements <../docs/133.pdf>`
+* :download:`Oluwatomi Akindele, Texas A&M University. Investigation of PVT Detector Performance Based on Detector Thickness. Detection & Measurements <../docs/126.pdf>`

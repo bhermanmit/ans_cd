@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Wilson, Nicholas
-----------------
+West, Derek
+-----------
 
-* :download:`Nicholas Wilson, Purdue University. Development of a Spherical Acoustically Tensioned Metastable Fluid Detector for Ascertaining 4pi Neutron Directionality. Detection & Measurements <../docs/205.pdf>`
+* :download:`Derek West, United States Military Academy. Benchmark Rutherford Scattering Experiment Using Pelletron Accelerator. Accelerator Applications <../docs/325.pdf>`

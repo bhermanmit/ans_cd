@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Eun Kim, Hee
-------------
+Geleskie, Dominic M.
+--------------------
 
-* :download:`Hee Eun Kim, KAIST. AN APPROACH TO EVALUATE THE SAFETY NETWORK COMMUNICATION RELIABILITY. Nuclear Installations Safety <../docs/263.pdf>`
+* :download:`Dominic M. Geleskie, Pennsylvania State University. Carbon Dioxide Emissions from the Nuclear Fuel Cycle Compared to Emissions from a Coal-fired Power Plant. Environmental Sciences <../docs/141.pdf>`

@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-, mouza
--------
+Al Hebsi, Mouza
+---------------
 
-* :download:`mouza , Khalifa University. NUMERICAL INVESTIGATION ON THE DISSOLUTION OF A LIGHT GAS STRATIFICATION IN A SAFETY CONTAINMENT MODEL. Thermal Hydraulics/Fluids <../docs/184.pdf>`
+* :download:`Mouza Al Hebsi, Khalifa University. Numerical Investigation on the Dissolution of a Light Gas Stratification in a Safety Containment Model. Thermal Hydraulics/Fluids <../docs/184.pdf>`

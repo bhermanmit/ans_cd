@@ -1,7 +1,6 @@
  :ref:`Back to Index <index>`
 
-Idaho State University
-----------------------
+Los Alamos National Laboratory
+------------------------------
 
-* :download:`Harishchandra Aryal, Idaho State University. Whale System Design. Aerospace Nuclear Science & Technology <../docs/385.pdf>`
-* :download:`Antonio Tahhan, Idaho State University. The Hydrogen Economy. Environmental Sciences <../docs/402.pdf>`
+* :download:`Floren Rubio, Los Alamos National Laboratory. Corrosion and Oxygen Control Studies Using a Lead Bismuth Eutectic Flow Loop (DELTA). Materials Science & Technology <../docs/143.pdf>`

@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Vaquer, Pablo
--------------
+Sugrue, Rosemary
+----------------
 
-* :download:`Pablo Vaquer, University of Florida. A LOW TEMPERATURE GAS REACTOR WITH VASIMR THRUSTERS FOR NEAR-TERM INTERPLANTARY TRAVEL. Aerospace Nuclear Science & Technology <../docs/352.pdf>`
+* :download:`Rosemary Sugrue, Massachusetts Institute of Technology. A Modified Mechanistic Model for Predicting Bubble Departure Diameter in Subcooled Flow Boiling. Thermal Hydraulics/Fluids <../docs/383.pdf>`

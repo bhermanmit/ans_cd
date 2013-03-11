@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Goddard, Braden
----------------
+Holschuh, Tom
+-------------
 
-* :download:`Braden Goddard, Texas A&M University. DEVELOPMENT OF A NEUTRON MULTIPLICITY COUNTING LABORATORY EXPERIMENT AT TEXAS A&amp;M UNIVERSITY. Education, Training & Workforce Development <../docs/127.pdf>`
+* :download:`Tom Holschuh, Oregon State University. Methodology for Strain Gage Adhesion To Test Plates for Measurement During Operations. Thermal Hydraulics/Fluids <../docs/282.pdf>`

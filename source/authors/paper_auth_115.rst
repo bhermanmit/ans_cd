@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Pedretti, Francesco
--------------------
+Reed, Mark
+----------
 
-* :download:`Francesco Pedretti, University of Pisa. Ideas for the definition of the heat transfer surface. Thermal Hydraulics/Fluids <../docs/138.pdf>`
+* :download:`Mark Reed, Massachusetts Institute of Technology. Pin-Level Reconstruction of Various Neutronic Quantities in Fast Reactors: Enhanced Physical Insight and Visualization Tools. Reactor Physics <../docs/196.pdf>`

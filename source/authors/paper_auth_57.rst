@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Gilman, Lindsey
----------------
+Hogan, Daniel
+-------------
 
-* :download:`Lindsey Gilman, MIT. ADVANCEMENTS ON WALL BOILING MODELING IN CFD: LEVERAGING NEW UNDERSTANDING FROM MIT FLOW BOILING FACILITY. Thermal Hydraulics/Fluids <../docs/202.pdf>`
+* :download:`Daniel Hogan, University of California - Berkeley. Approaches To Detecting Coherent Neutrino-Nucleus Scattering with High-Purity Germanium Detectors. Detection & Measurements <../docs/343.pdf>`

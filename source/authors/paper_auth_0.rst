@@ -1,6 +1,7 @@
  :ref:`Back to Index <index>`
 
-, Derek
--------
+Abercrombie, Daniel
+-------------------
 
-* :download:`Derek , McLain. Effect of Elemental Interferences on Radioanalytical Analysis of Steel. Special Session: Radiochemistry <../docs/106.pdf>`
+* :download:`Daniel Abercrombie, Pennsylvania State University. Optimization of X-Ray Production Via Bremsstrahlung for Active Interrogation of Nuclear Materials. Accelerator Applications <../docs/137.pdf>`
+* :download:`Daniel Abercrombie, Pennsylvania State University. Development of a Deterministic Multi-Group Diffusion Code for a Molten Salt Reactor. Reactor Physics <../docs/265.pdf>`

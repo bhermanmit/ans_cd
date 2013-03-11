@@ -1,11 +1,7 @@
  :ref:`Back to Index <index>`
 
-Purdue University
------------------
+University of New Mexico
+------------------------
 
-* :download:`Ram Anand Vadlamani, Purdue University. An Experimental Study of Subcooled Choked Flow Through Simulated Steam Generator Tube Cracks. Thermal Hydraulics/Fluids <../docs/253.pdf>`
-* :download:`Phillip Forsberg, Purdue University. DATA ENCRYPTION OF RADIATION SIGNALS USING CHAOTIC ARTIFICIAL NEURAL NETWORKS. Mathematics & Computation <../docs/304.pdf>`
-* :download:`Justin Knowles, Purdue University. Defect Diffusion Simulation Through Zirconium Lattice Structure. Materials Science & Technology <../docs/235.pdf>`
-* :download:`Jeff Webster, Purdue University. Demonstrating Tensioned Metastable Fluid Detectors as Gamma-Blind Nuclear Particle Sensors. Detection & Measurements <../docs/314.pdf>`
-* :download:`Nicholas Wilson, Purdue University. Development of a Spherical Acoustically Tensioned Metastable Fluid Detector for Ascertaining 4pi Neutron Directionality. Detection & Measurements <../docs/205.pdf>`
-* :download:`Jason Young, Purdue University. Advances to the Radiation Source Search Toolkit. Nonproliferation & Nuclear Safeguards <../docs/284.pdf>`
+* :download:`Philip Lafreniere, University of New Mexico. Natural Circulation Cooled, 80 MWt Small Modular PWR. Operations & Power <../docs/341.pdf>`
+* :download:`Jedediah Styron, University of New Mexico. Optimization of a Fast Neutron Beryllium/Scintillator Layer Detector Using a Monte Carlo Approach. Detection & Measurements <../docs/250.pdf>`

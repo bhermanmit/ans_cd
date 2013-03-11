@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Deason, Wesley
---------------
+Gallardo, Athena
+----------------
 
-* :download:`Wesley Deason, Oregon State University. Fission Product Transport Modeling Using STELLA. Nuclear Installations Safety <../docs/395.pdf>`
+* :download:`Athena Gallardo, University of Nevada - Las Vegas. Investigation of Storage-Phosphor Autoradiography for the Rapid Quantitative Screening of Air Filters for Emergency Response Purposes. Detection & Measurements <../docs/397.pdf>`

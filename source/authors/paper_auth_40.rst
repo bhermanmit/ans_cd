@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-DeWitte, Jacob
---------------
+Galegar, Natalie
+----------------
 
-* :download:`Jacob DeWitte, MIT. Maximizing the US Nuclear Fleet Through Life Extension and Mega Uprates. Operations & Power <../docs/400.pdf>`
+* :download:`Natalie Galegar, Texas A&M University. The Setup and Use of Laser Doppler Velocimetry for Measuring Flow Fields in Fuel Assemblies of Pressurized Water Reactors. Thermal Hydraulics/Fluids <../docs/173.pdf>`

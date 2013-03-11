@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Rose Romatoski, Rebecca
------------------------
+Salazar, Alex
+-------------
 
-* :download:`Rebecca Rose Romatoski, MIT. NATURAL CIRCULATION LIQUID-SALT LOOP CONCEPTUAL DESIGN FOR THE MIT REACTOR. Thermal Hydraulics/Fluids <../docs/203.pdf>`
+* :download:`Alex Salazar, Massachusetts Institute of Technology. Effect of Temperature on Permeability of Cement Sealant for Deep Borehole Repositories. Fuel Cycle & Waste Management <../docs/394.pdf>`

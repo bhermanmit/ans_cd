@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-C. Swan, David
+Deason, Wesley
 --------------
 
-* :download:`David C. Swan, North Carolina State University. Design of a Next-Generation Neutron Multiplicity Counter Independent of Helium-3. Detection & Measurements <../docs/338.pdf>`
+* :download:`Wesley Deason, Oregon State University. Modeling of Fission Product Transport in a Representative Helium-cooled Fast Reactor Using STELLA. Nuclear Installations Safety <../docs/395.pdf>`

@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Hogan, Daniel
--------------
+Jacomb-Hood, Timothy
+--------------------
 
-* :download:`Daniel Hogan, University of California, Berkeley. Approaches to detecting coherent neutrino-nucleus scattering with high-purity germanium detectors. Detection & Measurements <../docs/343.pdf>`
+* :download:`Timothy Jacomb-Hood, Pennsylvania State University. Unraveling Environmental Contributions to Fallout Formation. Special Session: Radiochemistry <../docs/149.pdf>`

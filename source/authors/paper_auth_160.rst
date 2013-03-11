@@ -1,7 +1,6 @@
  :ref:`Back to Index <index>`
 
-Zhong, Jianguo
---------------
+Young, Jason
+------------
 
-* :download:`Jianguo Zhong, Rensselaer Polytechnic Institute. ANALYSIS OF HEAT TRANSFER IN SUPERCRITICAL WATER REACTOR CORE. Aerospace Nuclear Science & Technology <../docs/398.pdf>`
-* :download:`Jianguo Zhong, Rensselaer Polytechnic Institute. ANALYSIS OF HEAT TRANSFER IN SUPERCRITICAL WATER REACTOR CORE. Aerospace Nuclear Science & Technology <../docs/327.pdf>`
+* :download:`Jason Young, Purdue University. Advances to the Radiation Source Search Toolkit. Nonproliferation & Nuclear Safeguards <../docs/284.pdf>`

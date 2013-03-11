@@ -1,9 +1,10 @@
  :ref:`Back to Index <index>`
 
-The Pennsylvania State University
----------------------------------
+University of Nevada - Las Vegas
+--------------------------------
 
-* :download:`Jordan Hill, The Pennsylvania State University. ONKALO: A LOOK AT THE FIRST SPENT NUCLEAR FUEL GEOLOGICAL REPOSITORY. Fuel Cycle & Waste Management <../docs/165.pdf>`
-* :download:`Dominic M. Geleskie, The Pennsylvania State University. CARBON DIOXIDE EMISSIONS FROM THE NUCLEAR FUEL CYCLE COMPARED TO EMISSIONS FROM A COAL-FIRED POWER PLANT. Environmental Sciences <../docs/141.pdf>`
-* :download:`Mike Mankosa, The Pennsylvania State University. OUTREACH PROGRAMS TO ACCURATELY INFORM THE PUBLIC ABOUT NUCLEAR POWER. Education, Training & Workforce Development <../docs/236.pdf>`
-* :download:`chris gosdin, The Pennsylvania State University. Revision  To Spadaccini_Gosdin_ANSabstract. Operations & Power <../docs/142.pdf>`
+* :download:`Lucas Boron-Brenner, University of Nevada - Las Vegas. Scandium and Titanium Adsorption Data Studies Using Eicrhom's Ln Resin Under Hydrochloric, Nitric, and Sulfuric Acid Conditions. Special Session: Radiochemistry <../docs/345.pdf>`
+* :download:`Jacquelyn Dorhout, University of Nevada - Las Vegas. Synthesis of Rapid Separation Targets by Hydrothermal Methods. Special Session: Radiochemistry <../docs/139.pdf>`
+* :download:`Romina Farmand, University of Nevada - Las Vegas. Synthesis and Characterization of Low-Valent Rhenium Dimers with Multiple Metal-Metal Bonds. Special Session: Radiochemistry <../docs/407.pdf>`
+* :download:`Andrew J. Swift, University of Nevada - Las Vegas. Evaluation and Preparation of Uranium Alloys Based on Fuel Burnup. Special Session: Radiochemistry <../docs/213.pdf>`
+* :download:`Nicholas Wozniak, University of Nevada - Las Vegas. Photoreduction Synthesis of U (IV) Organophosphate Nanoparticles from Uranyl Perchlorate. Special Session: Radiochemistry <../docs/219.pdf>`

@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-M. Geleskie, Dominic
---------------------
+Lane, Taylor
+------------
 
-* :download:`Dominic M. Geleskie, The Pennsylvania State University. CARBON DIOXIDE EMISSIONS FROM THE NUCLEAR FUEL CYCLE COMPARED TO EMISSIONS FROM A COAL-FIRED POWER PLANT. Environmental Sciences <../docs/141.pdf>`
+* :download:`Taylor Lane, Texas A&M University. A Flux-Limited Diffusion Method for Simulating Radiative Shocks. Fusion Energy & Plasmas <../docs/135.pdf>`

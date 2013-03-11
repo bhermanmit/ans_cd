@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Barnowski, Ross
----------------
+Cartas, Andrew
+--------------
 
-* :download:`Ross Barnowski, University of California - Berkeley. Real-time Gamma Ray Imaging with Planar HPGe DSS Detectors. Detection & Measurements <../docs/223.pdf>`
+* :download:`Andrew Cartas, University of Florida. Fabricating the Next Generation of Nuclear Fuel Utilizing Spark Plasma Sintering. Materials Science & Technology <../docs/168.pdf>`

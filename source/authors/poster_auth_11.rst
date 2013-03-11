@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Collins, Price
+Choi, HyeonJun
 --------------
 
-* :download:`Price Collins, The University of Tennessee, Knoxville. Fault Simulation for Integral Pressurized Water Reactors. Human Factors, Instrumentation & Controls <../docs/146.pdf>`
+* :download:`HyeonJun Choi, Hanyang University. Revisiting Adequacy of the Size of Emergency Planning Zone for Nuclear Power Plants. Radiation Protection & Shielding <../docs/247.pdf>`

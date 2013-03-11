@@ -3,4 +3,4 @@
 Trinuruk, Piyatida
 ------------------
 
-* :download:`Piyatida Trinuruk, Tokyo Institute of Technology. THE APPLICATION OF SIC COATING IN PRISMATIC HTGRS TO PREVENT ACCIDENTS CAUSED BY GRAPHITE OXIDATION. Reactor Physics <../docs/382.pdf>`
+* :download:`Piyatida Trinuruk, Tokyo Institute of Technology. The Application of SiC Coatling in Prismatic HTGRs To Prevent Accidents Caused by Graphite Oxidite. Reactor Physics <../docs/382.pdf>`

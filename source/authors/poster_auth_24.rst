@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Jeong, Uiju
------------
+Guion, Alexandre
+----------------
 
-* :download:`Uiju Jeong, Thermal Hydraulic Laboratory, department of nuclear engineering, Hanyang University, Republic of Korea. CFD analysis of liquid sodium flow in the vicinity of permanent magnet probe flow meter using fluent. Thermal Hydraulics/Fluids <../docs/176.pdf>`
+* :download:`Alexandre Guion, Massachusetts Institute of Technology. On the Liquid Microplayer Underneath a Vapor Bubble Growing at a Heated Wall. Thermal Hydraulics/Fluids <../docs/379.pdf>`

@@ -1,6 +1,7 @@
  :ref:`Back to Index <index>`
 
-Mart, Justin
-------------
+Moffitt, Gregory
+----------------
 
-* :download:`Justin Mart, Oregon State University. Feasibility Study on Soluble Boron-Free Operation in a Prototypical Small Modular Reactor through an Advanced Control Rod Algorithm. Operations & Power <../docs/316.pdf>`
+* :download:`Gregory Moffitt, University of Utah. MCNP5 Based Neutron Source Modeling for BNCT. Biology & Medicine <../docs/266.pdf>`
+* :download:`Gregory Moffitt, University of Utah. MCNPX Modeling of the Fast Neutron Beam at the University of Washington. Accelerator Applications <../docs/270.pdf>`

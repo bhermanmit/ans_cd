@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Maradia, Vivek
---------------
+Minser, Jesse
+-------------
 
-* :download:`Vivek Maradia, . ACCIDENT SEQUENCE MODELING FOR INDIAN FAST BREEDER  TEST REACTOR. Nuclear Criticality Safety <../docs/104.pdf>`
+* :download:`Jesse Minser, Idaho State University. Analysis of Synchrotron Radiation Diffraction Data on Experiments To Determine Phases and Microstructure of Zirconium Alloy Oxies. Materials Science & Technology <../docs/240.pdf>`

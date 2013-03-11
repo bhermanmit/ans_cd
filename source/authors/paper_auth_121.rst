@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Reinke, Benjamin
-----------------
+Romatoski, Rebecca R.
+---------------------
 
-* :download:`Benjamin Reinke, The Ohio State University. TEMPERATURE CONTROLLED CRYOSTAT FOR ELECTRICAL AND OPTICAL REACTOR IRRADIATION EXPERIMENTS. Materials Science & Technology <../docs/310.pdf>`
+* :download:`Rebecca R. Romatoski, Massachusetts Institute of Technology. Natural Circulation Liquid-Salt Loop Conceptual Design for the MIT Reactor. Thermal Hydraulics/Fluids <../docs/203.pdf>`

@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Devoe, Remy
------------
+Curtis, Daniel
+--------------
 
-* :download:`Remy Devoe, University of Tennessee. Characterization of Inorganic Scintillators With Synchrotron Radiation: Cerium Dopant Concentration Non-Uniformity From Czochralski Growth Process. Accelerator Applications <../docs/290.pdf>`
+* :download:`Daniel Curtis, Massachusetts Institute of Technology. Nuclear Shale Oil Development Reactor Arrays and System Effects. Operations & Power <../docs/226.pdf>`

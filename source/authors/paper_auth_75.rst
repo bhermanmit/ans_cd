@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Jacomb-Hood, Timothy
---------------------
+Kim, Hee Eun
+------------
 
-* :download:`Timothy Jacomb-Hood, Penn State University. UNRAVELING ENVIRONMENTAL CONTRIBUTIONS TO FALLOUT FORMATION. Nonproliferation & Nuclear Safeguards <../docs/149.pdf>`
+* :download:`Hee Eun Kim, Korea Advanced Institute of Science and Technology. An Approach To Evaluate the Safety Network Communication Reliability. Nuclear Installations Safety <../docs/263.pdf>`

@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-, Jesse
--------
+Armstrong, Hirotatsu
+--------------------
 
-* :download:`Jesse , Idaho State University. Zircaloy Abstract. Materials Science & Technology <../docs/240.pdf>`
+* :download:`Hirotatsu Armstrong, University of Texas at Austin. Modeling a Spanning Set of Active Interrogation Scenarios. Nonproliferation & Nuclear Safeguards <../docs/150.pdf>`

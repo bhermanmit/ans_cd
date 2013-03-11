@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Antweiler, Chris
-----------------
+Boyd, Will
+----------
 
-* :download:`Chris Antweiler, United States Military Academy. Nuclear Forensics: A Way Ahead for the U.S. and the International Community. Nonproliferation & Nuclear Safeguards <../docs/238.pdf>`
+* :download:`Will Boyd, Massachusetts Institute of Technology. Challenges and Opportunities for Massively Parallel Neutron Transport Calculations on GPUs. Mathematics & Computation <../docs/200.pdf>`

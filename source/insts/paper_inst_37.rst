@@ -1,8 +1,8 @@
  :ref:`Back to Index <index>`
 
-The Ohio State University
--------------------------
+University of Wisconsin - Madison
+---------------------------------
 
-* :download:`Tim Garcia, The Ohio State University. 4H-SiC Schottky diode alpha particle detectors for in-situ pyroprocessing safeguards. Detection & Measurements <../docs/324.pdf>`
-* :download:`Padhraic Mulligan, The Ohio State University. Fabrication and Characterization Of A Freestanding n-Type GaN Radiation Detector. Detection & Measurements <../docs/329.pdf>`
-* :download:`Benjamin Reinke, The Ohio State University. TEMPERATURE CONTROLLED CRYOSTAT FOR ELECTRICAL AND OPTICAL REACTOR IRRADIATION EXPERIMENTS. Materials Science & Technology <../docs/310.pdf>`
+* :download:`Thomas Eiden, University of Wisconsin - Madison. Get Out of the Way, NRC!. Policy <../docs/351.pdf>`
+* :download:`Kyoung M. Kang, University of Wisconsin - Madison. Computational Analysis for Ex-Vessel Quenching with Various Cavity Diameters and Core Melt Mass. Thermal Hydraulics/Fluids <../docs/140.pdf>`
+* :download:`Amanda Lang, University of Wisconsin - Madison. The Use of Freeze-Cast Scaffolds in Nuclear Fuel Design. Reactor Physics <../docs/182.pdf>`

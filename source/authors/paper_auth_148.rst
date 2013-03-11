@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Walker, Mark
-------------
+Verlie, Matthew
+---------------
 
-* :download:`Mark Walker, Princeton University. An Analysis of Technical and Administrative Issues with Radiation Portal Monitors at Seaports. Policy <../docs/204.pdf>`
+* :download:`Matthew Verlie, United States Military Academy. Optimization of a Delayed Neutron Detector Design. Detection & Measurements <../docs/323.pdf>`

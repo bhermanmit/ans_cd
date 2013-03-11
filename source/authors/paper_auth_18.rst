@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Avincola, Valentina
--------------------
+Brown, Samuel
+-------------
 
-* :download:`Valentina Avincola, KIT. Oxidation in steam and quenching of silicon carbide as cladding for nuclear power plants. Materials Science & Technology <../docs/217.pdf>`
+* :download:`Samuel Brown, University of Utah. Low-Activation Reinforced Concrete for Reducing the Volume of Low-Level Radioactive Waste in the U.S.A.. Decommissioning, Decontamination & Reutilization <../docs/208.pdf>`

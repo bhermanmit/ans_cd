@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Haugen, Carl
-------------
+Hraiz, Amal
+-----------
 
-* :download:`Carl Haugen, Massachusetts Institute of Technology. A Deterministic Method for Core Loading Analysis in LWRs. Fuel Cycle & Waste Management <../docs/378.pdf>`
+* :download:`Amal Hraiz, Khalifa University. 3-D Full Core Calculations of Westinghouse AP1000 Using WIMS/PARCS/SNAP Code System. Reactor Physics <../docs/193.pdf>`

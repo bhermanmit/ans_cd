@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Cartas, Andrew
---------------
+Dougherty, Conor
+----------------
 
-* :download:`Andrew Cartas, University of Florida. Fabricating the Next Generation of Nuclear Fuel Utilizing Spark Plasma Sintering. Materials Science & Technology <../docs/168.pdf>`
+* :download:`Conor Dougherty, United States Military Academy. Late Cloud Film Analysis: Determining Cloud Rise From Film. Mathematics & Computation <../docs/309.pdf>`

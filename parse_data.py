@@ -31,29 +31,27 @@ tracks      = {   '0': "Accelerator Applications",
                   '23': "Special Session: Radiochemistry"
               }
 
-headers = ['paper id', 'first name', 'last name', 'institution', 'track', 'title']
-title_t = "{1} {2}, {3}. {5}. {6}"
+#old_headers = ['paper id', 'first name', 'last name', 'institution', 'track', 'title']
+
+new_headers = "paper id, First Name, Last Name, Institution, Affiliation, Track, Podium?, title, Follow Up"
+
+
+title_t = "{1} {2}, {3}. {7}. {9}"
 
 def main():
 
   papers = []
   posters = []
 
-  inpapers = True
-
-  reader = csv.reader(open('data.csv','r'), delimiter=';')
+  reader = csv.reader(open('data_processed_final.csv','r'), delimiter=';')
   for row in reader:
-    if not row[0]: continue
-    if row[0] == "Posters":
-      inpapers = False
-      continue
-    if row[0] == "Papers" or row[0] == "paper id": continue
-    
-    row.append(tracks[row[4]])
+    if not row[0] or row[0] == "paper id": continue
+
+    row.append(tracks[row[5]])
     
     row  = [item.strip() for item in row]
     
-    if inpapers:
+    if row[6] == "1":
       papers.append(row+[title_t.format(*row)])
     else:
       posters.append(row+[title_t.format(*row)])
@@ -161,7 +159,7 @@ def make_docs(papers,prefix):
 .. toctree::
 
 """.format(title,'-'*len(title))
-  papers = sorted(papers, key=lambda x: x[5])
+  papers = sorted(papers, key=lambda x: x[2])
   for paper in papers:
     outstr += "* :download:`{0} <docs/{1}.pdf>`\n".format(paper[-1],paper[0])
   with open('source/{0}_title.rst'.format(prefix),'w') as fh:
@@ -192,7 +190,7 @@ def make_docs(papers,prefix):
 
 """.format(tracks[str(i)],'-'*len(tracks[str(i)]))
     for paper in papers:
-      if paper[4] == str(i):
+      if paper[5] == str(i):
         outstr += "* :download:`{0} <../docs/{1}.pdf>`\n".format(paper[-1],paper[0])
     with open('source/tracks/{1}_tr{0}.rst'.format(i,prefix),'w') as fh:
       fh.write(outstr)

@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Stempien, John
---------------
+Stout, Aaron
+------------
 
-* :download:`John Stempien, MIT. Coolant Chemistry and Materials Compatibility in the Fluoride Salt-Cooled High Temperature Reactor (FHR). Materials Science & Technology <../docs/243.pdf>`
+* :download:`Aaron Stout, United States Military Academy. Design of a Methodology to Calculate Radiation Protection Factors for Army Equipment Using MCNP. Radiation Protection & Shielding <../docs/249.pdf>`

@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Somma, William
+Steele, Dallin
 --------------
 
-* :download:`William Somma, Penn State University. THORIUM AS NUCLEAR FUEL: BENEFITS AND DRAWBACKS. Fuel Cycle & Waste Management <../docs/274.pdf>`
+* :download:`Dallin Steele, Idaho State University. Photonic Crystal Design for an In-Pile Real-Time Sensor. Materials Science & Technology <../docs/256.pdf>`

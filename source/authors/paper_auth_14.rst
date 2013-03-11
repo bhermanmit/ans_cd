@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Aldridge, Robert
-----------------
+Bogetic, Sandra
+---------------
 
-* :download:`Robert Aldridge, Oregon State University. Developement of RELAP5-3D Models of the MHTGR and HTTF To Be Used In Scaling Studies of the HTTF. Thermal Hydraulics/Fluids <../docs/179.pdf>`
+* :download:`Sandra Bogetic, Paul Scherrer Institute. Comparison of U.S. NRC PARCS Against Studsvik Simulate-3 Core Simulator for Modeling and Analysis of Swiss PWRs. Reactor Physics <../docs/268.pdf>`

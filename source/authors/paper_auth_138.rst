@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Steele, Dallin
+Stempien, John
 --------------
 
-* :download:`Dallin Steele, Idaho State University. Photonic Crystal Design for an In-Pile Real-Time Sensor. Mathematics & Computation <../docs/256.pdf>`
+* :download:`John Stempien, Massachusetts Institute of Technology. Coolant Chemistry and Materials Compatibility in the Fluoride Salt-Cooled High Temperature Reactor (FHR). Materials Science & Technology <../docs/243.pdf>`

@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Parson, Jenelle
----------------
+Pannier, Christopher
+--------------------
 
-* :download:`Jenelle Parson, Colorado State University. Dose Rate Profile Surrounding a Waste Repository. Radiation Protection & Shielding <../docs/161.pdf>`
+* :download:`Christopher Pannier, Texas A&M University. Point Reactor Kinetics Model of a Reactivity Oscillator in the Texas A&M AGN-201M Research Reactor. Reactor Physics <../docs/349.pdf>`

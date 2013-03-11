@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Ryan, Emerald
--------------
+Santora, Joseph
+---------------
 
-* :download:`Emerald Ryan, Idaho State University. Crystal Furnace Graphical Interface for Growth of Oxide Nuclear Fuel Materials. Mathematics & Computation <../docs/151.pdf>`
+* :download:`Joseph Santora, University of Utah. Viticulture Improvement Applicable to All Plants. Special Session: Radiochemistry <../docs/408.pdf>`

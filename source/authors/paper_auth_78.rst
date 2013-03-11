@@ -1,7 +1,6 @@
  :ref:`Back to Index <index>`
 
-Jensen, Jon
------------
+Kotlyar, Dan
+------------
 
-* :download:`Jon Jensen, Idaho Stae University. . Human Factors, Instrumentation & Controls <../docs/109.pdf>`
-* :download:`Jon Jensen, Idaho Stae University. . Nonproliferation & Nuclear Safeguards <../docs/108.pdf>`
+* :download:`Dan Kotlyar, Ben Gurion University. Comparison of Monte Carlo-Burnup-Thermal Hydraulic Coupling Schemes. Reactor Physics <../docs/187.pdf>`

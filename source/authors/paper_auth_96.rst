@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-M. Bergmann, Ryan
------------------
+McCulloch, Molly
+----------------
 
-* :download:`Ryan M. Bergmann, UC Berkeley. GPU RAY TRACING FOR MONTE CARLO NEUTRON TRANSPORT USING NVIDIA OPTIX. Mathematics & Computation <../docs/228.pdf>`
+* :download:`Molly McCulloch, Oregon State University. Design of Optimization of the Advanced Test Reactor Low Enrichment Fuel for Conversion. Reactor Physics <../docs/210.pdf>`

@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Adams
------
+ETH
+---
 
-* :download:`Tom , Adams. Optimization Of Tritium Source For Betavoltaic Power Sources. Materials Science & Technology <../docs/370.pdf>`
+* :download:`Lukas Schmidt, ETH. Investigations of Single Phase Turbulent Mixing with Stable Density Stratification. Thermal Hydraulics/Fluids <../docs/224.pdf>`

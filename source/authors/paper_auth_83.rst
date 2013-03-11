@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Kaplan, Alexis
---------------
+Lang, Amanda
+------------
 
-* :download:`Alexis Kaplan, University of Michigan. NEUTRON DETECTION THRESHOLD AND EFFICIENCY TRADEOFF IN A NONDESTRUCTIVE SPENT FUEL ASSAY INSTRUMENT. Nonproliferation & Nuclear Safeguards <../docs/248.pdf>`
+* :download:`Amanda Lang, University of Wisconsin - Madison. The Use of Freeze-Cast Scaffolds in Nuclear Fuel Design. Reactor Physics <../docs/182.pdf>`

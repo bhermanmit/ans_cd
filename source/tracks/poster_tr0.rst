@@ -3,4 +3,4 @@
 Accelerator Applications
 ------------------------
 
-* :download:`Remy Devoe, University of Tennessee. Characterization of Inorganic Scintillators With Synchrotron Radiation: Cerium Dopant Concentration Non-Uniformity From Czochralski Growth Process. Accelerator Applications <../docs/290.pdf>`
+* :download:`Remy Devoe, University of Tennessee. Characterization of Inorganic Scintillators with Synchrotron Radiation: Cerium Dopant Concentration Non-Uniformity from Czochralski Growth Process. Accelerator Applications <../docs/290.pdf>`

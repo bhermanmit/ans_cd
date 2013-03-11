@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-McCulloch, Molly
-----------------
+Noh, Siwan
+----------
 
-* :download:`Molly McCulloch, Oregon State University. DESIGN OPTIMIZATION OF THE ADVANCED TEST REACTOR LOW ENRICHMENT FUEL FOR CONVERSION. Reactor Physics <../docs/210.pdf>`
+* :download:`Siwan Noh, Hanyang University. Development of In Vitro Internal Dosimetry Methodology for Short-Lived Radioisotopes. Radiation Protection & Shielding <../docs/192.pdf>`

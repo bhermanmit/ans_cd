@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-, Haykel
---------
+Badza, Stefan
+-------------
 
-* :download:`Haykel , École Polytechnique de Montréal. DRAGON 3D SIMULATION OF SPATIAL SELF-SHIELDING EFFECT IN SAMPLE IRRADIATED IN SLOWPOKE-2 REACTOR. Reactor Physics <../docs/348.pdf>`
+* :download:`Stefan Badza, Universtiy of Utah. Neutron Activation Analysis of Californian and Japanese Rice. Environmental Sciences <../docs/302.pdf>`

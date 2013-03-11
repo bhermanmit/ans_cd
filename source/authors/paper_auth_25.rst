@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Boyd, Will
-----------
+Curtis, Daniel
+--------------
 
-* :download:`Will Boyd, MIT. Challenges and Opportunities for Massively Parallel Neutron Transport Calculations on GPUs. Mathematics & Computation <../docs/200.pdf>`
+* :download:`Daniel Curtis, Massachusetts Institute of Technology. Nuclear Air-Brayton Combined Cycle for Increased Nuclear Plant Revenue. Operations & Power <../docs/214.pdf>`

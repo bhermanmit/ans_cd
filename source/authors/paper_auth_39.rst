@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-David Verlie, Matthew
----------------------
+Fudurich, Valerie
+-----------------
 
-* :download:`Matthew David Verlie, United States Military Academy. Optimization of a Delayed Neutron Detector Design. Detection & Measurements <../docs/323.pdf>`
+* :download:`Valerie Fudurich, Pennsylvania State University. Food Irradiation: The Future of Food Safety. Isotopes & Radiation <../docs/155.pdf>`

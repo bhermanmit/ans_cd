@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Jo, HangJin
------------
+Kuzmin, Gleb
+------------
 
-* :download:`HangJin Jo, POSTECH. Pool boiling on hydrophilic and hydrophobic nano/microstructure with different wetting surfaces. Thermal Hydraulics/Fluids <../docs/251.pdf>`
+* :download:`Gleb Kuzmin, University of Texas at Austin. Minimizing Sample Sizes While Achieving Accurate Elementral Concentrations in Neutron Activation Analysis of Precious Pottery. Detection & Measurements <../docs/340.pdf>`

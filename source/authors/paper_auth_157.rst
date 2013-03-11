@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Yoo, Min
---------
+Wolfson, Matthew
+----------------
 
-* :download:`Min Yoo, KAIST. HARNESS DESIGN FOR THE IMPROVEMENT OF TRANSMITTER SURVIVABILITY IN A SEVERE ACCIDENT. Nuclear Installations Safety <../docs/357.pdf>`
+* :download:`Matthew Wolfson, Pennsylvania State University. MCNP-ORIGEN2 Open Source Interface. Fuel Cycle & Waste Management <../docs/287.pdf>`

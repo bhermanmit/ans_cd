@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Noh, Siwan
-----------
+Patel, Rita
+-----------
 
-* :download:`Siwan Noh, Hanyang Univ.. Development of In Vitro Internal Dosimetry Methodology for Short-Lived Radioisotopes. Radiation Protection & Shielding <../docs/192.pdf>`
+* :download:`Rita Patel, University of Pittsburgh. Creation of a Coursera Course in Nuclear Science and Technology. Education, Training & Workforce Development <../docs/147.pdf>`

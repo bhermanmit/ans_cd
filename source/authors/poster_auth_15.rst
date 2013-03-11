@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Don, Sarah
-----------
+Devoe, Remy
+-----------
 
-* :download:`Sarah Don, MIT. "Surface Analysis of Materials Test Reactor Cladding". Thermal Hydraulics/Fluids <../docs/396.pdf>`
+* :download:`Remy Devoe, University of Tennessee. Characterization of Inorganic Scintillators with Synchrotron Radiation: Cerium Dopant Concentration Non-Uniformity from Czochralski Growth Process. Accelerator Applications <../docs/290.pdf>`

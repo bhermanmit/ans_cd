@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Suzuki, Erika
--------------
+Swan, David C.
+--------------
 
-* :download:`Erika Suzuki, University of California, Berkeley. The Three Stage Proposal. Policy <../docs/289.pdf>`
+* :download:`David C. Swan, North Carolina State University. Design of a Next-Generation Neutron Multiplicity Counter Independent of Helium-3. Detection & Measurements <../docs/338.pdf>`

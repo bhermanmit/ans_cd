@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Kang, Kyoungmin
----------------
+Lane, Taylor
+------------
 
-* :download:`Kyoungmin Kang, University of Wisconsin-Madison. Computational Analysis for Ex-Vessel Quenching with Various Cavity Diameters and Core Melt Mass. Thermal Hydraulics/Fluids <../docs/140.pdf>`
+* :download:`Taylor Lane, Texas A&M University. Self-Similar Radiation-Hydrodynamics Solutions in the Equilibrium Diffusion Limit. Mathematics & Computation <../docs/288.pdf>`

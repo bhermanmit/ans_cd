@@ -1,7 +1,6 @@
  :ref:`Back to Index <index>`
 
-Bates, Ethan
-------------
+Chaczko, Malwina
+----------------
 
-* :download:`Ethan Bates, MIT. Onset and Stability of Natural Convection in Deep Boreholes. Fuel Cycle & Waste Management <../docs/308.pdf>`
-* :download:`Ethan Bates, MIT. RADIOLOGICAL IMPLICATIONS OF EXTENDED STORAGE OF SPENT NUCLEAR FUEL. Fuel Cycle & Waste Management <../docs/306.pdf>`
+* :download:`Malwina Chaczko, Idaho State University. Cerium Oxide Crystal Growth with High Frequency Induction Furnace. Materials Science & Technology <../docs/160.pdf>`

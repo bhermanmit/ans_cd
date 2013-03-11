@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Anand Vadlamani, Ram
---------------------
+Borza, Greg
+-----------
 
-* :download:`Ram Anand Vadlamani, Purdue University. An Experimental Study of Subcooled Choked Flow Through Simulated Steam Generator Tube Cracks. Thermal Hydraulics/Fluids <../docs/253.pdf>`
+* :download:`Greg Borza, Pennsylvania State University. Recycling of Nuclear Fuel to Improve Resource Utilization and Reduce Waste. Fuel Cycle & Waste Management <../docs/295.pdf>`

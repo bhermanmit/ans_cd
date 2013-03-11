@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Curtis, Daniel
---------------
+Forrest, Eric
+-------------
 
-* :download:`Daniel Curtis, Massachusetts Institute of Technology. NUCLEAR AIR-BRAYTON COMBINED CYCLE FOR INCREASED NUCLEAR PLANT REVENUE. Operations & Power <../docs/214.pdf>`
+* :download:`Eric Forrest, Massachusetts Institute of Technology. Experimental Study of Turbulent Single-Phase Heat Transfer in a Prototypic Materials Test Reactor Coolant Channel. Thermal Hydraulics/Fluids <../docs/404.pdf>`

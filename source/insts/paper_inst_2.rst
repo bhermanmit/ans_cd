@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Ben Gurion University
----------------------
+Federal University of Rio de Janeiro
+------------------------------------
 
-* :download:`Dan Kotlyar, Ben Gurion University. Comparison of Monte Carlo-Burnup-Thermal Hydraulic Coupling Schemes. Reactor Physics <../docs/187.pdf>`
+* :download:`Alice Cunha da Silva, Federal University of Rio de Janeiro. Analysis of Transient Heat Conduction In a Heterogeneous Spherical Fuel Element. Thermal Hydraulics/Fluids <../docs/158.pdf>`

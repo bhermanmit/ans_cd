@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Brown, Emory
-------------
+Boulton, Nick
+-------------
 
-* :download:`Emory Brown, University of New Mexico. Pre-conceptual Design Concept of a Co-Located Component Testing and Plant Health Optimization Facility for a Commercial FHR. Operations & Power <../docs/277.pdf>`
+* :download:`Nick Boulton, Oregon State University. Quasi Steady-State Analysis of Mars Hopper Concept. Aerospace Nuclear Science & Technology <../docs/293.pdf>`

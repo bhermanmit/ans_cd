@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Howard, Trevor
---------------
+Kang, Kyoung M.
+---------------
 
-* :download:`Trevor Howard, Oregon State University. Computational Fluid Dynamics Analysis of Vortex Shedding Between Inline Plates. Thermal Hydraulics/Fluids <../docs/335.pdf>`
+* :download:`Kyoung M. Kang, University of Wisconsin - Madison. Computational Analysis for Ex-Vessel Quenching with Various Cavity Diameters and Core Melt Mass. Thermal Hydraulics/Fluids <../docs/140.pdf>`

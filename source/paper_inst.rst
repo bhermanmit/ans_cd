@@ -45,28 +45,3 @@ Papers - First Author's Institution
     insts/paper_inst_37
     insts/paper_inst_38
     insts/paper_inst_39
-    insts/paper_inst_40
-    insts/paper_inst_41
-    insts/paper_inst_42
-    insts/paper_inst_43
-    insts/paper_inst_44
-    insts/paper_inst_45
-    insts/paper_inst_46
-    insts/paper_inst_47
-    insts/paper_inst_48
-    insts/paper_inst_49
-    insts/paper_inst_50
-    insts/paper_inst_51
-    insts/paper_inst_52
-    insts/paper_inst_53
-    insts/paper_inst_54
-    insts/paper_inst_55
-    insts/paper_inst_56
-    insts/paper_inst_57
-    insts/paper_inst_58
-    insts/paper_inst_59
-    insts/paper_inst_60
-    insts/paper_inst_61
-    insts/paper_inst_62
-    insts/paper_inst_63
-    insts/paper_inst_64

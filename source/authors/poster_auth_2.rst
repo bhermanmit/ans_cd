@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Amos, David
------------
+Aryal, Harishchandra
+--------------------
 
-* :download:`David Amos, University of Houston - Downtown. A Quantum Mechanical Study of Ce(IV)-tetrakis(chatecolato) as a Model for Pu(IV)-tetrakis(chatecholato). Materials Science & Technology <../docs/185.pdf>`
+* :download:`Harishchandra Aryal, Idaho State University. Whale System Design. Aerospace Nuclear Science & Technology <../docs/385.pdf>`

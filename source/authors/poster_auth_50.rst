@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Tahhan, Antonio
----------------
+Styron, Jedediah
+----------------
 
-* :download:`Antonio Tahhan, Idaho State University. The Hydrogen Economy. Environmental Sciences <../docs/402.pdf>`
+* :download:`Jedediah Styron, University of New Mexico. Review of the Thorium Fuel Cycle and Its Higher Burn-up Capabilities in Future PWR Designs. Operations & Power <../docs/354.pdf>`

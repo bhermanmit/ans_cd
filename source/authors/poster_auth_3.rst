@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Antweiler, Chris
-----------------
+Ayers, Lauren
+-------------
 
-* :download:`Chris Antweiler, United States Military Academy. Material Optimization of Dry Cask Storage Systems: A Comparison of Attenuation Coefficients in Ultra High Performance Concrete. Radiation Protection & Shielding <../docs/269.pdf>`
+* :download:`Lauren Ayers, Massachusetts Institute of Technology. Evaluating Equipotential Switching Direct Current Potential Drop as an Online Pipe Monitoring Technique. Materials Science & Technology <../docs/271.pdf>`

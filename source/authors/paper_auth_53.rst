@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Galegar, Natalie
-----------------
+Harter, Jackson
+---------------
 
-* :download:`Natalie Galegar, Texas A&M University. . Thermal Hydraulics/Fluids <../docs/173.pdf>`
+* :download:`Jackson Harter, Oregon State University. Verification of Burnup-Depletion Results for Vented Nuclear Fuel in MCNPX Using ORIGEN-ARP. Reactor Physics <../docs/386.pdf>`

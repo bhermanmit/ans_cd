@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Yurko, Joseph
--------------
+Yoo, Min
+--------
 
-* :download:`Joseph Yurko, MIT. GAUSSIAN PROCESS EMULATORS FOR BAYESIAN CALIBRATION USING SEPARATE AND INTEGRAL EFFECT TEST DATA. Thermal Hydraulics/Fluids <../docs/401.pdf>`
+* :download:`Min Yoo, Korea Advanced Institute of Science and Technology. Harness Design for the Improvement of Transmitter Survivability in a Severe Accident. Nuclear Installations Safety <../docs/357.pdf>`

@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Shapiro, Rachel
----------------
+Shin, Sungmin
+-------------
 
-* :download:`Rachel Shapiro, The Pennsylvania State University. Optimization of Boron Distribution in ORNL High Flux Isotope Reactor LEU Core. Reactor Physics <../docs/177.pdf>`
+* :download:`Sungmin Shin, Korea Advanced Institute of Science and Technology. Monitoring Method Development for Safety Component on Standby State. Nuclear Installations Safety <../docs/215.pdf>`

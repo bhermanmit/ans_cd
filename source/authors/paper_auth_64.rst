@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Herman, Christopher
--------------------
+Huddar, Lakshana
+----------------
 
-* :download:`Christopher Herman, North Carolina State University. REACTIVITY DEFECT BENCHMARKING OF THE OPENMC MONTE CARLO TRANSPORT CODE. Reactor Physics <../docs/377.pdf>`
+* :download:`Lakshana Huddar, University of California - Berkeley. Investigation of Natural Convection Heat Transfer in Fluoride Salts Using Simulant Fluids. Thermal Hydraulics/Fluids <../docs/333.pdf>`

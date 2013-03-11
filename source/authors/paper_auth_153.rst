@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Williams, Walter
-----------------
+Weier, Angela
+-------------
 
-* :download:`Walter Williams, Oregon State University. NEUTRON RADIOGRAPHY AND TOMOGRAPHY: DETERMINING AND OPTIMIZING RESOLUTION OF NEUTRON SENSITIVE MCP DETECTORS. Detection & Measurements <../docs/152.pdf>`
+* :download:`Angela Weier, University of Wisconsin. Calibration and Quality Assurance and Uses of Planar Brachytherapy Sources. Biology & Medicine <../docs/254.pdf>`

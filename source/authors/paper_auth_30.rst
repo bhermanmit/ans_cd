@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Campbell, Keri
---------------
+DiSanzo, Christian
+------------------
 
-* :download:`Keri Campbell, University of Nevada Las Vegas. Laser Ablation of Actinide Oxides. Special Session: Radiochemistry <../docs/181.pdf>`
+* :download:`Christian DiSanzo, University of California - Berkeley. Minimum Volume of Breed and Burn Cores. Reactor Physics <../docs/369.pdf>`

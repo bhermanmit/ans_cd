@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Franklin, Andrew
+Gurecky, William
 ----------------
 
-* :download:`Andrew Franklin, Texas A&M. Visualization of RELAP5-3D: Multi-Dimensional Components. Thermal Hydraulics/Fluids <../docs/276.pdf>`
+* :download:`William Gurecky, University of Texas at Austin. A Jet Modeling Framework Relevant to LOCA Analysis. Thermal Hydraulics/Fluids <../docs/220.pdf>`

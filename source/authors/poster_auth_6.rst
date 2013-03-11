@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Belsterling, Philip
--------------------
+Boron-Brenner, Lucas
+--------------------
 
-* :download:`Philip Belsterling, Oregon State University. Reactor Clad Types and Failure Mechanisms. Materials Science & Technology <../docs/353.pdf>`
+* :download:`Lucas Boron-Brenner, University of Nevada - Las Vegas. Scandium and Titanium Adsorption Data Studies Using Eicrhom's Ln Resin Under Hydrochloric, Nitric, and Sulfuric Acid Conditions. Special Session: Radiochemistry <../docs/345.pdf>`

@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Gyung Kim, Bo
--------------
+Horelik, Nicholas
+-----------------
 
-* :download:`Bo Gyung Kim, Korea Advanced Institute of Science and Technology (KAIST). CONCEPTUAL DESIGN SUGGESTION OF OPERATOR SUPPORT AND AUTOMATED SYSTEM FOR REDUCING HUMAN ERROR IN NUCLEAR POWER PLANTS. Human Factors, Instrumentation & Controls <../docs/242.pdf>`
+* :download:`Nicholas Horelik, Massachusetts Institute of Technology. Benchmark for Evaluation And Validation of Reactor Simulations (BEAVRS). Mathematics & Computation <../docs/273.pdf>`

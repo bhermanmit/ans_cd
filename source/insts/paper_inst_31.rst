@@ -1,8 +1,6 @@
  :ref:`Back to Index <index>`
 
-RISE Complex, Idaho State University
-------------------------------------
+University of Pisa
+------------------
 
-* :download:`Daniel Isaacs, RISE Complex, Idaho State University. Construction of a Large Volume Glovebox for Work with Uranium. Radiation Protection & Shielding <../docs/163.pdf>`
-* :download:`Scott McBeath, RISE Complex, Idaho State University. MCNP Simulation of a Shielding Enclosure for a Cargo Interrogation System. Nonproliferation & Nuclear Safeguards <../docs/148.pdf>`
-* :download:`Scott McBeath, RISE Complex, Idaho State University. Production of NanoVision Sensors via Focused Ion Beam Milling. Fuel Cycle & Waste Management <../docs/166.pdf>`
+* :download:`Francesco Pedretti, University of Pisa. Ideas for the Definition of the Heat Transfer Surface. Thermal Hydraulics/Fluids <../docs/138.pdf>`

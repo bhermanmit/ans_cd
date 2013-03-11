@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Sweet, Ryan
------------
+Stribling, Steven
+-----------------
 
-* :download:`Ryan Sweet, University of Tennessee. Helium Bubble Formation in Plasma Facing Surfaces for Fusion Applications. Fusion Energy & Plasmas <../docs/328.pdf>`
+* :download:`Steven Stribling, University of Tennessee. A Methodology of Investigating Resources for Illicit Trafficking of Radiological and Nuclear Materials at International Crossings. Nonproliferation & Nuclear Safeguards <../docs/262.pdf>`

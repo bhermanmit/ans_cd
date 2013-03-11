@@ -1,7 +1,6 @@
  :ref:`Back to Index <index>`
 
-Garcia, Diego
--------------
+Herman, Christopher
+-------------------
 
-* :download:`Diego Garcia, University of Florida. PERFORMANCE ANALYSIS AND FABRICATION OF PARES BASED NUCLEAR BATTERY FOR MEMS APPLICATIONS. Isotopes & Radiation <../docs/234.pdf>`
-* :download:`Diego Garcia, University of Florida. . Education, Training & Workforce Development <../docs/237.pdf>`
+* :download:`Christopher Herman, North Carolina State University. Reactivity Defect Benchmarking of the OpenMC Monte Carlo Transport Code. Reactor Physics <../docs/377.pdf>`

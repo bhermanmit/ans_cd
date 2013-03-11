@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Garcia, Tim
------------
+Herman, Bryan
+-------------
 
-* :download:`Tim Garcia, The Ohio State University. 4H-SiC Schottky diode alpha particle detectors for in-situ pyroprocessing safeguards. Detection & Measurements <../docs/324.pdf>`
+* :download:`Bryan Herman, Massachusetts Institute of Technology. Accelerated Fission Source Convergence of OpenMC using Nonlinear Diffusion Methods. Mathematics & Computation <../docs/384.pdf>`

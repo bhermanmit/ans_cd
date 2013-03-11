@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Styron, Jedediah
-----------------
+Suzuki, Erika
+-------------
 
-* :download:`Jedediah Styron, University of New Mexico. Beryllium/Scintillator Layer Detector. Detection & Measurements <../docs/250.pdf>`
+* :download:`Erika Suzuki, University of California - Berkeley. The Three-Stage Proposal: Establishing an International Nuclear Forensics Database. Policy <../docs/289.pdf>`

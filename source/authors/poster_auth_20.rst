@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Green, Hailey
+Fray, Elliott
 -------------
 
-* :download:`Hailey Green, University of Tennessee. Studies of Neutron Transport on Lunar Bases. Radiation Protection & Shielding <../docs/279.pdf>`
+* :download:`Elliott Fray, Massachusetts Institute of Technology. Materials Testing and Development of Functionally Graded Composite Fuel Cladding and Piping for the Lead-Bismuth Cooled Nuclear Reactor. Materials Science & Technology <../docs/326.pdf>`

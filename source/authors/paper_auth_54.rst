@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Gao, Yiming
------------
+Haugen, Carl
+------------
 
-* :download:`Yiming Gao, Rensselaer Polytechnic Institute. TUBE CURRENT MODULATED COMPUTED TOMOGRAPHY SIMULATION AND DOSE CALCULATION WITH MONTE CARLO METHOD. Biology & Medicine <../docs/283.pdf>`
+* :download:`Carl Haugen, Massachusetts Institute of Technology. A Deterministic Method for Core Loading Analysis in LWRs. Fuel Cycle & Waste Management <../docs/378.pdf>`

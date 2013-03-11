@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Block, Matthew
+Cook, Molly C.
 --------------
 
-* :download:`Matthew Block, The Pennsylvania State University. The Effect of Radiation Exposure During a 6-Month CubeSat Mission. Radiation Protection & Shielding <../docs/174.pdf>`
+* :download:`Molly C. Cook, Georgia Institute of Technology. Using Social Media to Brand and Promote a Student Section. Student Sections Activities <../docs/285.pdf>`

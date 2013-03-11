@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Zieb, Kristofer
----------------
+Yurko, Joseph
+-------------
 
-* :download:`Kristofer Zieb, Oregon State University. Optimal PID Tuning in Coupled Flow Rate-Pressure Control System at the Oregon State Hydro-Mechanical Fuel Test Facility. Human Factors, Instrumentation & Controls <../docs/342.pdf>`
+* :download:`Joseph Yurko, Massachusetts Institute of Technology. Gaussian Process Emulators for Bayesian Calibration Using Separate and Integral Effect Test Data. Thermal Hydraulics/Fluids <../docs/401.pdf>`

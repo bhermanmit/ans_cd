@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Phillips, Bren
---------------
+Riley, Michael P.
+-----------------
 
-* :download:`Bren Phillips, MIT. NUCLEATION SITE DENSITY, BUBBLE DEPARTURE DIAMETER,WAIT TIME AND LOCAL TEMPERATURE DISTRIBUTION IN SUBCOOLED FLOW BOILING OF WATER AT ATMOSPHERIC PRESSURE. Thermal Hydraulics/Fluids <../docs/180.pdf>`
+* :download:`Michael P. Riley, Pennsylvania State University. Correlation for the Prediction of Nucleate Boiling Heat Flux on a Downward Facing Hemispherical Surface During a Severe Accident. Thermal Hydraulics/Fluids <../docs/128.pdf>`

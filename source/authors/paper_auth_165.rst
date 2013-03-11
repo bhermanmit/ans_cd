@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-jiao, hong
-----------
+de Guzman, Gian
+---------------
 
-* :download:`hong jiao, Rensselaer Polytechnic Institute. MODELING AND ANALYSIS OF THERMAL PHENOMENA GOVERNING BUBBLE GROWTH AND COLLAPSE IN SUBCOOLED BOILING. Thermal Hydraulics/Fluids <../docs/298.pdf>`
+* :download:`Gian de Guzman, Idaho State University. What are the Risks and Benefits of Accelerated Spent Fuel Transfer?. Fuel Cycle & Waste Management <../docs/130.pdf>`

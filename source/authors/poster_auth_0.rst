@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-, Nicholas
-----------
+Amos, David
+-----------
 
-* :download:`Nicholas , Wozniak. Photoreduction Synthesis of U (IV) Organophosphate Nanoparticles from Uranyl Perchlorate. Special Session: Radiochemistry <../docs/219.pdf>`
+* :download:`David Amos, University of Houston - Downtown. A Quantum Mechanical Study of Ce(IV)-tetrakis(chatecolato) as a Model for Pu(IV)-tetrakis(chatecholato). Materials Science & Technology <../docs/185.pdf>`

@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Jeong, Sol
-----------
+Kuntawala, Jitesh
+-----------------
 
-* :download:`Sol Jeong, Hanyang University, Seoul. Dose Evaluation in Accidental Release of Tritium Gas with Consideration of Tritiated Water Vapor Oxidized in Soil. Radiation Protection & Shielding <../docs/311.pdf>`
+* :download:`Jitesh Kuntawala, University of Florida. Computational Shielding and Dose Analysis for Student Common Areas Due to a D-D Neutron Generator. Radiation Protection & Shielding <../docs/320.pdf>`

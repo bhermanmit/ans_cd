@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-, Amal
-------
+Aldridge, Robert
+----------------
 
-* :download:`Amal , Khalifa University. 3-D FULL-CORE CALCULATIONS OF WESTINGHOUSE AP1000 USING WIMS/PARCS/SNAP CODE SYSTEM. Accelerator Applications <../docs/193.pdf>`
+* :download:`Robert Aldridge, Oregon State University. Development of RELAP5-3D Models of the MHTGR and HTTF To Be Used In Scaling Studies of the HTTF. Thermal Hydraulics/Fluids <../docs/179.pdf>`

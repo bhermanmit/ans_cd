@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-RPI
----
+University of Pittsburgh
+------------------------
 
-* :download:`Dillon Shaver, RPI. MODEL DEVELOPMENT FOR LARGE-SCALE NUCLEAR POWER REACTOR SIMULATIONS. Thermal Hydraulics/Fluids <../docs/313.pdf>`
+* :download:`Rita Patel, University of Pittsburgh. Creation of a Coursera Course in Nuclear Science and Technology. Education, Training & Workforce Development <../docs/147.pdf>`

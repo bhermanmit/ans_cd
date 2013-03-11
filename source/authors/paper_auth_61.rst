@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Harris, Jeff
-------------
+Horkley, Matthew
+----------------
 
-* :download:`Jeff Harris, Utah State University. SINGLE PHASE FORCED CONVECTION VALIDATION AND SIMULATION. Thermal Hydraulics/Fluids <../docs/162.pdf>`
+* :download:`Matthew Horkley, Idaho State University. Nuclear Proliferation Resistant Aqueous Reprocessing Methods. Nonproliferation & Nuclear Safeguards <../docs/233.pdf>`

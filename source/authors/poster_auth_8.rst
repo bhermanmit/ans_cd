@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Car IV, James
--------------
+Brown, Emory
+------------
 
-* :download:`James Car IV, Virginia Commonwealth University. TECHNIQUES TO IMPROVE THE CORROSION RESISTANCE OF METALS. Materials Science & Technology <../docs/291.pdf>`
+* :download:`Emory Brown, University of New Mexico. Pre-conceptual Design Concept of a Co-Located Component Testing and Plant Health Optimization Facility for a Commercial FHR. Operations & Power <../docs/277.pdf>`

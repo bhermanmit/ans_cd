@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Cross, Brent
-------------
+Collins, Price
+--------------
 
-* :download:`Brent Cross, University of Illinois at Urbana-Champaign. Increasing X-Ray fluorescence emission tomography (XFCT) speed with novel geometries. Biology & Medicine <../docs/317.pdf>`
+* :download:`Price Collins, University of Tennessee. Fault Simulation for Integral Pressurized Water Reactors. Human Factors, Instrumentation & Controls <../docs/146.pdf>`

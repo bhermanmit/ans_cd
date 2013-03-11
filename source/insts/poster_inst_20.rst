@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-University of Florida
----------------------
+Virginia Commonwealth University
+--------------------------------
 
-* :download:`Pablo Vaquer, University of Florida. A LOW TEMPERATURE GAS REACTOR WITH VASIMR THRUSTERS FOR NEAR-TERM INTERPLANTARY TRAVEL. Aerospace Nuclear Science & Technology <../docs/352.pdf>`
+* :download:`James Car IV, Virginia Commonwealth University. Techniques To Improve the Corrosion Resistance of Metals. Materials Science & Technology <../docs/291.pdf>`

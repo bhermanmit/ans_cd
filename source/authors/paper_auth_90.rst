@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Lane, Taylor
-------------
+Majcher, Amanda
+---------------
 
-* :download:`Taylor Lane, Texas A&M University. Self-Similar Radiation-Hydrodynamics Solutions in the Equilibrium Diffusion Limit. Fusion Energy & Plasmas <../docs/288.pdf>`
+* :download:`Amanda Majcher, Pennsylvania State University. Importance of Doping in Graphene Field Effect Transistors for Alpha Particle Detection. Materials Science & Technology <../docs/171.pdf>`

@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Eiden, Thomas
--------------
+Garcia, Tim
+-----------
 
-* :download:`Thomas Eiden, UW-Madison. TEidenMIT. Policy <../docs/351.pdf>`
+* :download:`Tim Garcia, Ohio State University. 4H-SiC Schottky Diode Alpha Particle Detectors for In-situ Pyroprocessing Safeguards. Detection & Measurements <../docs/324.pdf>`

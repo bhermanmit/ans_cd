@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Harter, Jackson
----------------
+Howard, Trevor
+--------------
 
-* :download:`Jackson Harter, Oregon State University. Verification of Burnup-Depletion Results for Vented Nuclear Fuel in MCNPX Using ORIGEN-ARP. Isotopes & Radiation <../docs/386.pdf>`
+* :download:`Trevor Howard, Oregon State University. Computational Fluid Dynamics Analysis of Vortex Shedding Between Inline Plates. Thermal Hydraulics/Fluids <../docs/335.pdf>`

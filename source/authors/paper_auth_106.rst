@@ -1,7 +1,6 @@
  :ref:`Back to Index <index>`
 
-Moffitt, Gregory
-----------------
+Painter, Daniel
+---------------
 
-* :download:`Gregory Moffitt, University of Utah. MCNP5 Based Neutron Source Modeling for BNCT. Biology & Medicine <../docs/266.pdf>`
-* :download:`Gregory Moffitt, University of Utah. MCNPX modeling of the fast neutron beam at the University of Washington. Accelerator Applications <../docs/270.pdf>`
+* :download:`Daniel Painter, University of Utah. Analysis of City Grown Bing Cherry Trees Using Neutron Activation Analysis. Environmental Sciences <../docs/368.pdf>`

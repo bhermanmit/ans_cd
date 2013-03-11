@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Phan, Nam
----------
+Parson, Jenelle
+---------------
 
-* :download:`Nam Phan, Purdue University. Evaluating a Riemann Problem in TFIT as Vertical Two-Phase Bubbly Flow. Thermal Hydraulics/Fluids <../docs/195.pdf>`
+* :download:`Jenelle Parson, Colorado State University. Dose Rate Profile Surrounding a Waste Repository. Radiation Protection & Shielding <../docs/161.pdf>`

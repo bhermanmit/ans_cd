@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Fudurich, Valerie
------------------
+Harris, Jeff
+------------
 
-* :download:`Valerie Fudurich, The Pennsylvania State University. Food Irradiation: The Future of Food Safety. Isotopes & Radiation <../docs/155.pdf>`
+* :download:`Jeff Harris, Utah State University. Single Phase Forced Convection Validation and Simulation. Thermal Hydraulics/Fluids <../docs/162.pdf>`

@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Rehal, Jaspreet
+Rockman, Joshua
 ---------------
 
-* :download:`Jaspreet Rehal, University of Illinois at Urbana-Champaign. SEE RADS Design Brief. Detection & Measurements <../docs/206.pdf>`
+* :download:`Joshua Rockman, Pennsylvania State University. Operation Crossroads: An Historical Review into the World's First Case of Widespread Radioactive Contamination. Detection & Measurements <../docs/194.pdf>`

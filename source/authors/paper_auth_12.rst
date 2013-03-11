@@ -1,7 +1,6 @@
  :ref:`Back to Index <index>`
 
-Adam Malachosky, Christopher
-----------------------------
+Bergmann, Ryan M.
+-----------------
 
-* :download:`Christopher Adam Malachosky, United States Military Academy. X-Ray Fluorescence Laboratory. Education, Training & Workforce Development <../docs/334.pdf>`
-* :download:`Christopher Adam Malachosky, United States Military Academy. Optical Flash Blindness. Nonproliferation & Nuclear Safeguards <../docs/336.pdf>`
+* :download:`Ryan M. Bergmann, University of California - Berkeley. GPU Ray Tracing for Monte Carlo Neutron Transport Using NVIDIA OptiX. Mathematics & Computation <../docs/228.pdf>`

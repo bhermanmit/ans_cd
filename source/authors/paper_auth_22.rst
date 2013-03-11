@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Bene, Balazs
-------------
+Clerc, Thomas
+-------------
 
-* :download:`Balazs Bene, University of Nevada, Las Vegas. PREPARATIVE SCALE SEPARATION OF NEIGHBORING LANTHANIDES FOR NEUTRON CAPTURE CROSS-SECTION MEASUREMENT. Special Session: Radiochemistry <../docs/360.pdf>`
+* :download:`Thomas Clerc, Polytechnique Montreal. Presentation of the MERC Work-flow for the Computation of a 2D Radial Reflector in a PWR. Mathematics & Computation <../docs/156.pdf>`

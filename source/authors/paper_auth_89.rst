@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Lafreniere, Philip
-------------------
+Maginot, Peter
+--------------
 
-* :download:`Philip Lafreniere, University of New Mexico. Natural Circulation Cooled, 80 MWt Small Modular PWR. Operations & Power <../docs/341.pdf>`
+* :download:`Peter Maginot, Texas A&M University. Effects of Cross Section Discretization on Pointwise Interaction Rates and Spatial Convergence Rates in Discrete Ordinates DFEM Transport Calculations. Mathematics & Computation <../docs/299.pdf>`

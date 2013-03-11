@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Kristo, Paul
+Hill, Jordan
 ------------
 
-* :download:`Paul Kristo, University of Pittsburgh. CTA Calibration Procedure For Use With Heated Flows. Thermal Hydraulics/Fluids <../docs/231.pdf>`
+* :download:`Jordan Hill, Pennsylvania State University. ONKALO: A Look at the First Spent Nuclear Fuel Geological Repository. Fuel Cycle & Waste Management <../docs/165.pdf>`

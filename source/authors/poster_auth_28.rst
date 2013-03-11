@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-M. Boulton, Nicholas
---------------------
+Kristo, Paul
+------------
 
-* :download:`Nicholas M. Boulton, Oregon State University. Quasi Steady-State Analysis of Mars Hopper Concept. Aerospace Nuclear Science & Technology <../docs/293.pdf>`
+* :download:`Paul Kristo, University of Pittsburgh. Design of a Constant Temperature Anemometer Calibration Procedure for Use with Heated Flows. Thermal Hydraulics/Fluids <../docs/231.pdf>`

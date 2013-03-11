@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-gosdin, chris
+Vaquer, Pablo
 -------------
 
-* :download:`chris gosdin, The Pennsylvania State University. Revision  To Spadaccini_Gosdin_ANSabstract. Operations & Power <../docs/142.pdf>`
+* :download:`Pablo Vaquer, University of Florida. A Low Temperature Gas Reactor with VASIMR Thursters for Near-Term Interplanetary Travel. Aerospace Nuclear Science & Technology <../docs/352.pdf>`

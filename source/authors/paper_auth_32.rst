@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Chaczko, Malwina
-----------------
+Eiden, Thomas
+-------------
 
-* :download:`Malwina Chaczko, Idaho State University. CERIUM OXIDE CRYSTAL GROWTH WITH HIGH FREQUENCY INDUCTION FURNACE. Materials Science & Technology <../docs/160.pdf>`
+* :download:`Thomas Eiden, University of Wisconsin - Madison. Get Out of the Way, NRC!. Policy <../docs/351.pdf>`

@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Wolfson, Matthew
+Williams, Walter
 ----------------
 
-* :download:`Matthew Wolfson, Pennsylvania State University. MCNP-ORIGEN2 OPEN SOURCE INTERFACE. Fuel Cycle & Waste Management <../docs/287.pdf>`
+* :download:`Walter Williams, Oregon State University. Neutron Radiography and Tomography: Determining and Optimizing Resolution of Neutron Sensitive MCP Detectors. Detection & Measurements <../docs/152.pdf>`

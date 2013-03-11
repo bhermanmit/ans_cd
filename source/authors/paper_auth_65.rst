@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Herman, Bryan
--------------
+Isaacs, Daniel
+--------------
 
-* :download:`Bryan Herman, MIT. Accelerated Fission Source Convergence of OpenMC using Nonlinear Diffusion Methods. Mathematics & Computation <../docs/384.pdf>`
+* :download:`Daniel Isaacs, Idaho State University. Construction of a Large Volume Glovebox for Work with Uranium. Radiation Protection & Shielding <../docs/163.pdf>`

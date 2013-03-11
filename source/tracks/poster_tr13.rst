@@ -3,4 +3,4 @@
 Nonproliferation & Nuclear Safeguards
 -------------------------------------
 
-* :download:`Steven Stribling, University of Tennessee Knoxville. Methodology of Investigating Illicit Nuclear Material at Border Crossings. Nonproliferation & Nuclear Safeguards <../docs/262.pdf>`
+* :download:`Steven Stribling, University of Tennessee. A Methodology of Investigating Resources for Illicit Trafficking of Radiological and Nuclear Materials at International Crossings. Nonproliferation & Nuclear Safeguards <../docs/262.pdf>`

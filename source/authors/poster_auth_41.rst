@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Sames, William
---------------
+Riddle, William
+---------------
 
-* :download:`William Sames, Texas A&M University. Delayed Hydride Cracking in Zirconium Alloys. Materials Science & Technology <../docs/157.pdf>`
+* :download:`William Riddle, North Carolina State University. Fuel Assembly Design for Improved Transuranics Recylcing in Light Water Reactors. Fuel Cycle & Waste Management <../docs/178.pdf>`

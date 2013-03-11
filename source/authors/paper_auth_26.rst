@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Brinton, Samuel
----------------
+Czeszumska, Agnieszka
+---------------------
 
-* :download:`Samuel Brinton, Massachusetts Institute of Technology. PROTONS AND POLICY:  THE INTEGRATION OF THE TECHNOLOGY POLICY PROGRAM AND NUCLEAR SCIENCE AND ENGINEERING DEPARTMENTS OF MIT. Policy <../docs/381.pdf>`
+* :download:`Agnieszka Czeszumska, University of California - Berkeley. Beta-Delayed Neutron Spectroscopy Using Trapped Ions: Future Plans and Recent Accomplishments. Isotopes & Radiation <../docs/330.pdf>`

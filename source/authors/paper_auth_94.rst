@@ -1,6 +1,7 @@
  :ref:`Back to Index <index>`
 
-Liu, Ruirui
------------
+McBeath, Scott
+--------------
 
-* :download:`Ruirui Liu, Oregon State University. Study on sampling and measurement of 210Po in the waste stream of coal-fired power plant. Radiation Protection & Shielding <../docs/246.pdf>`
+* :download:`Scott McBeath, Idaho State University. MCNP Simulation of a Shielding Enclosure for a Cargo Interrogation System. Nonproliferation & Nuclear Safeguards <../docs/148.pdf>`
+* :download:`Scott McBeath, Idaho State University. Production of NanoVision Sensors via Focused Ion Beam Milling. Fuel Cycle & Waste Management <../docs/166.pdf>`

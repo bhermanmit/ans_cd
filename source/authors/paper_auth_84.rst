@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Knowles, Justin
----------------
+Li, Lulu
+--------
 
-* :download:`Justin Knowles, Purdue University. Defect Diffusion Simulation Through Zirconium Lattice Structure. Materials Science & Technology <../docs/235.pdf>`
+* :download:`Lulu Li, Massachusetts Institute of Technology. A Low Order Acceleration Scheme for Using Methods of Characteristics To Solve Transport Equation. Reactor Physics <../docs/391.pdf>`

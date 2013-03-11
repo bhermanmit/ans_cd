@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-, Daniel
---------
+Barnowski, Ross
+---------------
 
-* :download:`Daniel , University of Utah. ANALYSIS OF CITY GROWN BING CHERRY TREES USING NETRON ACTIVATION ANALYSIS. Environmental Sciences <../docs/368.pdf>`
+* :download:`Ross Barnowski, University of California - Berkeley. Advances in Real-time Radiation Imaging with the Compact Compton Imager: A Double-sided Strip High Purity Germanium Detector System. Detection & Measurements <../docs/223.pdf>`

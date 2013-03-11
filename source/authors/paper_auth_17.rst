@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Armstrong, Hirotatsu
---------------------
+Brinton, Samuel
+---------------
 
-* :download:`Hirotatsu Armstrong, The University of Texas at Austin. Modeling a Spanning Set of Active Interrogation Scenarios. Nonproliferation & Nuclear Safeguards <../docs/150.pdf>`
+* :download:`Samuel Brinton, Massachusetts Institute of Technology. Protons and Policy: The Integration of the Technology Policy Program and Nuclear Science and Engineering Departments of MIT. Policy <../docs/381.pdf>`

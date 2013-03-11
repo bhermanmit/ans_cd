@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-McClure, Kelly
---------------
+Nimmagadda, Jyothier
+--------------------
 
-* :download:`Kelly McClure, The Pennsylvania State University. American Nuclear Society and THON. Education, Training & Workforce Development <../docs/201.pdf>`
+* :download:`Jyothier Nimmagadda, Idaho State University. Iron Reflector Effects in the Fast Neutron Reactors. Reactor Physics <../docs/154.pdf>`

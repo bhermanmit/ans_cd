@@ -3,4 +3,4 @@
 Education, Training & Workforce Development
 -------------------------------------------
 
-* :download:`Mike Mankosa, The Pennsylvania State University. OUTREACH PROGRAMS TO ACCURATELY INFORM THE PUBLIC ABOUT NUCLEAR POWER. Education, Training & Workforce Development <../docs/236.pdf>`
+* :download:`Mike Mankosa, Pennsylvania State University. Outreach Programs to Accurately Inform the Public About Nuclear Power. Education, Training & Workforce Development <../docs/236.pdf>`

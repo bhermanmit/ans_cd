@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Chen, Elton
------------
+Car IV, James
+-------------
 
-* :download:`Elton Chen, Georgia Institute of Technology. Comparison of Uranium Properties using EAM and MEAM Potentials. Materials Science & Technology <../docs/218.pdf>`
+* :download:`James Car IV, Virginia Commonwealth University. Techniques To Improve the Corrosion Resistance of Metals. Materials Science & Technology <../docs/291.pdf>`

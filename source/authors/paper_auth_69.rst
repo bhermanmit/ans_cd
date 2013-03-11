@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Horelik, Nicholas
------------------
+Jeong, Sol
+----------
 
-* :download:`Nicholas Horelik, MIT. Benchmark for Evaluation And Validation of Reactor Simulations (BEAVRS). Mathematics & Computation <../docs/273.pdf>`
+* :download:`Sol Jeong, Hanyang University. Dose Evaluation in Accidental Release of Tritium Gas with Consideration of Tritiated Water Vapor Oxidized in Soil. Biology & Medicine <../docs/311.pdf>`

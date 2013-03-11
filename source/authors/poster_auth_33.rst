@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Ortega, Mario
--------------
+McGahee, Christopher
+--------------------
 
-* :download:`Mario Ortega, University of New Mexico. Characterization of MA Incernation in Modified MYRRHA/XT-ADS Reactor. Reactor Physics <../docs/312.pdf>`
+* :download:`Christopher McGahee, Georgia Institute of Technology. Radiation Detection Plate To Be Used at Security Checkpoints in Association with New ZNO Detectors. Detection & Measurements <../docs/197.pdf>`

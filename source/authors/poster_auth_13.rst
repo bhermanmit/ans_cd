@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Curtis, Daniel
---------------
+Cross, Brent
+------------
 
-* :download:`Daniel Curtis, Massachusetts Institute of Technology. NUCLEAR SHALE OIL DEVELOPMENT: REACTOR ARRAYS AND SYSTEM EFFECTS. Operations & Power <../docs/226.pdf>`
+* :download:`Brent Cross, University of Illinois at Urbana-Champaign. Increasing X-Ray Fluorescence Emission Tomography (XFET) Speed with Novel Geometry. Biology & Medicine <../docs/317.pdf>`

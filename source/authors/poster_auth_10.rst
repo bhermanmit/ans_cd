@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Choi, HyeonJun
---------------
+Chen, Elton
+-----------
 
-* :download:`HyeonJun Choi, Hanyang University. REVISITING ADEQUACY OF THE SIZE OF EMERGENCY PLANNING ZONE FOR NUCLEAR POWER PLANTS. Radiation Protection & Shielding <../docs/247.pdf>`
+* :download:`Elton Chen, Georgia Institute of Technology. Comparison of Uranium Properties using EAM and MEAM Potentials. Materials Science & Technology <../docs/218.pdf>`

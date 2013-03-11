@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-O'Brien, Lindsay
-----------------
+McCallum, Jacob
+---------------
 
-* :download:`Lindsay O'Brien, MIT. Corrosion Fatigue of Austenitic Stainless Steels. Materials Science & Technology <../docs/355.pdf>`
+* :download:`Jacob McCallum, Idaho State University. Highly Enriched Uranium Reactor Rocket Propulsion System Modeled by MCNP. Aerospace Nuclear Science & Technology <../docs/244.pdf>`

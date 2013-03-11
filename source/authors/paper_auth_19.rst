@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Badza, Stefan
--------------
+Campbell, Keri
+--------------
 
-* :download:`Stefan Badza, The Universtiy of Utah. NEUTRON ACTIVATION ANALYSIS OF CALIFORNIAN AND JAPANESE RICE. Environmental Sciences <../docs/302.pdf>`
+* :download:`Keri Campbell, University of Nevada - Las Vegas. Laser Ablation of Actinide Oxides. Special Session: Radiochemistry <../docs/181.pdf>`

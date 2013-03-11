@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Weier, Angela
--------------
+Wargon, Matthew
+---------------
 
-* :download:`Angela Weier, University of Wisconsin. Planar Brachytherapy. Biology & Medicine <../docs/254.pdf>`
+* :download:`Matthew Wargon, Pennsylvania State University. Modeling Of Depletion In Molten Salt Reactors. Reactor Physics <../docs/230.pdf>`

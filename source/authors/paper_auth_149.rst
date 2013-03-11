@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Wargon, Matthew
----------------
+Waite, Brian
+------------
 
-* :download:`Matthew Wargon, The Pennsylvania State University. Modeling Of Depletion In Molten Salt Reactors. Reactor Physics <../docs/230.pdf>`
+* :download:`Brian Waite, Rensselaer Polytechnic Institute. Multidimensional Analysis of Local Flow Obstacles in Nuclear Reactors. Thermal Hydraulics/Fluids <../docs/315.pdf>`

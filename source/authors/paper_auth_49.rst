@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Forsberg, Phillip
------------------
+Graves, Joshua
+--------------
 
-* :download:`Phillip Forsberg, Purdue University. DATA ENCRYPTION OF RADIATION SIGNALS USING CHAOTIC ARTIFICIAL NEURAL NETWORKS. Mathematics & Computation <../docs/304.pdf>`
+* :download:`Joshua Graves, Oregon State University. Top-Down Scaling Analysis of the Integral Reactor Vessel Test Facility. Thermal Hydraulics/Fluids <../docs/225.pdf>`

@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Majcher, Amanda
----------------
+McLain, Derek
+-------------
 
-* :download:`Amanda Majcher, Penn State University. IMPORTANCE OF DOPING IN GRAPHENE FIELD EFFECT TRANSISTORS FOR ALPHA PARTICLE DETECTION. Accelerator Applications <../docs/171.pdf>`
+* :download:`Derek McLain, University of Nevada - Las Vegas. Effect of Elemental Interferences on Radioanalytical Analysis of Steel. Nonproliferation & Nuclear Safeguards <../docs/106.pdf>`

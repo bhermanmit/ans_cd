@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Permar, Danny
--------------
+Rehal, Jaspreet
+---------------
 
-* :download:`Danny Permar, University of Florida. FRAPCON 3.4 TO DETERMINE ENAHCED PERFORMANCE OF UO2 COMPOSITE FUEL FABRICATED BY SPARK PLASMA SINTERING. Materials Science & Technology <../docs/153.pdf>`
+* :download:`Jaspreet Rehal, University of Illinois at Urbana-Champaign. SEE RADS Platform: Social, Every Day, and Emergency Radiation Detection System. Detection & Measurements <../docs/206.pdf>`

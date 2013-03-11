@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Stribling, Steven
------------------
+Selby, Aaron P.
+---------------
 
-* :download:`Steven Stribling, University of Tennessee Knoxville. Methodology of Investigating Illicit Nuclear Material at Border Crossings. Nonproliferation & Nuclear Safeguards <../docs/262.pdf>`
+* :download:`Aaron P. Selby, University of Tennessee. Comparison of Defect Production by High-Energy Displacement Cascades in Molybdenum, Chromium, and Iron. Materials Science & Technology <../docs/222.pdf>`

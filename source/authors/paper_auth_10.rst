@@ -1,6 +1,7 @@
  :ref:`Back to Index <index>`
 
-, Tom
------
+Bates, Ethan
+------------
 
-* :download:`Tom , Adams. Optimization Of Tritium Source For Betavoltaic Power Sources. Materials Science & Technology <../docs/370.pdf>`
+* :download:`Ethan Bates, Massachusetts Institute of Technology. Radiological Implications of Extended Storage of Spent Nuclear Fuel. Fuel Cycle & Waste Management <../docs/306.pdf>`
+* :download:`Ethan Bates, Massachusetts Institute of Technology. Onset and Stability of Natural Convection in Deep Boreholes. Fuel Cycle & Waste Management <../docs/308.pdf>`

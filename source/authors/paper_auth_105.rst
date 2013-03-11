@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-McGahee, Christopher
---------------------
+Owen, Lyman
+-----------
 
-* :download:`Christopher McGahee, Georgia Institute of Technology. RADIATION DETECTION PLATE TO BE USED AT SECURITY CHECKPOINTS IN ASSOCIATION WITH NEW ZNO DETECTORS. Detection & Measurements <../docs/197.pdf>`
+* :download:`Lyman Owen, University of Utah. Automated Signal-layered Algorithm for Processing Complex Gamma Radiation Spectra. Isotopes & Radiation <../docs/319.pdf>`

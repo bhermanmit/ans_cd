@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Lane, Taylor
-------------
+Horwood, Aaron
+--------------
 
-* :download:`Taylor Lane, Texas A&M University. A Flux-Limited Diffusion Method for Simulating Radiative Shocks. Fusion Energy & Plasmas <../docs/135.pdf>`
+* :download:`Aaron Horwood, United States Military Academy. Unmanned Lighter-Than-Air Vehicle For Remote Radiological Survey. Robotics & Remote Systems <../docs/267.pdf>`

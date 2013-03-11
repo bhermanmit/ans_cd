@@ -1,7 +1,6 @@
  :ref:`Back to Index <index>`
 
-O'Hagan, Chad
--------------
+Pearson, Shawn
+--------------
 
-* :download:`Chad O'Hagan, Texas A&M University. Spent Fuel Pool Graphical User Interface Application For Verifying Fuel Assembly Placement. Operations & Power <../docs/209.pdf>`
-* :download:`Chad O'Hagan, Texas A&M University. Sanmen Nuclear Power Plant. Education, Training & Workforce Development <../docs/211.pdf>`
+* :download:`Shawn Pearson, Idaho State University. Spent Fuel Heating System. Fuel Cycle & Waste Management <../docs/303.pdf>`

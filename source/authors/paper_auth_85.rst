@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Ko, Phyllis
------------
+Liao, Can
+---------
 
-* :download:`Phyllis Ko, The Pennsylvania State University. BORON ISOTOPE MEASUREMENTS: NANOSECOND AND FEMTOSECOND LASER-INDUCED BREAKDOWN SPECTROSCOPY OF BORON CARBIDE WITH NON-GATED DETECTION. Detection & Measurements <../docs/136.pdf>`
+* :download:`Can Liao, University of Utah. Study on Pulse Shape Discrimination with an EJ339A Boron-Loaded Liquid Scintillation Detector. Detection & Measurements <../docs/133.pdf>`

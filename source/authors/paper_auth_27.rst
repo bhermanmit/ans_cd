@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Brown, Samuel
+Dances, Chris
 -------------
 
-* :download:`Samuel Brown, University of Utah. Low-Activation Reinforced Concrete for Reducing the Volume of Low-Level Radioactive Waste in the U.S.A.. Decommissioning, Decontamination & Reutilization <../docs/208.pdf>`
+* :download:`Chris Dances, University of Utah. University of Utah TRIGA Virtual Reactor Simulator in Python and Qt. Mathematics & Computation <../docs/216.pdf>`

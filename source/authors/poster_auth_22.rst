@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-J. Riblett, Matthew
--------------------
+Gosdin, Chris
+-------------
 
-* :download:`Matthew J. Riblett, Rensselaer Polytechnic Institute. USE OF HARDWARE ACCELERATORS FOR MONTE CARLO-BASED RADIATION TRANSPORT:  PRELIMINARY STRATEGIES FOR TACKLING NEUTRON RADIATION. Mathematics & Computation <../docs/350.pdf>`
+* :download:`Chris Gosdin, Pennsylvania State University. Comparison of Navy Fuel: Nuclear Propulsion Versus Diesel Propulsion. Operations & Power <../docs/142.pdf>`

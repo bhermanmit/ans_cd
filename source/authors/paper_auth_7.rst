@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-, Jordan
---------
+Avincola, Valentina
+-------------------
 
-* :download:`Jordan , UC Berkeley. Testing Relativistic Time Dilation Using Cosmic-Ray Muons. Isotopes & Radiation <../docs/296.pdf>`
+* :download:`Valentina Avincola, Karlsruhe Institute of Technology. Oxidation in Steam and Quenching of Silicon Carbide as Cladding for Nuclear Power Plants. Materials Science & Technology <../docs/217.pdf>`

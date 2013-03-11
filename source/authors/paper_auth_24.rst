@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Borza, Greg
------------
+Cunha da Silva, Alice
+---------------------
 
-* :download:`Greg Borza, Pennsylvania State University. Recycling of Nuclear Fuel to Improve Resource Utilization and Reduce Waste. Fuel Cycle & Waste Management <../docs/295.pdf>`
+* :download:`Alice Cunha da Silva, Federal University of Rio de Janeiro. Analysis of Transient Heat Conduction In a Heterogeneous Spherical Fuel Element. Thermal Hydraulics/Fluids <../docs/158.pdf>`

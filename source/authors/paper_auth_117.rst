@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Phathanapirom, Urairisa
------------------------
+Reinke, Benjamin
+----------------
 
-* :download:`Urairisa Phathanapirom, The University of Texas at Austin. Resource Intensities of the Front End of the Nuclear Fuel Cycle. Fuel Cycle & Waste Management <../docs/307.pdf>`
+* :download:`Benjamin Reinke, Ohio State University. Temperature Controlled Cryostat for Electrical and Optical Reactor Irradiation Experiments. Materials Science & Technology <../docs/310.pdf>`

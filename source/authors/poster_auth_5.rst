@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Ayers, Lauren
--------------
+Biegel, Kathryn
+---------------
 
-* :download:`Lauren Ayers, Massachusetts Institute of Technology. Evaluating Equipotential Switching Direct Current Potential Drop as an Online Pipe Monitoring Technique. Materials Science & Technology <../docs/271.pdf>`
+* :download:`Kathryn Biegel, Massachusetts Institute of Technology. PySPORe: Python System for Plotting OpenMC Results. Mathematics & Computation <../docs/410.pdf>`

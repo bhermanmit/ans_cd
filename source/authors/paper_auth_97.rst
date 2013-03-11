@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Maginot, Peter
---------------
+McDermott, Brian
+----------------
 
-* :download:`Peter Maginot, Texas A&M University. Effects of Cross Section Discretization on Pointwise Interaction Rates and Spatial Convergence Rates in Discrete Ordinates DFEM Transport Calculations. Mathematics & Computation <../docs/299.pdf>`
+* :download:`Brian McDermott, Rensselaer Polytechnic Institute. A Detector Array for Measuring Neutron Capture Cross Sections in the keV Region. Nuclear Criticality Safety <../docs/221.pdf>`

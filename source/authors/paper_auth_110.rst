@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Owen, Lyman
------------
+Pedretti, Francesco
+-------------------
 
-* :download:`Lyman Owen, University of Utah. Automated Layered Spectra Processing. Isotopes & Radiation <../docs/319.pdf>`
+* :download:`Francesco Pedretti, University of Pisa. Ideas for the Definition of the Heat Transfer Surface. Thermal Hydraulics/Fluids <../docs/138.pdf>`

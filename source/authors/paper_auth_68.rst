@@ -1,6 +1,7 @@
  :ref:`Back to Index <index>`
 
-Hombourger, Boris
------------------
+Jensen, Jon
+-----------
 
-* :download:`Boris Hombourger, EPFL/PSI. Study of a closed Thorium-232 fuel cycle Molten Salt Reactor core in different spectra. Reactor Physics <../docs/264.pdf>`
+* :download:`Jon Jensen, Idaho State University. Design and Testing for a Pedestrian Portal Monitor System. Nonproliferation & Nuclear Safeguards <../docs/108.pdf>`
+* :download:`Jon Jensen, Idaho State University. Design and Testing of a Model Boiling Water Reactor. Operations & Power <../docs/109.pdf>`

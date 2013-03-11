@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Flanagan, Robert
-----------------
+Gilman, Lindsey
+---------------
 
-* :download:`Robert Flanagan, University of Texas Austin. Input Visualization for the Cyclus Nuclear Fuel Cycle Simulator. Fuel Cycle & Waste Management <../docs/339.pdf>`
+* :download:`Lindsey Gilman, Massachusetts Institute of Technology. Advancements on Wall Boiling Modeling in CFD: Leveraging New Understanding from MIT Flow Boiling Facility. Thermal Hydraulics/Fluids <../docs/202.pdf>`

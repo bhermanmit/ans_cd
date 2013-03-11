@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-D. Graves, Joshua
------------------
+Franklin, Andrew
+----------------
 
-* :download:`Joshua D. Graves, Oregon State University. Top-Down Scaling Analysis of the Integral Reactor Vessel Test Facility. Thermal Hydraulics/Fluids <../docs/225.pdf>`
+* :download:`Andrew Franklin, Texas A&M University. Visualization of RELAP5-3D: Thermal-hydraulic Properties of Multi-Dimensional Components To Study Core Blockage Scenarios. Thermal Hydraulics/Fluids <../docs/276.pdf>`

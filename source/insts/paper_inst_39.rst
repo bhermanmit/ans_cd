@@ -1,8 +1,6 @@
  :ref:`Back to Index <index>`
 
-The University of Texas at Austin
----------------------------------
+Utah State University
+---------------------
 
-* :download:`Hirotatsu Armstrong, The University of Texas at Austin. Modeling a Spanning Set of Active Interrogation Scenarios. Nonproliferation & Nuclear Safeguards <../docs/150.pdf>`
-* :download:`William Gurecky, The University of Texas at Austin. A Jet Modeling Framework Relevant  to LOCA Analysis. Thermal Hydraulics/Fluids <../docs/220.pdf>`
-* :download:`Urairisa Phathanapirom, The University of Texas at Austin. Resource Intensities of the Front End of the Nuclear Fuel Cycle. Fuel Cycle & Waste Management <../docs/307.pdf>`
+* :download:`Jeff Harris, Utah State University. Single Phase Forced Convection Validation and Simulation. Thermal Hydraulics/Fluids <../docs/162.pdf>`

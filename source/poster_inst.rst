@@ -26,12 +26,3 @@ Posters - First Author's Institution
     insts/poster_inst_18
     insts/poster_inst_19
     insts/poster_inst_20
-    insts/poster_inst_21
-    insts/poster_inst_22
-    insts/poster_inst_23
-    insts/poster_inst_24
-    insts/poster_inst_25
-    insts/poster_inst_26
-    insts/poster_inst_27
-    insts/poster_inst_28
-    insts/poster_inst_29

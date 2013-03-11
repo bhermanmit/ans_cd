@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Federal University of Rio de Janeiro
-------------------------------------
+Karlsruhe Institute of Technology
+---------------------------------
 
-* :download:`Alice Cunha da Silva, Federal University of Rio de Janeiro. Analysis of Transient Heat Conduction In a Heterogeneous Spherical Fuel Element. Thermal Hydraulics/Fluids <../docs/158.pdf>`
+* :download:`Valentina Avincola, Karlsruhe Institute of Technology. Oxidation in Steam and Quenching of Silicon Carbide as Cladding for Nuclear Power Plants. Materials Science & Technology <../docs/217.pdf>`

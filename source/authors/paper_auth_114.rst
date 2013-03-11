@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Pearson, Shawn
---------------
+Raouafi, Haykel
+---------------
 
-* :download:`Shawn Pearson, Idaho State University. Spent Fuel Heating System. Fuel Cycle & Waste Management <../docs/303.pdf>`
+* :download:`Haykel Raouafi, Polytechnique Montreal. DRAGON 3D Simulation of Spatial Self-Shielding Effect in Sample Irradiated in SLOWPOKE-2 Reactor. Reactor Physics <../docs/348.pdf>`

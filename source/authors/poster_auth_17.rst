@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Ferry, Sara
------------
+Dorhout, Jacquelyn
+------------------
 
-* :download:`Sara Ferry, MIT. Life Prediction of Used Fuel Storage Canister Material. Materials Science & Technology <../docs/281.pdf>`
+* :download:`Jacquelyn Dorhout, University of Nevada - Las Vegas. Synthesis of Rapid Separation Targets by Hydrothermal Methods. Special Session: Radiochemistry <../docs/139.pdf>`

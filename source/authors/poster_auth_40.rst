@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Rubio, Floren
--------------
+Riblett, Matthew J.
+-------------------
 
-* :download:`Floren Rubio, Los Alamos National Lab. Corrosion and Oxygen Control Studies Using a Lead Bismuth Eutectic Flow Loop (DELTA). Materials Science & Technology <../docs/143.pdf>`
+* :download:`Matthew J. Riblett, Rensselaer Polytechnic Institute. Use of Hardware Accelerators for Monte Carlo-based Radiation Transport: Preliminary Strategies for Tackling Neutron Radiation. Mathematics & Computation <../docs/350.pdf>`

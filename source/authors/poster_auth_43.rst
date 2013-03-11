@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Schweitzer, Amanda
-------------------
+Sames, William
+--------------
 
-* :download:`Amanda Schweitzer, Pennsylvania State University. A STUDY OF A PWR&rsquo;S WATER CHEMISTRY AND THE EFFECTS ON THE REACTOR OPERATION AND SURROUNDING ENVIRONMENT. Environmental Sciences <../docs/170.pdf>`
+* :download:`William Sames, Texas A&M University. Delayed Hydride Cracking in Zirconium Alloys. Materials Science & Technology <../docs/157.pdf>`

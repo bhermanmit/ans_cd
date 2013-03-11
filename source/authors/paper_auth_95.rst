@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Lubchenko, Nazar
-----------------
+McClure, Kelly
+--------------
 
-* :download:`Nazar Lubchenko, Massachusetts Institute of Technology. THERMAL TRANSIENT MODELING OF A DEEP BOREHOLE REPOSITORY ON A MOOSE FRAMEWORK. Fuel Cycle & Waste Management <../docs/403.pdf>`
+* :download:`Kelly McClure, Pennsylvania State University. The American Nuclear Society and THON. Education, Training & Workforce Development <../docs/201.pdf>`

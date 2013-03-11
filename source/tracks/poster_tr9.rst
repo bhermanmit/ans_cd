@@ -3,4 +3,4 @@
 Human Factors, Instrumentation & Controls
 -----------------------------------------
 
-* :download:`Price Collins, The University of Tennessee, Knoxville. Fault Simulation for Integral Pressurized Water Reactors. Human Factors, Instrumentation & Controls <../docs/146.pdf>`
+* :download:`Price Collins, University of Tennessee. Fault Simulation for Integral Pressurized Water Reactors. Human Factors, Instrumentation & Controls <../docs/146.pdf>`

@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Jarvis, Jennifer
-----------------
+Knowles, Justin
+---------------
 
-* :download:`Jennifer Jarvis, MIT. PWR Water Chemistry Modeling for Hydrogen Pickup in Zircaloy Cladding. Materials Science & Technology <../docs/356.pdf>`
+* :download:`Justin Knowles, Purdue University. Defect Diffusion Simulation Through Zirconium Lattice Structure. Materials Science & Technology <../docs/235.pdf>`

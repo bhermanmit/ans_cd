@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Holschuh, Tom
--------------
+Jarvis, Jennifer
+----------------
 
-* :download:`Tom Holschuh, Oregon State University. Methodology for Strain Gage Adhesion to Test Plates for Measurement During Operations. Thermal Hydraulics/Fluids <../docs/282.pdf>`
+* :download:`Jennifer Jarvis, Massachusetts Institute of Technology. PWR Water Chemistry Modeling for Hydrogen Pickup in Zircaloy Cladding. Materials Science & Technology <../docs/356.pdf>`

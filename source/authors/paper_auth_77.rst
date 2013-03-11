@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Jeffrey Geringer, Robert
-------------------------
+Ko, Phyllis
+-----------
 
-* :download:`Robert Jeffrey Geringer, University of Illinois at Urbana-Champaign. Deep Borehole Storage of Nuclear Waste in Central Illinois Geology: A Technical, Economic, and Political Feasiblility Analysis. Fuel Cycle & Waste Management <../docs/172.pdf>`
+* :download:`Phyllis Ko, Pennsylvania State University. Boron Isotope Measurements: Nanosecond and Femtosecond Laser-Induced Breakdown Spectroscopy of Boron Carbide with Non-Gated Detection. Detection & Measurements <../docs/136.pdf>`

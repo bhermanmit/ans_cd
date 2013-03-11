@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Pannier, Christopher
---------------------
+Ortega, Mario
+-------------
 
-* :download:`Christopher Pannier, Texas A&M University. POINT REACTOR KINETICS MODEL OF A REACTIVITY OSCILLATOR IN THE TEXAS A&amp;M AGN-201M RESEARCH REACTOR. Reactor Physics <../docs/349.pdf>`
+* :download:`Mario Ortega, University of New Mexico. Reactor Physics Characterization of Minor Actinide Incineration in Modified MYRRHA/XT-ADS Reactor. Reactor Physics <../docs/312.pdf>`

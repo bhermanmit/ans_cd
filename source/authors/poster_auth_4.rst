@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Aryal, Harishchandra
---------------------
+Belsterling, Philip
+-------------------
 
-* :download:`Harishchandra Aryal, Idaho State University. Whale System Design. Aerospace Nuclear Science & Technology <../docs/385.pdf>`
+* :download:`Philip Belsterling, Oregon State University. Reactor Clad Types and Failure Mechanisms. Materials Science & Technology <../docs/353.pdf>`

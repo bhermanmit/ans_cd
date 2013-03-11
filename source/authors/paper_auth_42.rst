@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Di Sanzo, Christian
--------------------
+Gao, Yiming
+-----------
 
-* :download:`Christian Di Sanzo, University of California, Berkeley. Minimum volume of B&amp;B cores. Reactor Physics <../docs/369.pdf>`
+* :download:`Yiming Gao, Rensselaer Polytechnic Institute. Tube Current Modulated Computed Tomography Simulation and Dose Calculation with Monte Carlo Method. Biology & Medicine <../docs/283.pdf>`

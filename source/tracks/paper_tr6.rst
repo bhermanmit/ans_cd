@@ -3,6 +3,7 @@
 Environmental Sciences
 ----------------------
 
-* :download:`Daniel , University of Utah. ANALYSIS OF CITY GROWN BING CHERRY TREES USING NETRON ACTIVATION ANALYSIS. Environmental Sciences <../docs/368.pdf>`
-* :download:`Stefan Badza, The Universtiy of Utah. NEUTRON ACTIVATION ANALYSIS OF CALIFORNIAN AND JAPANESE RICE. Environmental Sciences <../docs/302.pdf>`
-* :download:`Sierra Treanor, University of Texas. Neutron Activation Analysis as a Preferred Method for Determining Uranium and Thorium Concentrations in Soil. Environmental Sciences <../docs/297.pdf>`
+* :download:`Stefan Badza, Universtiy of Utah. Neutron Activation Analysis of Californian and Japanese Rice. Environmental Sciences <../docs/302.pdf>`
+* :download:`Dominic M. Geleskie, Pennsylvania State University. Carbon Dioxide Emissions from the Nuclear Fuel Cycle Compared to Emissions from a Coal-fired Power Plant. Environmental Sciences <../docs/141.pdf>`
+* :download:`Daniel Painter, University of Utah. Analysis of City Grown Bing Cherry Trees Using Neutron Activation Analysis. Environmental Sciences <../docs/368.pdf>`
+* :download:`Sierra Treanor, University of Texas at Austin. Neutron Activation Analysis as a Preferred Method for Determining Uranium and Thorium Concentrations in Soil. Environmental Sciences <../docs/297.pdf>`

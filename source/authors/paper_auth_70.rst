@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Horkley, Matthew
-----------------
+Jiao, Hong
+----------
 
-* :download:`Matthew Horkley, Idaho State University. NUCLEAR PROLIFERATION RESISTANT AQUEOUS REPROCESSING METHODS. Nonproliferation & Nuclear Safeguards <../docs/233.pdf>`
+* :download:`Hong Jiao, Rensselaer Polytechnic Institute. Modeling and Analysis of Thermal Phenomena Governing Bubble Growth and Collapse in Subcooled Boiling. Thermal Hydraulics/Fluids <../docs/298.pdf>`
