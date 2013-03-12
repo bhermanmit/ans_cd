@@ -90,7 +90,7 @@ Papers - All
 * :download:`Phyllis Ko, Pennsylvania State University. Boron Isotope Measurements: Nanosecond and Femtosecond Laser-Induced Breakdown Spectroscopy of Boron Carbide with Non-Gated Detection. Detection & Measurements <docs/136.pdf>`
 * :download:`Dan Kotlyar, Ben Gurion University. Comparison of Monte Carlo-Burnup-Thermal Hydraulic Coupling Schemes. Reactor Physics <docs/187.pdf>`
 * :download:`Jitesh Kuntawala, University of Florida. Computational Shielding and Dose Analysis for Student Common Areas Due to a D-D Neutron Generator. Radiation Protection & Shielding <docs/320.pdf>`
-* :download:`Gleb Kuzmin, University of Texas at Austin. Minimizing Sample Sizes While Achieving Accurate Elementral Concentrations in Neutron Activation Analysis of Precious Pottery. Detection & Measurements <docs/340.pdf>`
+* :download:`Gleb Kuzmin, University of Texas at Austin. Minimizing Sample Sizes While Achieving Accurate Elemental Concentrations in Neutron Activation Analysis of Precious Pottery. Detection & Measurements <docs/340.pdf>`
 * :download:`Philip Lafreniere, University of New Mexico. Natural Circulation Cooled, 80 MWt Small Modular PWR. Operations & Power <docs/341.pdf>`
 * :download:`Taylor Lane, Texas A&M University. Self-Similar Radiation-Hydrodynamics Solutions in the Equilibrium Diffusion Limit. Mathematics & Computation <docs/288.pdf>`
 * :download:`Amanda Lang, University of Wisconsin - Madison. The Use of Freeze-Cast Scaffolds in Nuclear Fuel Design. Reactor Physics <docs/182.pdf>`
@@ -106,12 +106,13 @@ Papers - All
 * :download:`Vivek Maradia, Pandit Deendayal Petroleum University. Accident Sequence Modeling for Indian Fast Breeder Test Reactor. Nuclear Criticality Safety <docs/104.pdf>`
 * :download:`Justin Mart, Oregon State University. Feasibility Study on Soluble Boron-Free Operation in a Prototypical Small Modular Reactor Through an Advanced Control Rod Algorithm. Operations & Power <docs/316.pdf>`
 * :download:`Scott McBeath, Idaho State University. MCNP Simulation of a Shielding Enclosure for a Cargo Interrogation System. Nonproliferation & Nuclear Safeguards <docs/148.pdf>`
-* :download:`Scott McBeath, Idaho State University. Production of NanoVision Sensors via Focused Ion Beam Milling. Fuel Cycle & Waste Management <docs/166.pdf>`
+* :download:`Scott McBeath, Idaho State University. Production of NanoVision Sensors via Focused Ion Beam Milling. Fuel Cycle & Waste Management <docs/413.pdf>`
 * :download:`Kelly McClure, Pennsylvania State University. The American Nuclear Society and THON. Education, Training & Workforce Development <docs/201.pdf>`
 * :download:`Molly McCulloch, Oregon State University. Design of Optimization of the Advanced Test Reactor Low Enrichment Fuel for Conversion. Reactor Physics <docs/210.pdf>`
 * :download:`Brian McDermott, Rensselaer Polytechnic Institute. A Detector Array for Measuring Neutron Capture Cross Sections in the keV Region. Nuclear Criticality Safety <docs/221.pdf>`
+* :download:`Christopher McGahee, Georgia Institute of Technology. Radiation Detection Plate To Be Used at Security Checkpoints in Association with New ZNO Detectors. Detection & Measurements <docs/197.pdf>`
 * :download:`Derek McLain, University of Nevada - Las Vegas. Effect of Elemental Interferences on Radioanalytical Analysis of Steel. Nonproliferation & Nuclear Safeguards <docs/106.pdf>`
-* :download:`Jesse Minser, Idaho State University. Analysis of Synchrotron Radiation Diffraction Data on Experiments To Determine Phases and Microstructure of Zirconium Alloy Oxies. Materials Science & Technology <docs/240.pdf>`
+* :download:`Jesse Misner, Idaho State University. Analysis of Synchrotron Radiation Diffraction Data on Experiments To Determine Phases and Microstructure of Zirconium Alloy Oxides. Materials Science & Technology <docs/240.pdf>`
 * :download:`Gregory Moffitt, University of Utah. MCNP5 Based Neutron Source Modeling for BNCT. Biology & Medicine <docs/266.pdf>`
 * :download:`Gregory Moffitt, University of Utah. MCNPX Modeling of the Fast Neutron Beam at the University of Washington. Accelerator Applications <docs/270.pdf>`
 * :download:`Padhraic Mulligan, Ohio State University. Fabrication and Characterization Of A Freestanding n-Type GaN Radiation Detector. Detection & Measurements <docs/329.pdf>`
@@ -160,7 +161,7 @@ Papers - All
 * :download:`David C. Swan, North Carolina State University. Design of a Next-Generation Neutron Multiplicity Counter Independent of Helium-3. Detection & Measurements <docs/338.pdf>`
 * :download:`Austin Tam, Idaho State University. Variable Zinc Oxide Nanostructure Growth on Sapphire Substrate for Neutron Detection. Nonproliferation & Nuclear Safeguards <docs/145.pdf>`
 * :download:`Sierra Treanor, University of Texas at Austin. Neutron Activation Analysis as a Preferred Method for Determining Uranium and Thorium Concentrations in Soil. Environmental Sciences <docs/297.pdf>`
-* :download:`Piyatida Trinuruk, Tokyo Institute of Technology. The Application of SiC Coatling in Prismatic HTGRs To Prevent Accidents Caused by Graphite Oxidite. Reactor Physics <docs/382.pdf>`
+* :download:`Piyatida Trinuruk, Tokyo Institute of Technology. The Application of SiC Coating in Prismatic HTGRs To Prevent Accidents Caused by Graphite Oxidation. Reactor Physics <docs/382.pdf>`
 * :download:`Ram A. Vadlamani, Purdue University. An Experimental Study of Subcooled Choked Flow Through Simulated Steam Generator Tube Cracks. Thermal Hydraulics/Fluids <docs/253.pdf>`
 * :download:`Pablo Vaquer, University of Florida. A Quantitative Comparison of Inverse Transport Methods Using Three-Dimensional Problems That Have Local Minima and Multiple Solutions. Mathematics & Computation <docs/134.pdf>`
 * :download:`Matthew Verlie, United States Military Academy. Optimization of a Delayed Neutron Detector Design. Detection & Measurements <docs/323.pdf>`

@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Vadlamani, Ram A.
------------------
+Trinuruk, Piyatida
+------------------
 
-* :download:`Ram A. Vadlamani, Purdue University. An Experimental Study of Subcooled Choked Flow Through Simulated Steam Generator Tube Cracks. Thermal Hydraulics/Fluids <../docs/253.pdf>`
+* :download:`Piyatida Trinuruk, Tokyo Institute of Technology. The Application of SiC Coating in Prismatic HTGRs To Prevent Accidents Caused by Graphite Oxidation. Reactor Physics <../docs/382.pdf>`

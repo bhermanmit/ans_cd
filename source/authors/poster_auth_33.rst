@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-McGahee, Christopher
---------------------
+O'Brien, Lindsay
+----------------
 
-* :download:`Christopher McGahee, Georgia Institute of Technology. Radiation Detection Plate To Be Used at Security Checkpoints in Association with New ZNO Detectors. Detection & Measurements <../docs/197.pdf>`
+* :download:`Lindsay O'Brien, Massachusetts Institute of Technology. The Effect of Environment Chemistry and Microstructure on the Corrosion Fatigue Behavior of Austenitic Stainless Steels. Materials Science & Technology <../docs/355.pdf>`

@@ -1,7 +1,6 @@
  :ref:`Back to Index <index>`
 
-O'Hagan, Chad
--------------
+Noh, Siwan
+----------
 
-* :download:`Chad O'Hagan, Texas A&M University. Spent Fuel Pool Graphical User Interface Application For Verifying Fuel Assembly Placement. Operations & Power <../docs/209.pdf>`
-* :download:`Chad O'Hagan, Texas A&M University. Sanmen Nuclear Power Plant. Education, Training & Workforce Development <../docs/211.pdf>`
+* :download:`Siwan Noh, Hanyang University. Development of In Vitro Internal Dosimetry Methodology for Short-Lived Radioisotopes. Radiation Protection & Shielding <../docs/192.pdf>`

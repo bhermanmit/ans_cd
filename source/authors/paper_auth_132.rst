@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Shin, Sungmin
--------------
+Shaver, Dillon
+--------------
 
-* :download:`Sungmin Shin, Korea Advanced Institute of Science and Technology. Monitoring Method Development for Safety Component on Standby State. Nuclear Installations Safety <../docs/215.pdf>`
+* :download:`Dillon Shaver, Rensselaer Polytechnic Institute. Model Development for Large-Scale Nuclear Power Reactor Simulations. Thermal Hydraulics/Fluids <../docs/313.pdf>`

@@ -39,7 +39,7 @@ paper id;First Name;Last Name;Institution;Affiliation;Track;Podium?;title;Follow
 162;Jeff;Harris;Utah State University;USU;22;1;Single Phase Forced Convection Validation and Simulation;
 163;Daniel;Isaacs;Idaho State University;ISU;18;1;Construction of a Large Volume Glovebox for Work with Uranium;
 165;Jordan;Hill;Pennsylvania State University;PSU;7;0;ONKALO: A Look at the First Spent Nuclear Fuel Geological Repository;
-166;Scott;McBeath;Idaho State University;ISU;7;1;Production of NanoVision Sensors via Focused Ion Beam Milling;
+413;Scott;McBeath;Idaho State University;ISU;7;1;Production of NanoVision Sensors via Focused Ion Beam Milling;
 167;Daniel;Siefman;University of Florida;UF;15;1;The Quest for a Negligible-Risk Reactor: A Safety Analysis of the University of Florida Training Reactor;
 168;Andrew;Cartas;University of Florida;UF;11;1;Fabricating the Next Generation of Nuclear Fuel Utilizing Spark Plasma Sintering;
 170;Amanda;Schweitzer;Pennsylvania State University;PSU;6;0;A Study of PWR's Water Chemistry and the Effects on the Reactor Operation and Surrounding Environment;
@@ -63,7 +63,7 @@ paper id;First Name;Last Name;Institution;Affiliation;Track;Podium?;title;Follow
 194;Joshua;Rockman;Pennsylvania State University;PSU;4;1;Operation Crossroads: An Historical Review into the World's First Case of Widespread Radioactive Contamination;
 195;Nam;Phan;Purdue University;Purdue;22;0;Evaluating a Riemann Problem in TFIT as Vertical Two-Phase Bubbly Flow;
 196;Mark;Reed;Massachusetts Institute of Technology;MIT;20;1;Pin-Level Reconstruction of Various Neutronic Quantities in Fast Reactors: Enhanced Physical Insight and Visualization Tools;
-197;Christopher;McGahee;Georgia Institute of Technology;GATECH;4;0;Radiation Detection Plate To Be Used at Security Checkpoints in Association with New ZNO Detectors;
+197;Christopher;McGahee;Georgia Institute of Technology;GATECH;4;1;Radiation Detection Plate To Be Used at Security Checkpoints in Association with New ZNO Detectors;
 200;Will;Boyd;Massachusetts Institute of Technology;MIT;12;1;Challenges and Opportunities for Massively Parallel Neutron Transport Calculations on GPUs;
 201;Kelly;McClure;Pennsylvania State University;PSU;5;1;The American Nuclear Society and THON;
 202;Lindsey;Gilman;Massachusetts Institute of Technology;MIT;22;1;Advancements on Wall Boiling Modeling in CFD: Leveraging New Understanding from MIT Flow Boiling Facility;
@@ -100,11 +100,11 @@ paper id;First Name;Last Name;Institution;Affiliation;Track;Podium?;title;Follow
 236;Mike;Mankosa;Pennsylvania State University;PSU;5;0;Outreach Programs to Accurately Inform the Public About Nuclear Power;
 237;Diego;Garcia;University of Florida;UF;5;1;Effective Communication Strategies for Nuclear Engineering Students in Risk Presentation, Media Engagement, and Political Messaging;Title
 238;Chris;Antweiler;United States Military Academy;USMA;13;1;Nuclear Forensics: A Way Ahead for the U.S. and the International Community;
-240;Jesse;Minser;Idaho State University;ISU;11;1;Analysis of Synchrotron Radiation Diffraction Data on Experiments To Determine Phases and Microstructure of Zirconium Alloy Oxies;
+240;Jesse;Misner;Idaho State University;ISU;11;1;Analysis of Synchrotron Radiation Diffraction Data on Experiments To Determine Phases and Microstructure of Zirconium Alloy Oxides;Podium??
 242;Bo Gyung;Kim;Korea Advanced Institute of Science and Technology;KAIST;9;1;Conceptual Design Suggestion of Operator Support and Automated System for Reducing Human Error in Nuclear Power Plants;Name (Youho)
 243;John;Stempien;Massachusetts Institute of Technology;MIT;11;1;Coolant Chemistry and Materials Compatibility in the Fluoride Salt-Cooled High Temperature Reactor (FHR);
 244;Jacob;McCallum;Idaho State University;ISU;1;0;Highly Enriched Uranium Reactor Rocket Propulsion System Modeled by MCNP;
-245;Ji-hyung;Sim;Hanyang University;Hanyang;11;1;The Characteristics of Fission Gas Release on Metallic Fuels;
+245;Ji-hyung;Sim;Hanyang University;Hanyang;11;1;The Characteristics of Fission Gas Release on Metallic Fuels;Podium??
 246;Ruirui;Liu;Oregon State University;ORST;18;1;Study on Sampling and Measurement of 210Po in the Waste Stream of Coal-fired Power Plant;
 247;HyeonJun;Choi;Hanyang University;Hanyang;18;0;Revisiting Adequacy of the Size of Emergency Planning Zone for Nuclear Power Plants;
 248;Alexis;Kaplan;University of Michigan;UMich;13;1;Neutron Detection Threshold and Efficiency Tradeoff in a Nondestructive Spent Fuel Assay Instrument;
@@ -186,7 +186,7 @@ paper id;First Name;Last Name;Institution;Affiliation;Track;Podium?;title;Follow
 337;David;Saucier;University of New Mexico;UNM;2;0;Using MCNP to Analyze Radiation Qualifications in Positron Emission Tomography (PET) Suite Environments;2 Posters
 338;David C.;Swan;North Carolina State University;NCSU;4;1;Design of a Next-Generation Neutron Multiplicity Counter Independent of Helium-3;
 339;Robert;Flanagan;University of Texas Austin;Texas;7;1;Input Visualization for the Cyclus Nuclear Fuel Cycle Simulator;
-340;Gleb;Kuzmin;University of Texas at Austin;Texas;4;1;Minimizing Sample Sizes While Achieving Accurate Elementral Concentrations in Neutron Activation Analysis of Precious Pottery;
+340;Gleb;Kuzmin;University of Texas at Austin;Texas;4;1;Minimizing Sample Sizes While Achieving Accurate Elemental Concentrations in Neutron Activation Analysis of Precious Pottery;
 341;Philip;Lafreniere;University of New Mexico;UNM;16;1;Natural Circulation Cooled, 80 MWt Small Modular PWR;Title
 342;Kristofer;Zieb;Oregon State University;ORST;9;1;Optimal PID Tuning in Coupled Flow Rate-Pressure Control System at the Oregon State Hydro-Mechanical Fuel Test Facility;
 343;Daniel;Hogan;University of California - Berkeley;Berkeley;4;1;Approaches To Detecting Coherent Neutrino-Nucleus Scattering with High-Purity Germanium Detectors;
@@ -197,7 +197,7 @@ paper id;First Name;Last Name;Institution;Affiliation;Track;Podium?;title;Follow
 349;Christopher;Pannier;Texas A&M University;TAMU;20;0;Point Reactor Kinetics Model of a Reactivity Oscillator in the Texas A&M AGN-201M Research Reactor;
 350;Matthew J.;Riblett;Rensselaer Polytechnic Institute;RPI;12;0;Use of Hardware Accelerators for Monte Carlo-based Radiation Transport: Preliminary Strategies for Tackling Neutron Radiation;
 351;Thomas;Eiden;University of Wisconsin - Madison;WISC;17;1;Get Out of the Way, NRC!;Title
-352;Pablo;Vaquer;University of Florida ;UF;1;0;A Low Temperature Gas Reactor with VASIMR Thursters for Near-Term Interplanetary Travel;
+352;Pablo;Vaquer;University of Florida ;UF;1;0;A Low Temperature Gas Reactor with VASIMR Thrusters for Near-Term Interplanetary Travel;
 353;Philip;Belsterling;Oregon State University;ORST;11;0;Reactor Clad Types and Failure Mechanisms;
 354;Jedediah;Styron;University of New Mexico;UNM;16;0;Review of the Thorium Fuel Cycle and Its Higher Burn-up Capabilities in Future PWR Designs;
 355;Lindsay;O'Brien;Massachusetts Institute of Technology;MIT;11;0;The Effect of Environment Chemistry and Microstructure on the Corrosion Fatigue Behavior of Austenitic Stainless Steels;
@@ -213,9 +213,9 @@ paper id;First Name;Last Name;Institution;Affiliation;Track;Podium?;title;Follow
 376;Matthew;Zimmer;Rensselaer Polytechnic Institute;RPI;22;0;An Analysis of Multidimensional Models of Turbulent Flow in Nuclear Reactors;
 377;Christopher;Herman;North Carolina State University;NCSU;20;1;Reactivity Defect Benchmarking of the OpenMC Monte Carlo Transport Code;
 378;Carl;Haugen;Massachusetts Institute of Technology;MIT;7;1;A Deterministic Method for Core Loading Analysis in LWRs;
-379;Alexandre;Guion;Massachusetts Institute of Technology;MIT;22;0;On the Liquid Microplayer Underneath a Vapor Bubble Growing at a Heated Wall;
+379;Alexandre;Guion;Massachusetts Institute of Technology;MIT;22;0;On the Liquid Microlayer Underneath a Vapor Bubble Growing at a Heated Wall;
 381;Samuel;Brinton;Massachusetts Institute of Technology;MIT;17;1;Protons and Policy: The Integration of the Technology Policy Program and Nuclear Science and Engineering Departments of MIT;
-382;Piyatida;Trinuruk;Tokyo Institute of Technology;TITech;20;1;The Application of SiC Coatling in Prismatic HTGRs To Prevent Accidents Caused by Graphite Oxidite;
+382;Piyatida;Trinuruk;Tokyo Institute of Technology;TITech;20;1;The Application of SiC Coating in Prismatic HTGRs To Prevent Accidents Caused by Graphite Oxidation;
 383;Rosemary;Sugrue;Massachusetts Institute of Technology;MIT;22;0;A Modified Mechanistic Model for Predicting Bubble Departure Diameter in Subcooled Flow Boiling;
 384;Bryan;Herman;Massachusetts Institute of Technology;MIT;12;1;Accelerated Fission Source Convergence of OpenMC using Nonlinear Diffusion Methods;
 385;Harishchandra;Aryal;Idaho State University;ISU;1;0;Whale System Design;

@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Tam, Austin
------------
+Swan, David C.
+--------------
 
-* :download:`Austin Tam, Idaho State University. Variable Zinc Oxide Nanostructure Growth on Sapphire Substrate for Neutron Detection. Nonproliferation & Nuclear Safeguards <../docs/145.pdf>`
+* :download:`David C. Swan, North Carolina State University. Design of a Next-Generation Neutron Multiplicity Counter Independent of Helium-3. Detection & Measurements <../docs/338.pdf>`

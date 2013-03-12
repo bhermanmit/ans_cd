@@ -13,7 +13,7 @@ Fuel Cycle & Waste Management
 * :download:`Boris Hombourger, Paul Scherrer Institute. Study of a Closed Thorium-232 Fuel Cycle Molten Salt Reactor Core in Different Spectra. Fuel Cycle & Waste Management <../docs/264.pdf>`
 * :download:`Harry Lindner, University of Texas at Austin. Cost Updates to Uranium Recovery from Seawater. Fuel Cycle & Waste Management <../docs/322.pdf>`
 * :download:`Nazar Lubchenko, Massachusetts Institute of Technology. Thermal Transient Modeling of a Deep Borehole Repository on a MOOSE Framework. Fuel Cycle & Waste Management <../docs/403.pdf>`
-* :download:`Scott McBeath, Idaho State University. Production of NanoVision Sensors via Focused Ion Beam Milling. Fuel Cycle & Waste Management <../docs/166.pdf>`
+* :download:`Scott McBeath, Idaho State University. Production of NanoVision Sensors via Focused Ion Beam Milling. Fuel Cycle & Waste Management <../docs/413.pdf>`
 * :download:`Shawn Pearson, Idaho State University. Spent Fuel Heating System. Fuel Cycle & Waste Management <../docs/303.pdf>`
 * :download:`Urairisa Phathanapirom, University of Texas at Austin. Resource Intensities of the Front End of the Nuclear Fuel Cycle. Fuel Cycle & Waste Management <../docs/307.pdf>`
 * :download:`Alex Salazar, Massachusetts Institute of Technology. Effect of Temperature on Permeability of Cement Sealant for Deep Borehole Repositories. Fuel Cycle & Waste Management <../docs/394.pdf>`

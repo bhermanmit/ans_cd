@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Phathanapirom, Urairisa
------------------------
+Permar, Danny
+-------------
 
-* :download:`Urairisa Phathanapirom, University of Texas at Austin. Resource Intensities of the Front End of the Nuclear Fuel Cycle. Fuel Cycle & Waste Management <../docs/307.pdf>`
+* :download:`Danny Permar, University of Florida. FRAPCON 3.4 To Determine Enhanced Performance of UO2 Composite Fuel Fabricated by Spark Plasma Sintering. Materials Science & Technology <../docs/153.pdf>`

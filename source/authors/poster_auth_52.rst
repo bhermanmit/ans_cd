@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Sweet, Ryan
------------
+Swift, Andrew J.
+----------------
 
-* :download:`Ryan Sweet, University of Tennessee. Helium Bubble Formation in Plasma Facing Surfaces for Fusion Reactor Applications. Fusion Energy & Plasmas <../docs/328.pdf>`
+* :download:`Andrew J. Swift, University of Nevada - Las Vegas. Evaluation and Preparation of Uranium Alloys Based on Fuel Burnup. Special Session: Radiochemistry <../docs/213.pdf>`

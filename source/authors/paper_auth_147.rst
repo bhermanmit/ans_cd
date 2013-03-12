@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Vaquer, Pablo
--------------
+Vadlamani, Ram A.
+-----------------
 
-* :download:`Pablo Vaquer, University of Florida. A Quantitative Comparison of Inverse Transport Methods Using Three-Dimensional Problems That Have Local Minima and Multiple Solutions. Mathematics & Computation <../docs/134.pdf>`
+* :download:`Ram A. Vadlamani, Purdue University. An Experimental Study of Subcooled Choked Flow Through Simulated Steam Generator Tube Cracks. Thermal Hydraulics/Fluids <../docs/253.pdf>`

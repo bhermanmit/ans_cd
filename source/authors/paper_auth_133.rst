@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Siefman, Daniel
----------------
+Shin, Sungmin
+-------------
 
-* :download:`Daniel Siefman, University of Florida. The Quest for a Negligible-Risk Reactor: A Safety Analysis of the University of Florida Training Reactor. Nuclear Installations Safety <../docs/167.pdf>`
+* :download:`Sungmin Shin, Korea Advanced Institute of Science and Technology. Monitoring Method Development for Safety Component on Standby State. Nuclear Installations Safety <../docs/215.pdf>`

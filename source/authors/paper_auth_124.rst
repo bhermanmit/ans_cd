@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Sabella, Jordan
----------------
+Ryan, Emerald
+-------------
 
-* :download:`Jordan Sabella, University of California - Berkeley. Testing Relativistic Time Dilation Using Cosmic-Ray Muons. Isotopes & Radiation <../docs/296.pdf>`
+* :download:`Emerald Ryan, Idaho State University. Crystal Furnace Graphical Interface for Growth of Oxide Nuclear Fuel Materials. Materials Science & Technology <../docs/151.pdf>`

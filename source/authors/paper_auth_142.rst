@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Swan, David C.
---------------
+Suzuki, Erika
+-------------
 
-* :download:`David C. Swan, North Carolina State University. Design of a Next-Generation Neutron Multiplicity Counter Independent of Helium-3. Detection & Measurements <../docs/338.pdf>`
+* :download:`Erika Suzuki, University of California - Berkeley. The Three-Stage Proposal: Establishing an International Nuclear Forensics Database. Policy <../docs/289.pdf>`

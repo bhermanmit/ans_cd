@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Zieb, Kristofer
----------------
+Zhong, Jianguo
+--------------
 
-* :download:`Kristofer Zieb, Oregon State University. Optimal PID Tuning in Coupled Flow Rate-Pressure Control System at the Oregon State Hydro-Mechanical Fuel Test Facility. Human Factors, Instrumentation & Controls <../docs/342.pdf>`
+* :download:`Jianguo Zhong, Rensselaer Polytechnic Institute. Analysis of Heat Transfer in Supercritical Water Reactor Core. Thermal Hydraulics/Fluids <../docs/398.pdf>`

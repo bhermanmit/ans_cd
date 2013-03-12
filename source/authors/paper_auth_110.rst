@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Pedretti, Francesco
--------------------
+Pearson, Shawn
+--------------
 
-* :download:`Francesco Pedretti, University of Pisa. Ideas for the Definition of the Heat Transfer Surface. Thermal Hydraulics/Fluids <../docs/138.pdf>`
+* :download:`Shawn Pearson, Idaho State University. Spent Fuel Heating System. Fuel Cycle & Waste Management <../docs/303.pdf>`

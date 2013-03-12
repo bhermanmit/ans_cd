@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Sim, Ji-hyung
--------------
+Siefman, Daniel
+---------------
 
-* :download:`Ji-hyung Sim, Hanyang University. The Characteristics of Fission Gas Release on Metallic Fuels. Materials Science & Technology <../docs/245.pdf>`
+* :download:`Daniel Siefman, University of Florida. The Quest for a Negligible-Risk Reactor: A Safety Analysis of the University of Florida Training Reactor. Nuclear Installations Safety <../docs/167.pdf>`

@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Reinke, Benjamin
-----------------
+Rehal, Jaspreet
+---------------
 
-* :download:`Benjamin Reinke, Ohio State University. Temperature Controlled Cryostat for Electrical and Optical Reactor Irradiation Experiments. Materials Science & Technology <../docs/310.pdf>`
+* :download:`Jaspreet Rehal, University of Illinois at Urbana-Champaign. SEE RADS Platform: Social, Every Day, and Emergency Radiation Detection System. Detection & Measurements <../docs/206.pdf>`

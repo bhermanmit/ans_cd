@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Selby, Aaron P.
----------------
+Shaner, Sam
+-----------
 
-* :download:`Aaron P. Selby, University of Tennessee. Comparison of Defect Production by High-Energy Displacement Cascades in Molybdenum, Chromium, and Iron. Materials Science & Technology <../docs/222.pdf>`
+* :download:`Sam Shaner, Massachusetts Institute of Technology. Transient CMFD-accelerated MOC via IQS with Fully-Implicit Coarse-Time Stepping. Reactor Physics <../docs/346.pdf>`

@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Minser, Jesse
+McLain, Derek
 -------------
 
-* :download:`Jesse Minser, Idaho State University. Analysis of Synchrotron Radiation Diffraction Data on Experiments To Determine Phases and Microstructure of Zirconium Alloy Oxies. Materials Science & Technology <../docs/240.pdf>`
+* :download:`Derek McLain, University of Nevada - Las Vegas. Effect of Elemental Interferences on Radioanalytical Analysis of Steel. Nonproliferation & Nuclear Safeguards <../docs/106.pdf>`

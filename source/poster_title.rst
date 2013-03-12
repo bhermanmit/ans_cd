@@ -29,7 +29,7 @@ Posters - All
 * :download:`Nadine Gatto, Pennsylvania State University. Design and Objectives of the International Thermonuclear Experimental Reactor (ITER). Fusion Energy & Plasmas <docs/189.pdf>`
 * :download:`Chris Gosdin, Pennsylvania State University. Comparison of Navy Fuel: Nuclear Propulsion Versus Diesel Propulsion. Operations & Power <docs/142.pdf>`
 * :download:`Hailey Green, University of Tennessee. Studies of Neutron Transport on Lunar Bases. Radiation Protection & Shielding <docs/279.pdf>`
-* :download:`Alexandre Guion, Massachusetts Institute of Technology. On the Liquid Microplayer Underneath a Vapor Bubble Growing at a Heated Wall. Thermal Hydraulics/Fluids <docs/379.pdf>`
+* :download:`Alexandre Guion, Massachusetts Institute of Technology. On the Liquid Microlayer Underneath a Vapor Bubble Growing at a Heated Wall. Thermal Hydraulics/Fluids <docs/379.pdf>`
 * :download:`Jordan Hill, Pennsylvania State University. ONKALO: A Look at the First Spent Nuclear Fuel Geological Repository. Fuel Cycle & Waste Management <docs/165.pdf>`
 * :download:`Aaron Horwood, United States Military Academy. Unmanned Lighter-Than-Air Vehicle For Remote Radiological Survey. Robotics & Remote Systems <docs/267.pdf>`
 * :download:`Uiju Jeong, Hanyang University. CFD Analysis of Liquid Sodium Flow in the Vicinity of Permanent Magnet Probe Flow Meter Using FLUENT. Thermal Hydraulics/Fluids <docs/176.pdf>`
@@ -38,7 +38,6 @@ Posters - All
 * :download:`Dustin Langewisch, Massachusetts Institute of Technology. Uncertainty Quantification for Computational Multiphase Fluid Dynamics. Mathematics & Computation <docs/292.pdf>`
 * :download:`Mike Mankosa, Pennsylvania State University. Outreach Programs to Accurately Inform the Public About Nuclear Power. Education, Training & Workforce Development <docs/236.pdf>`
 * :download:`Jacob McCallum, Idaho State University. Highly Enriched Uranium Reactor Rocket Propulsion System Modeled by MCNP. Aerospace Nuclear Science & Technology <docs/244.pdf>`
-* :download:`Christopher McGahee, Georgia Institute of Technology. Radiation Detection Plate To Be Used at Security Checkpoints in Association with New ZNO Detectors. Detection & Measurements <docs/197.pdf>`
 * :download:`Lindsay O'Brien, Massachusetts Institute of Technology. The Effect of Environment Chemistry and Microstructure on the Corrosion Fatigue Behavior of Austenitic Stainless Steels. Materials Science & Technology <docs/355.pdf>`
 * :download:`Mario Ortega, University of New Mexico. Reactor Physics Characterization of Minor Actinide Incineration in Modified MYRRHA/XT-ADS Reactor. Reactor Physics <docs/312.pdf>`
 * :download:`Christopher Pannier, Texas A&M University. Point Reactor Kinetics Model of a Reactivity Oscillator in the Texas A&M AGN-201M Research Reactor. Reactor Physics <docs/349.pdf>`
@@ -61,7 +60,7 @@ Posters - All
 * :download:`Ryan Sweet, University of Tennessee. Helium Bubble Formation in Plasma Facing Surfaces for Fusion Reactor Applications. Fusion Energy & Plasmas <docs/328.pdf>`
 * :download:`Andrew J. Swift, University of Nevada - Las Vegas. Evaluation and Preparation of Uranium Alloys Based on Fuel Burnup. Special Session: Radiochemistry <docs/213.pdf>`
 * :download:`Antonio Tahhan, Idaho State University. The Hydrogen Economy. Environmental Sciences <docs/402.pdf>`
-* :download:`Pablo Vaquer, University of Florida. A Low Temperature Gas Reactor with VASIMR Thursters for Near-Term Interplanetary Travel. Aerospace Nuclear Science & Technology <docs/352.pdf>`
+* :download:`Pablo Vaquer, University of Florida. A Low Temperature Gas Reactor with VASIMR Thrusters for Near-Term Interplanetary Travel. Aerospace Nuclear Science & Technology <docs/352.pdf>`
 * :download:`David Woodley, North Carolina State University. High Temperature Test Capsule for Irradiation Experiments in the Pulstar Reactor. Materials Science & Technology <docs/259.pdf>`
 * :download:`Nicholas Wozniak, University of Nevada - Las Vegas. Photoreduction Synthesis of U (IV) Organophosphate Nanoparticles from Uranyl Perchlorate. Special Session: Radiochemistry <docs/219.pdf>`
 * :download:`Matthew Zimmer, Rensselaer Polytechnic Institute. An Analysis of Multidimensional Models of Turbulent Flow in Nuclear Reactors. Thermal Hydraulics/Fluids <docs/376.pdf>`

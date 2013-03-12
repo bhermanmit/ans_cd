@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Pearson, Shawn
---------------
+Patel, Rita
+-----------
 
-* :download:`Shawn Pearson, Idaho State University. Spent Fuel Heating System. Fuel Cycle & Waste Management <../docs/303.pdf>`
+* :download:`Rita Patel, University of Pittsburgh. Creation of a Coursera Course in Nuclear Science and Technology. Education, Training & Workforce Development <../docs/147.pdf>`

@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Nimmagadda, Jyothier
---------------------
+Mulligan, Padhraic
+------------------
 
-* :download:`Jyothier Nimmagadda, Idaho State University. Iron Reflector Effects in the Fast Neutron Reactors. Reactor Physics <../docs/154.pdf>`
+* :download:`Padhraic Mulligan, Ohio State University. Fabrication and Characterization Of A Freestanding n-Type GaN Radiation Detector. Detection & Measurements <../docs/329.pdf>`
