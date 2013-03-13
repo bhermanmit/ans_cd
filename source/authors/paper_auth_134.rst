@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Sosnovsky, Eugeny
------------------
+Somma, William
+--------------
 
-* :download:`Eugeny Sosnovsky, Massachusetts Institute of Technology. Point Kinetics with Spatially Distributed Feedback via Bond Graphs. Reactor Physics <../docs/418.pdf>`
+* :download:`William Somma, Pennsylvania State University. Thorium as a Nuclear Fuel: Benefits and Drawbacks. Fuel Cycle & Waste Management <../docs/274.pdf>`

@@ -1,6 +1,7 @@
  :ref:`Back to Index <index>`
 
-Maradia, Vivek
---------------
+Malachosky, Christopher
+-----------------------
 
-* :download:`Vivek Maradia, Pandit Deendayal Petroleum University. Accident Sequence Modeling for Indian Fast Breeder Test Reactor. Nuclear Criticality Safety <../docs/104.pdf>`
+* :download:`Christopher Malachosky, United States Military Academy. Design of an Undergraduate X-Ray Fluorescence Laboratory. Education, Training & Workforce Development <../docs/334.pdf>`
+* :download:`Christopher Malachosky, United States Military Academy. Optical Flash Blindness. Nonproliferation & Nuclear Safeguards <../docs/336.pdf>`

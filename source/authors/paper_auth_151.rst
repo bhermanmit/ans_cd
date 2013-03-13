@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Weier, Angela
+Webster, Jeff
 -------------
 
-* :download:`Angela Weier, University of Wisconsin. Calibration and Quality Assurance and Uses of Planar Brachytherapy Sources. Biology & Medicine <../docs/254.pdf>`
+* :download:`Jeff Webster, Purdue University. Demonstrating Tensioned Metastable Fluid Detectors as Gamma-Blind Nuclear Particle Sensors. Detection & Measurements <../docs/314.pdf>`

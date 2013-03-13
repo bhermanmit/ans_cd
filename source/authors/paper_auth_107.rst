@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Pedretti, Francesco
--------------------
+Patel, Rita
+-----------
 
-* :download:`Francesco Pedretti, University of Pisa. Ideas for the Definition of the Heat Transfer Surface. Thermal Hydraulics/Fluids <../docs/138.pdf>`
+* :download:`Rita Patel, University of Pittsburgh. Creation of a Coursera Course in Nuclear Science and Technology. Education, Training & Workforce Development <../docs/147.pdf>`

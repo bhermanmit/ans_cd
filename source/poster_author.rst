@@ -55,4 +55,3 @@ Posters - First Author's Name
     authors/poster_auth_47
     authors/poster_auth_48
     authors/poster_auth_49
-    authors/poster_auth_50

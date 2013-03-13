@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Steele, Dallin
---------------
+Sosnovsky, Eugeny
+-----------------
 
-* :download:`Dallin Steele, Idaho State University. Photonic Crystal Design for an In-Pile Real-Time Sensor. Materials Science & Technology <../docs/256.pdf>`
+* :download:`Eugeny Sosnovsky, Massachusetts Institute of Technology. Point Kinetics with Spatially Distributed Feedback via Bond Graphs. Reactor Physics <../docs/418.pdf>`

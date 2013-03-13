@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Wolfson, Matthew
+Wilson, Nicholas
 ----------------
 
-* :download:`Matthew Wolfson, Pennsylvania State University. MCNP-ORIGEN2 Open Source Interface. Fuel Cycle & Waste Management <../docs/287.pdf>`
+* :download:`Nicholas Wilson, Purdue University. Development of a Spherical Acoustically Tensioned Metastable Fluid Detector for Ascertaining 4pi Neutron Directionality. Detection & Measurements <../docs/205.pdf>`

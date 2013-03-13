@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Shaver, Dillon
---------------
+Shapiro, Rachel
+---------------
 
-* :download:`Dillon Shaver, Rensselaer Polytechnic Institute. Model Development for Large-Scale Nuclear Power Reactor Simulations. Thermal Hydraulics/Fluids <../docs/313.pdf>`
+* :download:`Rachel Shapiro, Pennsylvania State University. Optimization of Boron Distribution in ORNL High Flux Isotope Reactor LEU Core. Reactor Physics <../docs/177.pdf>`

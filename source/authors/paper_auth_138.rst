@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Styron, Jedediah
-----------------
+Stout, Aaron
+------------
 
-* :download:`Jedediah Styron, University of New Mexico. Optimization of a Fast Neutron Beryllium/Scintillator Layer Detector Using a Monte Carlo Approach. Detection & Measurements <../docs/250.pdf>`
+* :download:`Aaron Stout, United States Military Academy. Design of a Methodology to Calculate Radiation Protection Factors for Army Equipment Using MCNP. Radiation Protection & Shielding <../docs/249.pdf>`

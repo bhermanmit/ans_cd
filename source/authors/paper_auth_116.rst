@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Roberts, Jeremy
----------------
+Riley, Michael P.
+-----------------
 
-* :download:`Jeremy Roberts, Massachusetts Institute of Technology. Angular Expansions for the Response Matrix Method. Mathematics & Computation <../docs/371.pdf>`
+* :download:`Michael P. Riley, Pennsylvania State University. Correlation for the Prediction of Nucleate Boiling Heat Flux on a Downward Facing Hemispherical Surface During a Severe Accident. Thermal Hydraulics/Fluids <../docs/128.pdf>`

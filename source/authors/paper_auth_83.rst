@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Li, Lulu
---------
+Lang, Amanda
+------------
 
-* :download:`Lulu Li, Massachusetts Institute of Technology. A Low Order Acceleration Scheme for Using Methods of Characteristics To Solve Transport Equation. Reactor Physics <../docs/391.pdf>`
+* :download:`Amanda Lang, University of Wisconsin - Madison. The Use of Freeze-Cast Scaffolds in Nuclear Fuel Design. Reactor Physics <../docs/182.pdf>`

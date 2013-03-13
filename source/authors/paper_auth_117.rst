@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Rockman, Joshua
+Roberts, Jeremy
 ---------------
 
-* :download:`Joshua Rockman, Pennsylvania State University. Operation Crossroads: An Historical Review into the World's First Case of Widespread Radioactive Contamination. Detection & Measurements <../docs/194.pdf>`
+* :download:`Jeremy Roberts, Massachusetts Institute of Technology. Angular Expansions for the Response Matrix Method. Mathematics & Computation <../docs/371.pdf>`

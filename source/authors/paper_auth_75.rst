@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Knowles, Justin
----------------
+Kim, Hee Eun
+------------
 
-* :download:`Justin Knowles, Purdue University. Defect Diffusion Simulation Through Zirconium Lattice Structure. Materials Science & Technology <../docs/235.pdf>`
+* :download:`Hee Eun Kim, Korea Advanced Institute of Science and Technology. An Approach To Evaluate the Safety Network Communication Reliability. Nuclear Installations Safety <../docs/263.pdf>`

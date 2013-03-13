@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Kuzmin, Gleb
-------------
+Kuntawala, Jitesh
+-----------------
 
-* :download:`Gleb Kuzmin, University of Texas at Austin. Minimizing Sample Sizes While Achieving Accurate Elemental Concentrations in Neutron Activation Analysis of Precious Pottery. Detection & Measurements <../docs/340.pdf>`
+* :download:`Jitesh Kuntawala, University of Florida. Computational Shielding and Dose Analysis for Student Common Areas Due to a D-D Neutron Generator. Radiation Protection & Shielding <../docs/320.pdf>`

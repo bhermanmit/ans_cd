@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Somma, William
---------------
+Sirotkina, Alecksandra
+----------------------
 
-* :download:`William Somma, Pennsylvania State University. Thorium as a Nuclear Fuel: Benefits and Drawbacks. Fuel Cycle & Waste Management <../docs/274.pdf>`
+* :download:`Alecksandra Sirotkina, St.Petersburg State Polytechnical University. Light Water Reactor with Supercritical Pressure and Spectral Control: Construction, Perspectives, Safety. Operations & Power <../docs/107.pdf>`

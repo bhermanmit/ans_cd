@@ -4,6 +4,7 @@ United States Military Academy
 ------------------------------
 
 * :download:`Chris Antweiler, United States Military Academy. Nuclear Forensics: A Way Ahead for the U.S. and the International Community. Nonproliferation & Nuclear Safeguards <../docs/238.pdf>`
+* :download:`Aaron Horwood, United States Military Academy. Unmanned Lighter-Than-Air Vehicle For Remote Radiological Survey. Robotics & Remote Systems <../docs/267.pdf>`
 * :download:`Christopher Malachosky, United States Military Academy. Design of an Undergraduate X-Ray Fluorescence Laboratory. Education, Training & Workforce Development <../docs/334.pdf>`
 * :download:`Christopher Malachosky, United States Military Academy. Optical Flash Blindness. Nonproliferation & Nuclear Safeguards <../docs/336.pdf>`
 * :download:`Branden Passons, United States Military Academy. One in Eight: A Study on Computer-aided Detection as a Viable Means for Mass Mammography Screenings. Biology & Medicine <../docs/255.pdf>`

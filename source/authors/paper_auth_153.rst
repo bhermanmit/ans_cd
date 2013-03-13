@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Williams, Walter
-----------------
+West, Derek
+-----------
 
-* :download:`Walter Williams, Oregon State University. Neutron Radiography and Tomography: Determining and Optimizing Resolution of Neutron Sensitive MCP Detectors. Detection & Measurements <../docs/152.pdf>`
+* :download:`Derek West, United States Military Academy. Benchmark Rutherford Scattering Experiment Using Pelletron Accelerator. Accelerator Applications <../docs/325.pdf>`

@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Jiao, Hong
+Jeong, Sol
 ----------
 
-* :download:`Hong Jiao, Rensselaer Polytechnic Institute. Modeling and Analysis of Thermal Phenomena Governing Bubble Growth and Collapse in Subcooled Boiling. Thermal Hydraulics/Fluids <../docs/298.pdf>`
+* :download:`Sol Jeong, Hanyang University. Dose Evaluation in Accidental Release of Tritium Gas with Consideration of Tritiated Water Vapor Oxidized in Soil. Biology & Medicine <../docs/311.pdf>`

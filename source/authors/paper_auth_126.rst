@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Schuster, Patricia
-------------------
+Schmidt, Lukas
+--------------
 
-* :download:`Patricia Schuster, University of California - Berkeley. Investigation of Anisotropic Response in Organic Crystal Scintillators for Neutron Detection. Detection & Measurements <../docs/212.pdf>`
+* :download:`Lukas Schmidt, ETH. Investigations of Single Phase Turbulent Mixing with Stable Density Stratification. Thermal Hydraulics/Fluids <../docs/224.pdf>`

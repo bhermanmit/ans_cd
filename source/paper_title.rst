@@ -70,6 +70,7 @@ Papers - All
 * :download:`Boris Hombourger, Paul Scherrer Institute. Study of a Closed Thorium-232 Fuel Cycle Molten Salt Reactor Core in Different Spectra. Fuel Cycle & Waste Management <docs/264.pdf>`
 * :download:`Nicholas Horelik, Massachusetts Institute of Technology. Benchmark for Evaluation And Validation of Reactor Simulations (BEAVRS). Mathematics & Computation <docs/273.pdf>`
 * :download:`Matthew Horkley, Idaho State University. Nuclear Proliferation Resistant Aqueous Reprocessing Methods. Nonproliferation & Nuclear Safeguards <docs/233.pdf>`
+* :download:`Aaron Horwood, United States Military Academy. Unmanned Lighter-Than-Air Vehicle For Remote Radiological Survey. Robotics & Remote Systems <docs/267.pdf>`
 * :download:`Trevor Howard, Oregon State University. Computational Fluid Dynamics Simulation of Vortex Shedding Between Inline Plates. Thermal Hydraulics/Fluids <docs/335.pdf>`
 * :download:`Amal Hraiz, Khalifa University. 3-D Full Core Calculations of Westinghouse AP1000 Using WIMS/PARCS/SNAP Code System. Reactor Physics <docs/193.pdf>`
 * :download:`Lakshana Huddar, University of California - Berkeley. Investigation of Natural Convection Heat Transfer in Fluoride Salts Using Simulant Fluids. Thermal Hydraulics/Fluids <docs/333.pdf>`

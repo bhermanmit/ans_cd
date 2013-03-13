@@ -9,7 +9,7 @@ sed -i '/jQuery(function() { Search.loadIndex("searchindex.js"); });/d' build/ht
 sed -i 's/<\/head>/<script type="text\/javascript" src="searchindex.js"><\/script><\/head>/g' build/html/search.html
 
 # make the cd image
-rm -rf -iso
+rm -rf iso
 mkdir iso
 cd iso
 cp -R ../build/html .

@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-West, Derek
------------
+Weier, Angela
+-------------
 
-* :download:`Derek West, United States Military Academy. Benchmark Rutherford Scattering Experiment Using Pelletron Accelerator. Accelerator Applications <../docs/325.pdf>`
+* :download:`Angela Weier, University of Wisconsin. Calibration and Quality Assurance and Uses of Planar Brachytherapy Sources. Biology & Medicine <../docs/254.pdf>`

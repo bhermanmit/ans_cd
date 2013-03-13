@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Trinuruk, Piyatida
-------------------
+Treanor, Sierra
+---------------
 
-* :download:`Piyatida Trinuruk, Tokyo Institute of Technology. The Application of SiC Coating in Prismatic HTGRs To Prevent Accidents Caused by Graphite Oxidation. Reactor Physics <../docs/382.pdf>`
+* :download:`Sierra Treanor, University of Texas at Austin. Neutron Activation Analysis as a Preferred Method for Determining Uranium and Thorium Concentrations in Soil. Environmental Sciences <../docs/297.pdf>`

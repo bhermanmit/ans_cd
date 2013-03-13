@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Shapiro, Rachel
----------------
+Schuster, Patricia
+------------------
 
-* :download:`Rachel Shapiro, Pennsylvania State University. Optimization of Boron Distribution in ORNL High Flux Isotope Reactor LEU Core. Reactor Physics <../docs/177.pdf>`
+* :download:`Patricia Schuster, University of California - Berkeley. Investigation of Anisotropic Response in Organic Crystal Scintillators for Neutron Detection. Detection & Measurements <../docs/212.pdf>`

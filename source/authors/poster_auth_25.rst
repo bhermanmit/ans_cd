@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Mankosa, Mike
--------------
+McCallum, Jacob
+---------------
 
-* :download:`Mike Mankosa, Pennsylvania State University. Outreach Programs to Accurately Inform the Public About Nuclear Power. Education, Training & Workforce Development <../docs/236.pdf>`
+* :download:`Jacob McCallum, Idaho State University. Highly Enriched Uranium Reactor Rocket Propulsion System Modeled by MCNP. Aerospace Nuclear Science & Technology <../docs/244.pdf>`
