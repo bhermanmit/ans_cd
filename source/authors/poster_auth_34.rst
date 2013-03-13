@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Ortega, Mario
+Misner, Jesse
 -------------
 
-* :download:`Mario Ortega, University of New Mexico. Reactor Physics Characterization of Minor Actinide Incineration in Modified MYRRHA/XT-ADS Reactor. Reactor Physics <../docs/312.pdf>`
+* :download:`Jesse Misner, Idaho State University. Analysis of Synchrotron Radiation Diffraction Data on Experiments To Determine Phases and Microstructure of Zirconium Alloy Oxides. Materials Science & Technology <../docs/240.pdf>`

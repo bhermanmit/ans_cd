@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-McLain, Derek
--------------
+Mulligan, Padhraic
+------------------
 
-* :download:`Derek McLain, University of Nevada - Las Vegas. Effect of Elemental Interferences on Radioanalytical Analysis of Steel. Nonproliferation & Nuclear Safeguards <../docs/106.pdf>`
+* :download:`Padhraic Mulligan, Ohio State University. Fabrication and Characterization Of A Freestanding n-Type GaN Radiation Detector. Detection & Measurements <../docs/329.pdf>`

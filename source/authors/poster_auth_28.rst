@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Kristo, Paul
-------------
+Jeong, Uiju
+-----------
 
-* :download:`Paul Kristo, University of Pittsburgh. Design of a Constant Temperature Anemometer Calibration Procedure for Use with Heated Flows. Thermal Hydraulics/Fluids <../docs/231.pdf>`
+* :download:`Uiju Jeong, Hanyang University. CFD Analysis of Liquid Sodium Flow in the Vicinity of Permanent Magnet Probe Flow Meter Using FLUENT. Thermal Hydraulics/Fluids <../docs/176.pdf>`

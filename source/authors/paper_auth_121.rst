@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Rockman, Joshua
----------------
+Ryan, Emerald
+-------------
 
-* :download:`Joshua Rockman, Pennsylvania State University. Operation Crossroads: An Historical Review into the World's First Case of Widespread Radioactive Contamination. Detection & Measurements <../docs/194.pdf>`
+* :download:`Emerald Ryan, Idaho State University. Crystal Furnace Graphical Interface for Growth of Oxide Nuclear Fuel Materials. Materials Science & Technology <../docs/151.pdf>`

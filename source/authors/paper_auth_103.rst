@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Nimmagadda, Jyothier
---------------------
+Owen, Lyman
+-----------
 
-* :download:`Jyothier Nimmagadda, Idaho State University. Iron Reflector Effects in the Fast Neutron Reactors. Reactor Physics <../docs/154.pdf>`
+* :download:`Lyman Owen, University of Utah. Automated Signal-layered Algorithm for Processing Complex Gamma Radiation Spectra. Isotopes & Radiation <../docs/319.pdf>`

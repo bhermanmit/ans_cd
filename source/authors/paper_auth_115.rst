@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Raouafi, Haykel
----------------
+Reinke, Benjamin
+----------------
 
-* :download:`Haykel Raouafi, Polytechnique Montreal. DRAGON 3D Simulation of Spatial Self-Shielding Effect in Sample Irradiated in SLOWPOKE-2 Reactor. Reactor Physics <../docs/348.pdf>`
+* :download:`Benjamin Reinke, Ohio State University. Temperature Controlled Cryostat for Electrical and Optical Reactor Irradiation Experiments. Materials Science & Technology <../docs/310.pdf>`

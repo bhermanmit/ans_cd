@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Sweet, Ryan
------------
+Styron, Jedediah
+----------------
 
-* :download:`Ryan Sweet, University of Tennessee. Helium Bubble Formation in Plasma Facing Surfaces for Fusion Reactor Applications. Fusion Energy & Plasmas <../docs/328.pdf>`
+* :download:`Jedediah Styron, University of New Mexico. Review of the Thorium Fuel Cycle and Its Higher Burn-up Capabilities in Future PWR Designs. Operations & Power <../docs/354.pdf>`

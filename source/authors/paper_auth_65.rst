@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Isaacs, Daniel
---------------
+Jacomb-Hood, Timothy
+--------------------
 
-* :download:`Daniel Isaacs, Idaho State University. Construction of a Large Volume Glovebox for Work with Uranium. Radiation Protection & Shielding <../docs/163.pdf>`
+* :download:`Timothy Jacomb-Hood, Pennsylvania State University. Unraveling Environmental Contributions to Fallout Formation. Special Session: Radiochemistry <../docs/149.pdf>`

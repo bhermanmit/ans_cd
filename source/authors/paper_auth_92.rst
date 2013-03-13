@@ -1,6 +1,7 @@
  :ref:`Back to Index <index>`
 
-Maradia, Vivek
+McBeath, Scott
 --------------
 
-* :download:`Vivek Maradia, Pandit Deendayal Petroleum University. Accident Sequence Modeling for Indian Fast Breeder Test Reactor. Nuclear Criticality Safety <../docs/104.pdf>`
+* :download:`Scott McBeath, Idaho State University. MCNP Simulation of a Shielding Enclosure for a Cargo Interrogation System. Nonproliferation & Nuclear Safeguards <../docs/148.pdf>`
+* :download:`Scott McBeath, Idaho State University. Production of NanoVision Sensors via Focused Ion Beam Milling. Fuel Cycle & Waste Management <../docs/413.pdf>`

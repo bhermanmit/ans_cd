@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Stempien, John
---------------
+Styron, Jedediah
+----------------
 
-* :download:`John Stempien, Massachusetts Institute of Technology. Coolant Chemistry and Materials Compatibility in the Fluoride Salt-Cooled High Temperature Reactor (FHR). Materials Science & Technology <../docs/243.pdf>`
+* :download:`Jedediah Styron, University of New Mexico. Optimization of a Fast Neutron Beryllium/Scintillator Layer Detector Using a Monte Carlo Approach. Detection & Measurements <../docs/250.pdf>`

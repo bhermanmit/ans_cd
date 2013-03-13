@@ -10,7 +10,6 @@ Idaho State University
 * :download:`Jon Jensen, Idaho State University. Design and Testing of a Model Boiling Water Reactor. Operations & Power <../docs/109.pdf>`
 * :download:`Scott McBeath, Idaho State University. MCNP Simulation of a Shielding Enclosure for a Cargo Interrogation System. Nonproliferation & Nuclear Safeguards <../docs/148.pdf>`
 * :download:`Scott McBeath, Idaho State University. Production of NanoVision Sensors via Focused Ion Beam Milling. Fuel Cycle & Waste Management <../docs/413.pdf>`
-* :download:`Jesse Misner, Idaho State University. Analysis of Synchrotron Radiation Diffraction Data on Experiments To Determine Phases and Microstructure of Zirconium Alloy Oxides. Materials Science & Technology <../docs/240.pdf>`
 * :download:`Jyothier Nimmagadda, Idaho State University. Iron Reflector Effects in the Fast Neutron Reactors. Reactor Physics <../docs/154.pdf>`
 * :download:`Shawn Pearson, Idaho State University. Spent Fuel Heating System. Fuel Cycle & Waste Management <../docs/303.pdf>`
 * :download:`Emerald Ryan, Idaho State University. Crystal Furnace Graphical Interface for Growth of Oxide Nuclear Fuel Materials. Materials Science & Technology <../docs/151.pdf>`

@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Riddle, William
+Quarrick, Erica
 ---------------
 
-* :download:`William Riddle, North Carolina State University. Fuel Assembly Design for Improved Transuranics Recylcing in Light Water Reactors. Fuel Cycle & Waste Management <../docs/178.pdf>`
+* :download:`Erica Quarrick, Pennsylvania State University. A PYTHON Pre- and Post-Processing GUI Utility for Generic Repository Thermal Analysis. Fuel Cycle & Waste Management <../docs/261.pdf>`

@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Stribling, Steven
------------------
+Shaner, Sam
+-----------
 
-* :download:`Steven Stribling, University of Tennessee. A Methodology of Investigating Resources for Illicit Trafficking of Radiological and Nuclear Materials at International Crossings. Nonproliferation & Nuclear Safeguards <../docs/262.pdf>`
+* :download:`Sam Shaner, Massachusetts Institute of Technology. Transient CMFD-accelerated MOC via IQS with Fully-Implicit Coarse-Time Stepping. Reactor Physics <../docs/346.pdf>`

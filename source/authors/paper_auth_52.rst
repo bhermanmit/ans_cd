@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Harris, Jeff
-------------
+Harter, Jackson
+---------------
 
-* :download:`Jeff Harris, Utah State University. Single Phase Forced Convection Validation and Simulation. Thermal Hydraulics/Fluids <../docs/162.pdf>`
+* :download:`Jackson Harter, Oregon State University. Verification of Burnup-Depletion Results for Vented Nuclear Fuel in MCNPX Using ORIGEN-ARP. Reactor Physics <../docs/386.pdf>`

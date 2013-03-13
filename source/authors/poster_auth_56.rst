@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Wozniak, Nicholas
------------------
+Vaquer, Pablo
+-------------
 
-* :download:`Nicholas Wozniak, University of Nevada - Las Vegas. Photoreduction Synthesis of U (IV) Organophosphate Nanoparticles from Uranyl Perchlorate. Special Session: Radiochemistry <../docs/219.pdf>`
+* :download:`Pablo Vaquer, University of Florida. A Low Temperature Gas Reactor with VASIMR Thrusters for Near-Term Interplanetary Travel. Aerospace Nuclear Science & Technology <../docs/352.pdf>`

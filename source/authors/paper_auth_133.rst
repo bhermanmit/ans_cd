@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Shin, Sungmin
--------------
+Sirotkina, Alecksandra
+----------------------
 
-* :download:`Sungmin Shin, Korea Advanced Institute of Science and Technology. Monitoring Method Development for Safety Component on Standby State. Nuclear Installations Safety <../docs/215.pdf>`
+* :download:`Alecksandra Sirotkina, St.Petersburg State Polytechnical University. Light Water Reactor with Supercritical Pressure and Spectral Control: Construction, Perspectives, Safety. Operations & Power <../docs/107.pdf>`

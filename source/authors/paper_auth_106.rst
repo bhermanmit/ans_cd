@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Owen, Lyman
+Patel, Rita
 -----------
 
-* :download:`Lyman Owen, University of Utah. Automated Signal-layered Algorithm for Processing Complex Gamma Radiation Spectra. Isotopes & Radiation <../docs/319.pdf>`
+* :download:`Rita Patel, University of Pittsburgh. Creation of a Coursera Course in Nuclear Science and Technology. Education, Training & Workforce Development <../docs/147.pdf>`

@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Young, Jason
-------------
+Zhong, Jianguo
+--------------
 
-* :download:`Jason Young, Purdue University. Advances to the Radiation Source Search Toolkit. Nonproliferation & Nuclear Safeguards <../docs/284.pdf>`
+* :download:`Jianguo Zhong, Rensselaer Polytechnic Institute. Analysis of Heat Transfer in Supercritical Water Reactor Core. Thermal Hydraulics/Fluids <../docs/398.pdf>`

@@ -18,5 +18,6 @@ Reactor Physics
 * :download:`Haykel Raouafi, Polytechnique Montreal. DRAGON 3D Simulation of Spatial Self-Shielding Effect in Sample Irradiated in SLOWPOKE-2 Reactor. Reactor Physics <../docs/348.pdf>`
 * :download:`Mark Reed, Massachusetts Institute of Technology. Pin-Level Reconstruction of Various Neutronic Quantities in Fast Reactors: Enhanced Physical Insight and Visualization Tools. Reactor Physics <../docs/196.pdf>`
 * :download:`Rachel Shapiro, Pennsylvania State University. Optimization of Boron Distribution in ORNL High Flux Isotope Reactor LEU Core. Reactor Physics <../docs/177.pdf>`
+* :download:`Eugeny Sosnovsky, Massachusetts Institute of Technology. Point Kinetics with Spatially Distributed Feedback via Bond Graphs. Reactor Physics <../docs/418.pdf>`
 * :download:`Piyatida Trinuruk, Tokyo Institute of Technology. The Application of SiC Coating in Prismatic HTGRs To Prevent Accidents Caused by Graphite Oxidation. Reactor Physics <../docs/382.pdf>`
 * :download:`Matthew Wargon, Pennsylvania State University. Modeling Of Depletion In Molten Salt Reactors. Reactor Physics <../docs/230.pdf>`

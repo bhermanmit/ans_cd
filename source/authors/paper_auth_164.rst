@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Zieb, Kristofer
+de Guzman, Gian
 ---------------
 
-* :download:`Kristofer Zieb, Oregon State University. Optimal PID Tuning in Coupled Flow Rate-Pressure Control System at the Oregon State Hydro-Mechanical Fuel Test Facility. Human Factors, Instrumentation & Controls <../docs/342.pdf>`
+* :download:`Gian de Guzman, Idaho State University. What are the Risks and Benefits of Accelerated Spent Fuel Transfer?. Fuel Cycle & Waste Management <../docs/130.pdf>`

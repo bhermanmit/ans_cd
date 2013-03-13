@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Green, Hailey
+Gosdin, Chris
 -------------
 
-* :download:`Hailey Green, University of Tennessee. Studies of Neutron Transport on Lunar Bases. Radiation Protection & Shielding <../docs/279.pdf>`
+* :download:`Chris Gosdin, Pennsylvania State University. Comparison of Navy Fuel: Nuclear Propulsion Versus Diesel Propulsion. Operations & Power <../docs/142.pdf>`

@@ -35,7 +35,7 @@ Papers - All
 * :download:`Daniel Curtis, Massachusetts Institute of Technology. Nuclear Air-Brayton Combined Cycle for Increased Nuclear Plant Revenue. Operations & Power <docs/214.pdf>`
 * :download:`Agnieszka Czeszumska, University of California - Berkeley. Beta-Delayed Neutron Spectroscopy Using Trapped Ions: Future Plans and Recent Accomplishments. Isotopes & Radiation <docs/330.pdf>`
 * :download:`Chris Dances, University of Utah. University of Utah TRIGA Virtual Reactor Simulator in Python and Qt. Mathematics & Computation <docs/216.pdf>`
-* :download:`Jacob DeWitte, Massachusetts Institute of Technology. Maximizing the U.S. Nuclear Fleet Through Life Extension and Mega Uprates. Operations & Power <docs/400.pdf>`
+* :download:`Jacob DeWitte, Massachusetts Institute of Technology. Maximizing the US Nuclear Fleet Through Life Extension and Mega Uprates. Operations & Power <docs/400.pdf>`
 * :download:`Wesley Deason, Oregon State University. Modeling of Fission Product Transport in a Representative Helium-cooled Fast Reactor Using STELLA. Nuclear Installations Safety <docs/395.pdf>`
 * :download:`Christian DiSanzo, University of California - Berkeley. Minimum Volume of Breed and Burn Cores. Reactor Physics <docs/369.pdf>`
 * :download:`Conor Dougherty, United States Military Academy. Late Cloud Film Analysis: Determining Cloud Rise From Film. Mathematics & Computation <docs/309.pdf>`
@@ -54,7 +54,6 @@ Papers - All
 * :download:`Tim Garcia, Ohio State University. 4H-SiC Schottky Diode Alpha Particle Detectors for In-situ Pyroprocessing Safeguards. Detection & Measurements <docs/324.pdf>`
 * :download:`Diego Garcia, University of Florida. Performance Analysis and Fabrication of PARES Based Nuclear Battery for MEMS Application. Isotopes & Radiation <docs/234.pdf>`
 * :download:`Diego Garcia, University of Florida. Effective Communication Strategies for Nuclear Engineering Students in Risk Presentation, Media Engagement, and Political Messaging. Education, Training & Workforce Development <docs/237.pdf>`
-* :download:`Dominic M. Geleskie, Pennsylvania State University. Carbon Dioxide Emissions from the Nuclear Fuel Cycle Compared to Emissions from a Coal-fired Power Plant. Environmental Sciences <docs/141.pdf>`
 * :download:`Robert J. Geringer, University of Illinois at Urbana-Champaign. Deep Borehole Storage of Nuclear Waste in Central Illinois Geology: A Technical, Economic, and Political Feasibility Analysis. Fuel Cycle & Waste Management <docs/172.pdf>`
 * :download:`Lindsey Gilman, Massachusetts Institute of Technology. Advancements on Wall Boiling Modeling in CFD: Leveraging New Understanding from MIT Flow Boiling Facility. Thermal Hydraulics/Fluids <docs/202.pdf>`
 * :download:`Braden Goddard, Texas A&M University. Development of a Neutron Multiplicity Counting Laboratory Experiment at Texas A&M University. Education, Training & Workforce Development <docs/127.pdf>`
@@ -71,7 +70,7 @@ Papers - All
 * :download:`Boris Hombourger, Paul Scherrer Institute. Study of a Closed Thorium-232 Fuel Cycle Molten Salt Reactor Core in Different Spectra. Fuel Cycle & Waste Management <docs/264.pdf>`
 * :download:`Nicholas Horelik, Massachusetts Institute of Technology. Benchmark for Evaluation And Validation of Reactor Simulations (BEAVRS). Mathematics & Computation <docs/273.pdf>`
 * :download:`Matthew Horkley, Idaho State University. Nuclear Proliferation Resistant Aqueous Reprocessing Methods. Nonproliferation & Nuclear Safeguards <docs/233.pdf>`
-* :download:`Trevor Howard, Oregon State University. Computational Fluid Dynamics Analysis of Vortex Shedding Between Inline Plates. Thermal Hydraulics/Fluids <docs/335.pdf>`
+* :download:`Trevor Howard, Oregon State University. Computational Fluid Dynamics Simulation of Vortex Shedding Between Inline Plates. Thermal Hydraulics/Fluids <docs/335.pdf>`
 * :download:`Amal Hraiz, Khalifa University. 3-D Full Core Calculations of Westinghouse AP1000 Using WIMS/PARCS/SNAP Code System. Reactor Physics <docs/193.pdf>`
 * :download:`Lakshana Huddar, University of California - Berkeley. Investigation of Natural Convection Heat Transfer in Fluoride Salts Using Simulant Fluids. Thermal Hydraulics/Fluids <docs/333.pdf>`
 * :download:`Daniel Isaacs, Idaho State University. Construction of a Large Volume Glovebox for Work with Uranium. Radiation Protection & Shielding <docs/163.pdf>`
@@ -98,7 +97,6 @@ Papers - All
 * :download:`Can Liao, University of Utah. Study on Pulse Shape Discrimination with an EJ339A Boron-Loaded Liquid Scintillation Detector. Detection & Measurements <docs/133.pdf>`
 * :download:`Harry Lindner, University of Texas at Austin. Cost Updates to Uranium Recovery from Seawater. Fuel Cycle & Waste Management <docs/322.pdf>`
 * :download:`Ruirui Liu, Oregon State University. Study on Sampling and Measurement of 210Po in the Waste Stream of Coal-fired Power Plant. Radiation Protection & Shielding <docs/246.pdf>`
-* :download:`Nazar Lubchenko, Massachusetts Institute of Technology. Thermal Transient Modeling of a Deep Borehole Repository on a MOOSE Framework. Fuel Cycle & Waste Management <docs/403.pdf>`
 * :download:`Peter Maginot, Texas A&M University. Effects of Cross Section Discretization on Pointwise Interaction Rates and Spatial Convergence Rates in Discrete Ordinates DFEM Transport Calculations. Mathematics & Computation <docs/299.pdf>`
 * :download:`Amanda Majcher, Pennsylvania State University. Importance of Doping in Graphene Field Effect Transistors for Alpha Particle Detection. Materials Science & Technology <docs/171.pdf>`
 * :download:`Christopher Malachosky, United States Military Academy. Design of an Undergraduate X-Ray Fluorescence Laboratory. Education, Training & Workforce Development <docs/334.pdf>`
@@ -112,7 +110,6 @@ Papers - All
 * :download:`Brian McDermott, Rensselaer Polytechnic Institute. A Detector Array for Measuring Neutron Capture Cross Sections in the keV Region. Nuclear Criticality Safety <docs/221.pdf>`
 * :download:`Christopher McGahee, Georgia Institute of Technology. Radiation Detection Plate To Be Used at Security Checkpoints in Association with New ZNO Detectors. Detection & Measurements <docs/197.pdf>`
 * :download:`Derek McLain, University of Nevada - Las Vegas. Effect of Elemental Interferences on Radioanalytical Analysis of Steel. Nonproliferation & Nuclear Safeguards <docs/106.pdf>`
-* :download:`Jesse Misner, Idaho State University. Analysis of Synchrotron Radiation Diffraction Data on Experiments To Determine Phases and Microstructure of Zirconium Alloy Oxides. Materials Science & Technology <docs/240.pdf>`
 * :download:`Gregory Moffitt, University of Utah. MCNP5 Based Neutron Source Modeling for BNCT. Biology & Medicine <docs/266.pdf>`
 * :download:`Gregory Moffitt, University of Utah. MCNPX Modeling of the Fast Neutron Beam at the University of Washington. Accelerator Applications <docs/270.pdf>`
 * :download:`Padhraic Mulligan, Ohio State University. Fabrication and Characterization Of A Freestanding n-Type GaN Radiation Detector. Detection & Measurements <docs/329.pdf>`
@@ -153,6 +150,7 @@ Papers - All
 * :download:`Ji-hyung Sim, Hanyang University. The Characteristics of Fission Gas Release on Metallic Fuels. Materials Science & Technology <docs/245.pdf>`
 * :download:`Alecksandra Sirotkina, St.Petersburg State Polytechnical University. Light Water Reactor with Supercritical Pressure and Spectral Control: Construction, Perspectives, Safety. Operations & Power <docs/107.pdf>`
 * :download:`William Somma, Pennsylvania State University. Thorium as a Nuclear Fuel: Benefits and Drawbacks. Fuel Cycle & Waste Management <docs/274.pdf>`
+* :download:`Eugeny Sosnovsky, Massachusetts Institute of Technology. Point Kinetics with Spatially Distributed Feedback via Bond Graphs. Reactor Physics <docs/418.pdf>`
 * :download:`Dallin Steele, Idaho State University. Photonic Crystal Design for an In-Pile Real-Time Sensor. Materials Science & Technology <docs/256.pdf>`
 * :download:`John Stempien, Massachusetts Institute of Technology. Coolant Chemistry and Materials Compatibility in the Fluoride Salt-Cooled High Temperature Reactor (FHR). Materials Science & Technology <docs/243.pdf>`
 * :download:`Aaron Stout, United States Military Academy. Design of a Methodology to Calculate Radiation Protection Factors for Army Equipment Using MCNP. Radiation Protection & Shielding <docs/249.pdf>`

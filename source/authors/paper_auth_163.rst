@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Zhong, Jianguo
---------------
+Zorrilla, Alexander
+-------------------
 
-* :download:`Jianguo Zhong, Rensselaer Polytechnic Institute. Analysis of Heat Transfer in Supercritical Water Reactor Core. Thermal Hydraulics/Fluids <../docs/398.pdf>`
+* :download:`Alexander Zorrilla, University of Florida. Analysis of Skin Dose Mapping for a Standard Fluoroscopy Procedure in Patients of Varying Sizes. Biology & Medicine <../docs/280.pdf>`

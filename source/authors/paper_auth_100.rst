@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Misner, Jesse
--------------
+Nimmagadda, Jyothier
+--------------------
 
-* :download:`Jesse Misner, Idaho State University. Analysis of Synchrotron Radiation Diffraction Data on Experiments To Determine Phases and Microstructure of Zirconium Alloy Oxides. Materials Science & Technology <../docs/240.pdf>`
+* :download:`Jyothier Nimmagadda, Idaho State University. Iron Reflector Effects in the Fast Neutron Reactors. Reactor Physics <../docs/154.pdf>`

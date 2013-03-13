@@ -17,7 +17,7 @@ paper id;First Name;Last Name;Institution;Affiliation;Track;Podium?;title;Follow
 138;Francesco;Pedretti;University of Pisa;Pisa;22;1;Ideas for the Definition of the Heat Transfer Surface;
 139;Jacquelyn;Dorhout;University of Nevada - Las Vegas;UNLV;23;0;Synthesis of Rapid Separation Targets by Hydrothermal Methods;
 140;Kyoung M.;Kang;University of Wisconsin - Madison;WISC;22;1;Computational Analysis for Ex-Vessel Quenching with Various Cavity Diameters and Core Melt Mass;
-141;Dominic M.;Geleskie;Pennsylvania State University  ;PSU;6;1;Carbon Dioxide Emissions from the Nuclear Fuel Cycle Compared to Emissions from a Coal-fired Power Plant;
+141;Dominic M.;Geleskie;Pennsylvania State University  ;PSU;6;0;Carbon Dioxide Emissions from the Nuclear Fuel Cycle Compared to Emissions from a Coal-fired Power Plant;
 142;Chris;Gosdin;Pennsylvania State University ;PSU;16;0;Comparison of Navy Fuel: Nuclear Propulsion Versus Diesel Propulsion;
 143;Floren;Rubio;Los Alamos National Laboratory;LANL;11;0;Corrosion and Oxygen Control Studies Using a Lead Bismuth Eutectic Flow Loop (DELTA);
 145;Austin;Tam;Idaho State University;ISU;13;1;Variable Zinc Oxide Nanostructure Growth on Sapphire Substrate for Neutron Detection;
@@ -57,7 +57,7 @@ paper id;First Name;Last Name;Institution;Affiliation;Track;Podium?;title;Follow
 184;Mouza;Al Hebsi;Khalifa University;Khalifa;22;1;Numerical Investigation on the Dissolution of a Light Gas Stratification in a Safety Containment Model;
 185;David;Amos;University of Houston - Downtown;UHD;11;0;A Quantum Mechanical Study of Ce(IV)-tetrakis(chatecolato) as a Model for Pu(IV)-tetrakis(chatecholato);
 187;Dan;Kotlyar;Ben Gurion University;BGU;20;1;Comparison of Monte Carlo-Burnup-Thermal Hydraulic Coupling Schemes;
-189;Nadine;Gatto;Pennsylvania State University;PSU;8;0;Design and Objectives of the International Thermonuclear Experimental Reactor (ITER);
+415;Nadine;Gatto;Pennsylvania State University;PSU;8;0;Design and Objectives of the International Thermonuclear Experimental Reactor (ITER);
 192;Siwan;Noh;Hanyang University;Hanyang;18;1;Development of In Vitro Internal Dosimetry Methodology for Short-Lived Radioisotopes;
 193;Amal;Hraiz;Khalifa University;Khalifa;20;1;3-D Full Core Calculations of Westinghouse AP1000 Using WIMS/PARCS/SNAP Code System;
 194;Joshua;Rockman;Pennsylvania State University;PSU;4;1;Operation Crossroads: An Historical Review into the World's First Case of Widespread Radioactive Contamination;
@@ -100,7 +100,7 @@ paper id;First Name;Last Name;Institution;Affiliation;Track;Podium?;title;Follow
 236;Mike;Mankosa;Pennsylvania State University;PSU;5;0;Outreach Programs to Accurately Inform the Public About Nuclear Power;
 237;Diego;Garcia;University of Florida;UF;5;1;Effective Communication Strategies for Nuclear Engineering Students in Risk Presentation, Media Engagement, and Political Messaging;Title
 238;Chris;Antweiler;United States Military Academy;USMA;13;1;Nuclear Forensics: A Way Ahead for the U.S. and the International Community;
-240;Jesse;Misner;Idaho State University;ISU;11;1;Analysis of Synchrotron Radiation Diffraction Data on Experiments To Determine Phases and Microstructure of Zirconium Alloy Oxides;Podium??
+240;Jesse;Misner;Idaho State University;ISU;11;0;Analysis of Synchrotron Radiation Diffraction Data on Experiments To Determine Phases and Microstructure of Zirconium Alloy Oxides;Podium??
 242;Bo Gyung;Kim;Korea Advanced Institute of Science and Technology;KAIST;9;1;Conceptual Design Suggestion of Operator Support and Automated System for Reducing Human Error in Nuclear Power Plants;Name (Youho)
 243;John;Stempien;Massachusetts Institute of Technology;MIT;11;1;Coolant Chemistry and Materials Compatibility in the Fluoride Salt-Cooled High Temperature Reactor (FHR);
 244;Jacob;McCallum;Idaho State University;ISU;1;0;Highly Enriched Uranium Reactor Rocket Propulsion System Modeled by MCNP;
@@ -135,7 +135,7 @@ paper id;First Name;Last Name;Institution;Affiliation;Track;Podium?;title;Follow
 278;Sarah;Sarnoski;University of Florida;UF;5;1;University of Florida Digital Controls Work Force Training;
 279;Hailey;Green;University of Tennessee;UTK;18;0;Studies of Neutron Transport on Lunar Bases;
 280;Alexander;Zorrilla;University of Florida;UF;2;1;Analysis of Skin Dose Mapping for a Standard Fluoroscopy Procedure in Patients of Varying Sizes;
-281;Sara;Ferry;Massachusetts Institute of Technology;MIT;11;0;Life Prediction of Used Fuel Storage Canister Material;
+417;Sara;Ferry;Massachusetts Institute of Technology;MIT;11;0;Life Prediction of Used Fuel Storage Canister Material;
 282;Tom;Holschuh;Oregon State University;ORST;22;1;Methodology for Strain Gage Adhesion To Test Plates for Measurement During Operations;
 283;Yiming;Gao;Rensselaer Polytechnic Institute;RPI;2;1;Tube Current Modulated Computed Tomography Simulation and Dose Calculation with Monte Carlo Method;
 284;Jason;Young;Purdue University;Purdue;13;1;Advances to the Radiation Source Search Toolkit;
@@ -181,7 +181,7 @@ paper id;First Name;Last Name;Institution;Affiliation;Track;Podium?;title;Follow
 330;Agnieszka;Czeszumska;University of California - Berkeley;Berkeley;10;1;Beta-Delayed Neutron Spectroscopy Using Trapped Ions: Future Plans and Recent Accomplishments;
 333;Lakshana;Huddar;University of California - Berkeley;Berkeley;22;1;Investigation of Natural Convection Heat Transfer in Fluoride Salts Using Simulant Fluids;
 334;Christopher;Malachosky;United States Military Academy;USMA;5;1;Design of an Undergraduate X-Ray Fluorescence Laboratory;
-335;Trevor;Howard;Oregon State University;ORST;22;1;Computational Fluid Dynamics Analysis of Vortex Shedding Between Inline Plates;
+335;Trevor;Howard;Oregon State University;ORST;22;1;Computational Fluid Dynamics Simulation of Vortex Shedding Between Inline Plates;
 336;Christopher;Malachosky;United States Military Academy;USMA;13;1;Optical Flash Blindness;
 337;David;Saucier;University of New Mexico;UNM;2;0;Using MCNP to Analyze Radiation Qualifications in Positron Emission Tomography (PET) Suite Environments;2 Posters
 338;David C.;Swan;North Carolina State University;NCSU;4;1;Design of a Next-Generation Neutron Multiplicity Counter Independent of Helium-3;
@@ -226,12 +226,12 @@ paper id;First Name;Last Name;Institution;Affiliation;Track;Podium?;title;Follow
 396;Sarah;Don;Massachusetts Institute of Technology;MIT;22;0;Surface Analysis of Materials Test Reactor Cladding;
 397;Athena;Gallardo;University of Nevada - Las Vegas;UNLV;4;1;Investigation of Storage-Phosphor Autoradiography for the Rapid Quantitative Screening of Air Filters for Emergency Response Purposes;
 398;Jianguo;Zhong;Rensselaer Polytechnic Institute;RPI;22;1;Analysis of Heat Transfer in Supercritical Water Reactor Core;
-400;Jacob;DeWitte;Massachusetts Institute of Technology;MIT;16;1;Maximizing the U.S. Nuclear Fleet Through Life Extension and Mega Uprates;
+400;Jacob;DeWitte;Massachusetts Institute of Technology;MIT;16;1;Maximizing the US Nuclear Fleet Through Life Extension and Mega Uprates;
 401;Joseph;Yurko;Massachusetts Institute of Technology;MIT;22;1;Gaussian Process Emulators for Bayesian Calibration Using Separate and Integral Effect Test Data;
 402;Antonio;Tahhan;Idaho State University;ISU;6;0;The Hydrogen Economy;
-403;Nazar;Lubchenko;Massachusetts Institute of Technology;MIT;7;1;Thermal Transient Modeling of a Deep Borehole Repository on a MOOSE Framework;
 404;Eric;Forrest;Massachusetts Institute of Technology;MIT;22;1;Experimental Study of Turbulent Single-Phase Heat Transfer in a Prototypic Materials Test Reactor Coolant Channel;
 407;Romina;Farmand;University of Nevada - Las Vegas;UNLV;23;0;Synthesis and Characterization of Low-Valent Rhenium Dimers with Multiple Metal-Metal Bonds;
 408;Joseph;Santora;University of Utah;Utah;23;1;Viticulture Improvement Applicable to All Plants;
 410;Kathryn;Biegel;Massachusetts Institute of Technology;MIT;12;0;PySPORe: Python System for Plotting OpenMC Results;
 412;Andrew;Hall;University of Michigan;Umich;20;1;Advanced Neutronics Methods for Analysis of the RBWR-AC;
+418;Eugeny;Sosnovsky;Massachusetts Institute of Technology;MIT;20;1;Point Kinetics with Spatially Distributed Feedback via Bond Graphs;

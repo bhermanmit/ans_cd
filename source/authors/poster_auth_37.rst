@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Phan, Nam
----------
+Pannier, Christopher
+--------------------
 
-* :download:`Nam Phan, Purdue University. Evaluating a Riemann Problem in TFIT as Vertical Two-Phase Bubbly Flow. Thermal Hydraulics/Fluids <../docs/195.pdf>`
+* :download:`Christopher Pannier, Texas A&M University. Point Reactor Kinetics Model of a Reactivity Oscillator in the Texas A&M AGN-201M Research Reactor. Reactor Physics <../docs/349.pdf>`

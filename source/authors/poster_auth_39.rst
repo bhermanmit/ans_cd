@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Riblett, Matthew J.
--------------------
+Phan, Nam
+---------
 
-* :download:`Matthew J. Riblett, Rensselaer Polytechnic Institute. Use of Hardware Accelerators for Monte Carlo-based Radiation Transport: Preliminary Strategies for Tackling Neutron Radiation. Mathematics & Computation <../docs/350.pdf>`
+* :download:`Nam Phan, Purdue University. Evaluating a Riemann Problem in TFIT as Vertical Two-Phase Bubbly Flow. Thermal Hydraulics/Fluids <../docs/195.pdf>`

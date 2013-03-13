@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Huddar, Lakshana
-----------------
+Isaacs, Daniel
+--------------
 
-* :download:`Lakshana Huddar, University of California - Berkeley. Investigation of Natural Convection Heat Transfer in Fluoride Salts Using Simulant Fluids. Thermal Hydraulics/Fluids <../docs/333.pdf>`
+* :download:`Daniel Isaacs, Idaho State University. Construction of a Large Volume Glovebox for Work with Uranium. Radiation Protection & Shielding <../docs/163.pdf>`

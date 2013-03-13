@@ -14,7 +14,7 @@ Thermal Hydraulics/Fluids
 * :download:`William Gurecky, University of Texas at Austin. A Jet Modeling Framework Relevant to LOCA Analysis. Thermal Hydraulics/Fluids <../docs/220.pdf>`
 * :download:`Jeff Harris, Utah State University. Single Phase Forced Convection Validation and Simulation. Thermal Hydraulics/Fluids <../docs/162.pdf>`
 * :download:`Tom Holschuh, Oregon State University. Methodology for Strain Gage Adhesion To Test Plates for Measurement During Operations. Thermal Hydraulics/Fluids <../docs/282.pdf>`
-* :download:`Trevor Howard, Oregon State University. Computational Fluid Dynamics Analysis of Vortex Shedding Between Inline Plates. Thermal Hydraulics/Fluids <../docs/335.pdf>`
+* :download:`Trevor Howard, Oregon State University. Computational Fluid Dynamics Simulation of Vortex Shedding Between Inline Plates. Thermal Hydraulics/Fluids <../docs/335.pdf>`
 * :download:`Lakshana Huddar, University of California - Berkeley. Investigation of Natural Convection Heat Transfer in Fluoride Salts Using Simulant Fluids. Thermal Hydraulics/Fluids <../docs/333.pdf>`
 * :download:`Hong Jiao, Rensselaer Polytechnic Institute. Modeling and Analysis of Thermal Phenomena Governing Bubble Growth and Collapse in Subcooled Boiling. Thermal Hydraulics/Fluids <../docs/298.pdf>`
 * :download:`HangJin Jo, POSTECH. Pool Boiling on Hydrophilic and Hydrophobic Nano/Microstructure with Different Wetting Surfaces. Thermal Hydraulics/Fluids <../docs/251.pdf>`

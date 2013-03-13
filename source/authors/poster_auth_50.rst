@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Sugrue, Rosemary
-----------------
+Stribling, Steven
+-----------------
 
-* :download:`Rosemary Sugrue, Massachusetts Institute of Technology. A Modified Mechanistic Model for Predicting Bubble Departure Diameter in Subcooled Flow Boiling. Thermal Hydraulics/Fluids <../docs/383.pdf>`
+* :download:`Steven Stribling, University of Tennessee. A Methodology of Investigating Resources for Illicit Trafficking of Radiological and Nuclear Materials at International Crossings. Nonproliferation & Nuclear Safeguards <../docs/262.pdf>`

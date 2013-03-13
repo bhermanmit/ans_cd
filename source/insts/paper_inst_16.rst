@@ -8,7 +8,6 @@ Pennsylvania State University
 * :download:`Matthew Block, Pennsylvania State University. The Effect of Radiation Exposure During a 6-Month CubeSat Mission. Radiation Protection & Shielding <../docs/174.pdf>`
 * :download:`Greg Borza, Pennsylvania State University. Recycling of Nuclear Fuel to Improve Resource Utilization and Reduce Waste. Fuel Cycle & Waste Management <../docs/295.pdf>`
 * :download:`Valerie Fudurich, Pennsylvania State University. Food Irradiation: The Future of Food Safety. Isotopes & Radiation <../docs/155.pdf>`
-* :download:`Dominic M. Geleskie, Pennsylvania State University. Carbon Dioxide Emissions from the Nuclear Fuel Cycle Compared to Emissions from a Coal-fired Power Plant. Environmental Sciences <../docs/141.pdf>`
 * :download:`Timothy Jacomb-Hood, Pennsylvania State University. Unraveling Environmental Contributions to Fallout Formation. Special Session: Radiochemistry <../docs/149.pdf>`
 * :download:`Phyllis Ko, Pennsylvania State University. Boron Isotope Measurements: Nanosecond and Femtosecond Laser-Induced Breakdown Spectroscopy of Boron Carbide with Non-Gated Detection. Detection & Measurements <../docs/136.pdf>`
 * :download:`Amanda Majcher, Pennsylvania State University. Importance of Doping in Graphene Field Effect Transistors for Alpha Particle Detection. Materials Science & Technology <../docs/171.pdf>`

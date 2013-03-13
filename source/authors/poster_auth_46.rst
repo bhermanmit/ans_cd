@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Shaner, Sam
------------
+Schweitzer, Amanda
+------------------
 
-* :download:`Sam Shaner, Massachusetts Institute of Technology. Transient CMFD-accelerated MOC via IQS with Fully-Implicit Coarse-Time Stepping. Reactor Physics <../docs/346.pdf>`
+* :download:`Amanda Schweitzer, Pennsylvania State University. A Study of PWR's Water Chemistry and the Effects on the Reactor Operation and Surrounding Environment. Environmental Sciences <../docs/170.pdf>`

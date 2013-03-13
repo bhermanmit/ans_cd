@@ -24,9 +24,10 @@ Posters - All
 * :download:`Sarah Don, Massachusetts Institute of Technology. Surface Analysis of Materials Test Reactor Cladding. Thermal Hydraulics/Fluids <docs/396.pdf>`
 * :download:`Jacquelyn Dorhout, University of Nevada - Las Vegas. Synthesis of Rapid Separation Targets by Hydrothermal Methods. Special Session: Radiochemistry <docs/139.pdf>`
 * :download:`Romina Farmand, University of Nevada - Las Vegas. Synthesis and Characterization of Low-Valent Rhenium Dimers with Multiple Metal-Metal Bonds. Special Session: Radiochemistry <docs/407.pdf>`
-* :download:`Sara Ferry, Massachusetts Institute of Technology. Life Prediction of Used Fuel Storage Canister Material. Materials Science & Technology <docs/281.pdf>`
+* :download:`Sara Ferry, Massachusetts Institute of Technology. Life Prediction of Used Fuel Storage Canister Material. Materials Science & Technology <docs/417.pdf>`
 * :download:`Elliott Fray, Massachusetts Institute of Technology. Materials Testing and Development of Functionally Graded Composite Fuel Cladding and Piping for the Lead-Bismuth Cooled Nuclear Reactor. Materials Science & Technology <docs/326.pdf>`
-* :download:`Nadine Gatto, Pennsylvania State University. Design and Objectives of the International Thermonuclear Experimental Reactor (ITER). Fusion Energy & Plasmas <docs/189.pdf>`
+* :download:`Nadine Gatto, Pennsylvania State University. Design and Objectives of the International Thermonuclear Experimental Reactor (ITER). Fusion Energy & Plasmas <docs/415.pdf>`
+* :download:`Dominic M. Geleskie, Pennsylvania State University. Carbon Dioxide Emissions from the Nuclear Fuel Cycle Compared to Emissions from a Coal-fired Power Plant. Environmental Sciences <docs/141.pdf>`
 * :download:`Chris Gosdin, Pennsylvania State University. Comparison of Navy Fuel: Nuclear Propulsion Versus Diesel Propulsion. Operations & Power <docs/142.pdf>`
 * :download:`Hailey Green, University of Tennessee. Studies of Neutron Transport on Lunar Bases. Radiation Protection & Shielding <docs/279.pdf>`
 * :download:`Alexandre Guion, Massachusetts Institute of Technology. On the Liquid Microlayer Underneath a Vapor Bubble Growing at a Heated Wall. Thermal Hydraulics/Fluids <docs/379.pdf>`
@@ -38,6 +39,7 @@ Posters - All
 * :download:`Dustin Langewisch, Massachusetts Institute of Technology. Uncertainty Quantification for Computational Multiphase Fluid Dynamics. Mathematics & Computation <docs/292.pdf>`
 * :download:`Mike Mankosa, Pennsylvania State University. Outreach Programs to Accurately Inform the Public About Nuclear Power. Education, Training & Workforce Development <docs/236.pdf>`
 * :download:`Jacob McCallum, Idaho State University. Highly Enriched Uranium Reactor Rocket Propulsion System Modeled by MCNP. Aerospace Nuclear Science & Technology <docs/244.pdf>`
+* :download:`Jesse Misner, Idaho State University. Analysis of Synchrotron Radiation Diffraction Data on Experiments To Determine Phases and Microstructure of Zirconium Alloy Oxides. Materials Science & Technology <docs/240.pdf>`
 * :download:`Lindsay O'Brien, Massachusetts Institute of Technology. The Effect of Environment Chemistry and Microstructure on the Corrosion Fatigue Behavior of Austenitic Stainless Steels. Materials Science & Technology <docs/355.pdf>`
 * :download:`Mario Ortega, University of New Mexico. Reactor Physics Characterization of Minor Actinide Incineration in Modified MYRRHA/XT-ADS Reactor. Reactor Physics <docs/312.pdf>`
 * :download:`Christopher Pannier, Texas A&M University. Point Reactor Kinetics Model of a Reactivity Oscillator in the Texas A&M AGN-201M Research Reactor. Reactor Physics <docs/349.pdf>`

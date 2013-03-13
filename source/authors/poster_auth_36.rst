@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Parson, Jenelle
----------------
+Ortega, Mario
+-------------
 
-* :download:`Jenelle Parson, Colorado State University. Dose Rate Profile Surrounding a Waste Repository. Radiation Protection & Shielding <../docs/161.pdf>`
+* :download:`Mario Ortega, University of New Mexico. Reactor Physics Characterization of Minor Actinide Incineration in Modified MYRRHA/XT-ADS Reactor. Reactor Physics <../docs/312.pdf>`

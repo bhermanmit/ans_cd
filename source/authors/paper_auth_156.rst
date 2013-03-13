@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Williams, Walter
+Wolfson, Matthew
 ----------------
 
-* :download:`Walter Williams, Oregon State University. Neutron Radiography and Tomography: Determining and Optimizing Resolution of Neutron Sensitive MCP Detectors. Detection & Measurements <../docs/152.pdf>`
+* :download:`Matthew Wolfson, Pennsylvania State University. MCNP-ORIGEN2 Open Source Interface. Fuel Cycle & Waste Management <../docs/287.pdf>`

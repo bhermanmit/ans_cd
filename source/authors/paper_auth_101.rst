@@ -1,7 +1,6 @@
  :ref:`Back to Index <index>`
 
-Moffitt, Gregory
-----------------
+Noh, Siwan
+----------
 
-* :download:`Gregory Moffitt, University of Utah. MCNP5 Based Neutron Source Modeling for BNCT. Biology & Medicine <../docs/266.pdf>`
-* :download:`Gregory Moffitt, University of Utah. MCNPX Modeling of the Fast Neutron Beam at the University of Washington. Accelerator Applications <../docs/270.pdf>`
+* :download:`Siwan Noh, Hanyang University. Development of In Vitro Internal Dosimetry Methodology for Short-Lived Radioisotopes. Radiation Protection & Shielding <../docs/192.pdf>`

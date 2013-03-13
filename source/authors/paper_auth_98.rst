@@ -1,6 +1,7 @@
  :ref:`Back to Index <index>`
 
-McGahee, Christopher
---------------------
+Moffitt, Gregory
+----------------
 
-* :download:`Christopher McGahee, Georgia Institute of Technology. Radiation Detection Plate To Be Used at Security Checkpoints in Association with New ZNO Detectors. Detection & Measurements <../docs/197.pdf>`
+* :download:`Gregory Moffitt, University of Utah. MCNP5 Based Neutron Source Modeling for BNCT. Biology & Medicine <../docs/266.pdf>`
+* :download:`Gregory Moffitt, University of Utah. MCNPX Modeling of the Fast Neutron Beam at the University of Washington. Accelerator Applications <../docs/270.pdf>`

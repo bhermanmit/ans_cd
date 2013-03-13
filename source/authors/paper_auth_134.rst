@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Siefman, Daniel
----------------
+Somma, William
+--------------
 
-* :download:`Daniel Siefman, University of Florida. The Quest for a Negligible-Risk Reactor: A Safety Analysis of the University of Florida Training Reactor. Nuclear Installations Safety <../docs/380.pdf>`
+* :download:`William Somma, Pennsylvania State University. Thorium as a Nuclear Fuel: Benefits and Drawbacks. Fuel Cycle & Waste Management <../docs/274.pdf>`

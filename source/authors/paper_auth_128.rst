@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Sarnoski, Sarah
+Shapiro, Rachel
 ---------------
 
-* :download:`Sarah Sarnoski, University of Florida. University of Florida Digital Controls Work Force Training. Education, Training & Workforce Development <../docs/278.pdf>`
+* :download:`Rachel Shapiro, Pennsylvania State University. Optimization of Boron Distribution in ORNL High Flux Isotope Reactor LEU Core. Reactor Physics <../docs/177.pdf>`

@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Geleskie, Dominic M.
---------------------
+Geringer, Robert J.
+-------------------
 
-* :download:`Dominic M. Geleskie, Pennsylvania State University. Carbon Dioxide Emissions from the Nuclear Fuel Cycle Compared to Emissions from a Coal-fired Power Plant. Environmental Sciences <../docs/141.pdf>`
+* :download:`Robert J. Geringer, University of Illinois at Urbana-Champaign. Deep Borehole Storage of Nuclear Waste in Central Illinois Geology: A Technical, Economic, and Political Feasibility Analysis. Fuel Cycle & Waste Management <../docs/172.pdf>`

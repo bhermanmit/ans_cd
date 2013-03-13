@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Permar, Danny
--------------
+Raouafi, Haykel
+---------------
 
-* :download:`Danny Permar, University of Florida. FRAPCON 3.4 To Determine Enhanced Performance of UO2 Composite Fuel Fabricated by Spark Plasma Sintering. Materials Science & Technology <../docs/153.pdf>`
+* :download:`Haykel Raouafi, Polytechnique Montreal. DRAGON 3D Simulation of Spatial Self-Shielding Effect in Sample Irradiated in SLOWPOKE-2 Reactor. Reactor Physics <../docs/348.pdf>`

@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Sim, Ji-hyung
--------------
+Sosnovsky, Eugeny
+-----------------
 
-* :download:`Ji-hyung Sim, Hanyang University. The Characteristics of Fission Gas Release on Metallic Fuels. Materials Science & Technology <../docs/245.pdf>`
+* :download:`Eugeny Sosnovsky, Massachusetts Institute of Technology. Point Kinetics with Spatially Distributed Feedback via Bond Graphs. Reactor Physics <../docs/418.pdf>`

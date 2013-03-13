@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Painter, Daniel
----------------
+Pearson, Shawn
+--------------
 
-* :download:`Daniel Painter, University of Utah. Analysis of City Grown Bing Cherry Trees Using Neutron Activation Analysis. Environmental Sciences <../docs/368.pdf>`
+* :download:`Shawn Pearson, Idaho State University. Spent Fuel Heating System. Fuel Cycle & Waste Management <../docs/303.pdf>`

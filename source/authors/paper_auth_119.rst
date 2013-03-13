@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Riley, Michael P.
------------------
+Romatoski, Rebecca R.
+---------------------
 
-* :download:`Michael P. Riley, Pennsylvania State University. Correlation for the Prediction of Nucleate Boiling Heat Flux on a Downward Facing Hemispherical Surface During a Severe Accident. Thermal Hydraulics/Fluids <../docs/128.pdf>`
+* :download:`Rebecca R. Romatoski, Massachusetts Institute of Technology. Natural Circulation Liquid-Salt Loop Conceptual Design for the MIT Reactor. Thermal Hydraulics/Fluids <../docs/203.pdf>`

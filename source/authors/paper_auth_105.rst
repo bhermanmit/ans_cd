@@ -1,7 +1,7 @@
  :ref:`Back to Index <index>`
 
-O'Hagan, Chad
--------------
+Passons, Branden
+----------------
 
-* :download:`Chad O'Hagan, Texas A&M University. Spent Fuel Pool Graphical User Interface Application For Verifying Fuel Assembly Placement. Operations & Power <../docs/209.pdf>`
-* :download:`Chad O'Hagan, Texas A&M University. Sanmen Nuclear Power Plant. Education, Training & Workforce Development <../docs/211.pdf>`
+* :download:`Branden Passons, United States Military Academy. One in Eight: A Study on Computer-aided Detection as a Viable Means for Mass Mammography Screenings. Biology & Medicine <../docs/255.pdf>`
+* :download:`Branden Passons, United States Military Academy. Compact Production of Novel X-rays as a New Modality for Imaging Soft Tissue. Accelerator Applications <../docs/286.pdf>`

@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Majcher, Amanda
----------------
+Maradia, Vivek
+--------------
 
-* :download:`Amanda Majcher, Pennsylvania State University. Importance of Doping in Graphene Field Effect Transistors for Alpha Particle Detection. Materials Science & Technology <../docs/171.pdf>`
+* :download:`Vivek Maradia, Pandit Deendayal Petroleum University. Accident Sequence Modeling for Indian Fast Breeder Test Reactor. Nuclear Criticality Safety <../docs/104.pdf>`

@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Noh, Siwan
-----------
+Painter, Daniel
+---------------
 
-* :download:`Siwan Noh, Hanyang University. Development of In Vitro Internal Dosimetry Methodology for Short-Lived Radioisotopes. Radiation Protection & Shielding <../docs/192.pdf>`
+* :download:`Daniel Painter, University of Utah. Analysis of City Grown Bing Cherry Trees Using Neutron Activation Analysis. Environmental Sciences <../docs/368.pdf>`

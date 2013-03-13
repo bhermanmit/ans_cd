@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Swift, Andrew J.
+Sugrue, Rosemary
 ----------------
 
-* :download:`Andrew J. Swift, University of Nevada - Las Vegas. Evaluation and Preparation of Uranium Alloys Based on Fuel Burnup. Special Session: Radiochemistry <../docs/213.pdf>`
+* :download:`Rosemary Sugrue, Massachusetts Institute of Technology. A Modified Mechanistic Model for Predicting Bubble Departure Diameter in Subcooled Flow Boiling. Thermal Hydraulics/Fluids <../docs/383.pdf>`

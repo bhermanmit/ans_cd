@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Pearson, Shawn
---------------
+Phathanapirom, Urairisa
+-----------------------
 
-* :download:`Shawn Pearson, Idaho State University. Spent Fuel Heating System. Fuel Cycle & Waste Management <../docs/303.pdf>`
+* :download:`Urairisa Phathanapirom, University of Texas at Austin. Resource Intensities of the Front End of the Nuclear Fuel Cycle. Fuel Cycle & Waste Management <../docs/307.pdf>`

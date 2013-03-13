@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Reinke, Benjamin
-----------------
+Rockman, Joshua
+---------------
 
-* :download:`Benjamin Reinke, Ohio State University. Temperature Controlled Cryostat for Electrical and Optical Reactor Irradiation Experiments. Materials Science & Technology <../docs/310.pdf>`
+* :download:`Joshua Rockman, Pennsylvania State University. Operation Crossroads: An Historical Review into the World's First Case of Widespread Radioactive Contamination. Detection & Measurements <../docs/194.pdf>`

@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Vaquer, Pablo
--------------
+Swift, Andrew J.
+----------------
 
-* :download:`Pablo Vaquer, University of Florida. A Low Temperature Gas Reactor with VASIMR Thrusters for Near-Term Interplanetary Travel. Aerospace Nuclear Science & Technology <../docs/352.pdf>`
+* :download:`Andrew J. Swift, University of Nevada - Las Vegas. Evaluation and Preparation of Uranium Alloys Based on Fuel Burnup. Special Session: Radiochemistry <../docs/213.pdf>`

@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Weier, Angela
--------------
+Williams, Walter
+----------------
 
-* :download:`Angela Weier, University of Wisconsin. Calibration and Quality Assurance and Uses of Planar Brachytherapy Sources. Biology & Medicine <../docs/254.pdf>`
+* :download:`Walter Williams, Oregon State University. Neutron Radiography and Tomography: Determining and Optimizing Resolution of Neutron Sensitive MCP Detectors. Detection & Measurements <../docs/152.pdf>`

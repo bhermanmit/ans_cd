@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Zimmer, Matthew
----------------
+Woodley, David
+--------------
 
-* :download:`Matthew Zimmer, Rensselaer Polytechnic Institute. An Analysis of Multidimensional Models of Turbulent Flow in Nuclear Reactors. Thermal Hydraulics/Fluids <../docs/388.pdf>`
+* :download:`David Woodley, North Carolina State University. High Temperature Test Capsule for Irradiation Experiments in the Pulstar Reactor. Materials Science & Technology <../docs/259.pdf>`
