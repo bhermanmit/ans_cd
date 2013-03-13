@@ -32,3 +32,11 @@ Technical Program Chair
 -----------------------
 
 * Bryan Herman
+
+
+Conference Co-Chairs
+--------------------
+
+* Ekaterina Paramonova
+* Nathan Gibson
+* Samuel Brinton
