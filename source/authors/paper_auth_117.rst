@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Riley, Michael P.
------------------
+Rockman, Joshua
+---------------
 
-* :download:`Michael P. Riley, Pennsylvania State University. Correlation for the Prediction of Nucleate Boiling Heat Flux on a Downward Facing Hemispherical Surface During a Severe Accident. Thermal Hydraulics/Fluids <../docs/128.pdf>`
+* :download:`Joshua Rockman, Pennsylvania State University. Operation Crossroads: An Historical Review into the World's First Case of Widespread Radioactive Contamination. Detection & Measurements <../docs/194.pdf>`

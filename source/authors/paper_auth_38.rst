@@ -1,7 +1,6 @@
  :ref:`Back to Index <index>`
 
-Frazer, David
--------------
+Fudurich, Valerie
+-----------------
 
-* :download:`David Frazer, University of California - Berkeley. Nano/micro Scale Characterization of SiC/SiC Composite Materials. Materials Science & Technology <../docs/260.pdf>`
-* :download:`David Frazer, University of California - Berkeley. Evaluation of Passive Layer Failure Utilizing Micro Bend Bar Testing. Materials Science & Technology <../docs/321.pdf>`
+* :download:`Valerie Fudurich, Pennsylvania State University. Food Irradiation: The Future of Food Safety. Isotopes & Radiation <../docs/155.pdf>`

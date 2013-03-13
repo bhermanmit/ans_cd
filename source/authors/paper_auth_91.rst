@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Maradia, Vivek
---------------
+Mart, Justin
+------------
 
-* :download:`Vivek Maradia, Pandit Deendayal Petroleum University. Accident Sequence Modeling for Indian Fast Breeder Test Reactor. Nuclear Criticality Safety <../docs/104.pdf>`
+* :download:`Justin Mart, Oregon State University. Feasibility Study on Soluble Boron-Free Operation in a Prototypical Small Modular Reactor Through an Advanced Control Rod Algorithm. Operations & Power <../docs/316.pdf>`

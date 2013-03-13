@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Cross, Brent
-------------
+Dorhout, Jacquelyn
+------------------
 
-* :download:`Brent Cross, University of Illinois at Urbana-Champaign. Increasing X-Ray Fluorescence Emission Tomography (XFET) Speed with Novel Geometry. Biology & Medicine <../docs/317.pdf>`
+* :download:`Jacquelyn Dorhout, University of Nevada - Las Vegas. Synthesis of Rapid Separation Targets by Hydrothermal Methods. Special Session: Radiochemistry <../docs/139.pdf>`

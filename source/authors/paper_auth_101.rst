@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Nimmagadda, Jyothier
---------------------
+Noh, Siwan
+----------
 
-* :download:`Jyothier Nimmagadda, Idaho State University. Iron Reflector Effects in the Fast Neutron Reactors. Reactor Physics <../docs/154.pdf>`
+* :download:`Siwan Noh, Hanyang University. Development of In Vitro Internal Dosimetry Methodology for Short-Lived Radioisotopes. Radiation Protection & Shielding <../docs/192.pdf>`

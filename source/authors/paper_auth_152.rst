@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Webster, Jeff
--------------
+West, Derek
+-----------
 
-* :download:`Jeff Webster, Purdue University. Demonstrating Tensioned Metastable Fluid Detectors as Gamma-Blind Nuclear Particle Sensors. Detection & Measurements <../docs/314.pdf>`
+* :download:`Derek West, United States Military Academy. Benchmark Rutherford Scattering Experiment Using Pelletron Accelerator. Accelerator Applications <../docs/325.pdf>`

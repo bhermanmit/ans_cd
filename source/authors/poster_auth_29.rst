@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Jeong, Uiju
------------
+Ortega, Mario
+-------------
 
-* :download:`Uiju Jeong, Hanyang University. CFD Analysis of Liquid Sodium Flow in the Vicinity of Permanent Magnet Probe Flow Meter Using FLUENT. Thermal Hydraulics/Fluids <../docs/176.pdf>`
+* :download:`Mario Ortega, University of New Mexico. Reactor Physics Characterization of Minor Actinide Incineration in Modified MYRRHA/XT-ADS Reactor. Reactor Physics <../docs/312.pdf>`

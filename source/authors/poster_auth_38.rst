@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Pannier, Christopher
---------------------
+Schweitzer, Amanda
+------------------
 
-* :download:`Christopher Pannier, Texas A&M University. Point Reactor Kinetics Model of a Reactivity Oscillator in the Texas A&M AGN-201M Research Reactor. Reactor Physics <../docs/349.pdf>`
+* :download:`Amanda Schweitzer, Pennsylvania State University. A Study of PWR's Water Chemistry and the Effects on the Reactor Operation and Surrounding Environment. Environmental Sciences <../docs/170.pdf>`

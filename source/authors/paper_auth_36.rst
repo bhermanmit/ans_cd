@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Forsberg, Phillip
------------------
+Franklin, Andrew
+----------------
 
-* :download:`Phillip Forsberg, Purdue University. Data Encryption of Radiation Signals Using Chaotic Artificial Neural Networks. Mathematics & Computation <../docs/304.pdf>`
+* :download:`Andrew Franklin, Texas A&M University. Visualization of RELAP5-3D: Thermal-hydraulic Properties of Multi-Dimensional Components To Study Core Blockage Scenarios. Thermal Hydraulics/Fluids <../docs/276.pdf>`

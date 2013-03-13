@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Langewisch, Dustin
-------------------
+Phan, Nam
+---------
 
-* :download:`Dustin Langewisch, Massachusetts Institute of Technology. Uncertainty Quantification for Computational Multiphase Fluid Dynamics. Mathematics & Computation <../docs/292.pdf>`
+* :download:`Nam Phan, Purdue University. Evaluating a Riemann Problem in TFIT as Vertical Two-Phase Bubbly Flow. Thermal Hydraulics/Fluids <../docs/195.pdf>`

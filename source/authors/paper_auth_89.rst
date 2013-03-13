@@ -1,6 +1,7 @@
  :ref:`Back to Index <index>`
 
-Majcher, Amanda
----------------
+Malachosky, Christopher
+-----------------------
 
-* :download:`Amanda Majcher, Pennsylvania State University. Importance of Doping in Graphene Field Effect Transistors for Alpha Particle Detection. Materials Science & Technology <../docs/171.pdf>`
+* :download:`Christopher Malachosky, United States Military Academy. Design of an Undergraduate X-Ray Fluorescence Laboratory. Education, Training & Workforce Development <../docs/334.pdf>`
+* :download:`Christopher Malachosky, United States Military Academy. Optical Flash Blindness. Nonproliferation & Nuclear Safeguards <../docs/336.pdf>`

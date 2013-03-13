@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Pedretti, Francesco
--------------------
+Phathanapirom, Urairisa
+-----------------------
 
-* :download:`Francesco Pedretti, University of Pisa. Ideas for the Definition of the Heat Transfer Surface. Thermal Hydraulics/Fluids <../docs/138.pdf>`
+* :download:`Urairisa Phathanapirom, University of Texas at Austin. Resource Intensities of the Front End of the Nuclear Fuel Cycle. Fuel Cycle & Waste Management <../docs/307.pdf>`

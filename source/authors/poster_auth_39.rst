@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Parson, Jenelle
+Selby, Aaron P.
 ---------------
 
-* :download:`Jenelle Parson, Colorado State University. Dose Rate Profile Surrounding a Waste Repository. Radiation Protection & Shielding <../docs/161.pdf>`
+* :download:`Aaron P. Selby, University of Tennessee. Comparison of Defect Production by High-Energy Displacement Cascades in Molybdenum, Chromium, and Iron. Materials Science & Technology <../docs/222.pdf>`

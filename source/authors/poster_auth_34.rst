@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-McCallum, Jacob
----------------
+Riblett, Matthew J.
+-------------------
 
-* :download:`Jacob McCallum, Idaho State University. Highly Enriched Uranium Reactor Rocket Propulsion System Modeled by MCNP. Aerospace Nuclear Science & Technology <../docs/244.pdf>`
+* :download:`Matthew J. Riblett, Rensselaer Polytechnic Institute. Use of Hardware Accelerators for Monte Carlo-based Radiation Transport: Preliminary Strategies for Tackling Neutron Radiation. Mathematics & Computation <../docs/350.pdf>`

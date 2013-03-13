@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Kristo, Paul
-------------
+Pannier, Christopher
+--------------------
 
-* :download:`Paul Kristo, University of Pittsburgh. Design of a Constant Temperature Anemometer Calibration Procedure for Use with Heated Flows. Thermal Hydraulics/Fluids <../docs/231.pdf>`
+* :download:`Christopher Pannier, Texas A&M University. Point Reactor Kinetics Model of a Reactivity Oscillator in the Texas A&M AGN-201M Research Reactor. Reactor Physics <../docs/349.pdf>`

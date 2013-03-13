@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Devoe, Remy
------------
+Fray, Elliott
+-------------
 
-* :download:`Remy Devoe, University of Tennessee. Characterization of Inorganic Scintillators with Synchrotron Radiation: Cerium Dopant Concentration Non-Uniformity from Czochralski Growth Process. Accelerator Applications <../docs/290.pdf>`
+* :download:`Elliott Fray, Massachusetts Institute of Technology. Materials Testing and Development of Functionally Graded Composite Fuel Cladding and Piping for the Lead-Bismuth Cooled Nuclear Reactor. Materials Science & Technology <../docs/326.pdf>`

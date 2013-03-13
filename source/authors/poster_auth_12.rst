@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Collins, Price
---------------
+Devoe, Remy
+-----------
 
-* :download:`Price Collins, University of Tennessee. Fault Simulation for Integral Pressurized Water Reactors. Human Factors, Instrumentation & Controls <../docs/146.pdf>`
+* :download:`Remy Devoe, University of Tennessee. Characterization of Inorganic Scintillators with Synchrotron Radiation: Cerium Dopant Concentration Non-Uniformity from Czochralski Growth Process. Accelerator Applications <../docs/290.pdf>`

@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Boron-Brenner, Lucas
---------------------
+Car IV, James
+-------------
 
-* :download:`Lucas Boron-Brenner, University of Nevada - Las Vegas. Scandium and Titanium Adsorption Data Studies Using Eicrhom's Ln Resin Under Hydrochloric, Nitric, and Sulfuric Acid Conditions. Special Session: Radiochemistry <../docs/345.pdf>`
+* :download:`James Car IV, Virginia Commonwealth University. Techniques To Improve the Corrosion Resistance of Metals. Materials Science & Technology <../docs/291.pdf>`

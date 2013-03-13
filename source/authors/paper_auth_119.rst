@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Rockman, Joshua
----------------
+Root, Margaret
+--------------
 
-* :download:`Joshua Rockman, Pennsylvania State University. Operation Crossroads: An Historical Review into the World's First Case of Widespread Radioactive Contamination. Detection & Measurements <../docs/194.pdf>`
+* :download:`Margaret Root, Massachusetts Institute of Technology. Monte Carlo Simulations in Support of PNEM Field Trial Data Analysis. Nonproliferation & Nuclear Safeguards <../docs/131.pdf>`

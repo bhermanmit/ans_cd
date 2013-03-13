@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Galegar, Natalie
+Gallardo, Athena
 ----------------
 
-* :download:`Natalie Galegar, Texas A&M University. The Setup and Use of Laser Doppler Velocimetry for Measuring Flow Fields in Fuel Assemblies of Pressurized Water Reactors. Thermal Hydraulics/Fluids <../docs/173.pdf>`
+* :download:`Athena Gallardo, University of Nevada - Las Vegas. Investigation of Storage-Phosphor Autoradiography for the Rapid Quantitative Screening of Air Filters for Emergency Response Purposes. Detection & Measurements <../docs/397.pdf>`

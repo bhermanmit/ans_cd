@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Rubio, Floren
--------------
+Sweet, Ryan
+-----------
 
-* :download:`Floren Rubio, Los Alamos National Laboratory. Corrosion and Oxygen Control Studies Using a Lead Bismuth Eutectic Flow Loop (DELTA). Materials Science & Technology <../docs/143.pdf>`
+* :download:`Ryan Sweet, University of Tennessee. Helium Bubble Formation in Plasma Facing Surfaces for Fusion Reactor Applications. Fusion Energy & Plasmas <../docs/328.pdf>`

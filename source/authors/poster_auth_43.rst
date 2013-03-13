@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Riddle, William
----------------
+Sugrue, Rosemary
+----------------
 
-* :download:`William Riddle, North Carolina State University. Fuel Assembly Design for Improved Transuranics Recylcing in Light Water Reactors. Fuel Cycle & Waste Management <../docs/178.pdf>`
+* :download:`Rosemary Sugrue, Massachusetts Institute of Technology. A Modified Mechanistic Model for Predicting Bubble Departure Diameter in Subcooled Flow Boiling. Thermal Hydraulics/Fluids <../docs/383.pdf>`

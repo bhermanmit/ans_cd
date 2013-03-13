@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Wargon, Matthew
----------------
+Weier, Angela
+-------------
 
-* :download:`Matthew Wargon, Pennsylvania State University. Modeling Of Depletion In Molten Salt Reactors. Reactor Physics <../docs/230.pdf>`
+* :download:`Angela Weier, University of Wisconsin. Calibration and Quality Assurance and Uses of Planar Brachytherapy Sources. Biology & Medicine <../docs/254.pdf>`

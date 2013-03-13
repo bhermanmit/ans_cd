@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Tam, Austin
------------
+Trinuruk, Piyatida
+------------------
 
-* :download:`Austin Tam, Idaho State University. Variable Zinc Oxide Nanostructure Growth on Sapphire Substrate for Neutron Detection. Nonproliferation & Nuclear Safeguards <../docs/145.pdf>`
+* :download:`Piyatida Trinuruk, Tokyo Institute of Technology. The Application of SiC Coating in Prismatic HTGRs To Prevent Accidents Caused by Graphite Oxidation. Reactor Physics <../docs/382.pdf>`

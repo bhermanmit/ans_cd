@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Mulligan, Padhraic
-------------------
+Nimmagadda, Jyothier
+--------------------
 
-* :download:`Padhraic Mulligan, Ohio State University. Fabrication and Characterization Of A Freestanding n-Type GaN Radiation Detector. Detection & Measurements <../docs/329.pdf>`
+* :download:`Jyothier Nimmagadda, Idaho State University. Iron Reflector Effects in the Fast Neutron Reactors. Reactor Physics <../docs/154.pdf>`

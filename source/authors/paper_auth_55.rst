@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Herman, Christopher
--------------------
+Herman, Bryan
+-------------
 
-* :download:`Christopher Herman, North Carolina State University. Reactivity Defect Benchmarking of the OpenMC Monte Carlo Transport Code. Reactor Physics <../docs/377.pdf>`
+* :download:`Bryan Herman, Massachusetts Institute of Technology. Accelerated Fission Source Convergence of OpenMC using Nonlinear Diffusion Methods. Mathematics & Computation <../docs/384.pdf>`

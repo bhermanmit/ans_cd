@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Swan, David C.
---------------
+Treanor, Sierra
+---------------
 
-* :download:`David C. Swan, North Carolina State University. Design of a Next-Generation Neutron Multiplicity Counter Independent of Helium-3. Detection & Measurements <../docs/338.pdf>`
+* :download:`Sierra Treanor, University of Texas at Austin. Neutron Activation Analysis as a Preferred Method for Determining Uranium and Thorium Concentrations in Soil. Environmental Sciences <../docs/297.pdf>`

@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Mankosa, Mike
--------------
+Quarrick, Erica
+---------------
 
-* :download:`Mike Mankosa, Pennsylvania State University. Outreach Programs to Accurately Inform the Public About Nuclear Power. Education, Training & Workforce Development <../docs/236.pdf>`
+* :download:`Erica Quarrick, Pennsylvania State University. A PYTHON Pre- and Post-Processing GUI Utility for Generic Repository Thermal Analysis. Fuel Cycle & Waste Management <../docs/261.pdf>`

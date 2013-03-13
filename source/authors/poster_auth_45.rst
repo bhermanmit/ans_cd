@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Sames, William
---------------
+Swift, Andrew J.
+----------------
 
-* :download:`William Sames, Texas A&M University. Delayed Hydride Cracking in Zirconium Alloys. Materials Science & Technology <../docs/157.pdf>`
+* :download:`Andrew J. Swift, University of Nevada - Las Vegas. Evaluation and Preparation of Uranium Alloys Based on Fuel Burnup. Special Session: Radiochemistry <../docs/213.pdf>`

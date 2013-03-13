@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Geringer, Robert J.
--------------------
+Gibson, Nathan
+--------------
 
-* :download:`Robert J. Geringer, University of Illinois at Urbana-Champaign. Deep Borehole Storage of Nuclear Waste in Central Illinois Geology: A Technical, Economic, and Political Feasibility Analysis. Fuel Cycle & Waste Management <../docs/172.pdf>`
+* :download:`Nathan Gibson, Massachusetts Institute of Technology. A Group Mapping Algorithm for the Discrete Generalized Multigroup Method. Reactor Physics <../docs/421.pdf>`

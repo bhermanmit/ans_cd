@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-McClure, Kelly
---------------
+McCulloch, Molly
+----------------
 
-* :download:`Kelly McClure, Pennsylvania State University. The American Nuclear Society and THON. Education, Training & Workforce Development <../docs/201.pdf>`
+* :download:`Molly McCulloch, Oregon State University. Design of Optimization of the Advanced Test Reactor Low Enrichment Fuel for Conversion. Reactor Physics <../docs/210.pdf>`

@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Sorbom, Brandon
+Zimmer, Matthew
 ---------------
 
-* :download:`Brandon Sorbom, Massachusetts Institute of Technology. A Molten Salt Liquid Immersion Blanket Design For Use in a Compact, Modular Fusion Reactor. Fusion Energy & Plasmas <../docs/344.pdf>`
+* :download:`Matthew Zimmer, Rensselaer Polytechnic Institute. An Analysis of Multidimensional Models of Turbulent Flow in Nuclear Reactors. Thermal Hydraulics/Fluids <../docs/388.pdf>`

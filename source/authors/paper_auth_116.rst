@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Reinke, Benjamin
-----------------
+Roberts, Jeremy
+---------------
 
-* :download:`Benjamin Reinke, Ohio State University. Temperature Controlled Cryostat for Electrical and Optical Reactor Irradiation Experiments. Materials Science & Technology <../docs/310.pdf>`
+* :download:`Jeremy Roberts, Massachusetts Institute of Technology. Angular Expansions for the Response Matrix Method. Mathematics & Computation <../docs/371.pdf>`

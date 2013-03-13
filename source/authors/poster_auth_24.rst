@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Gosdin, Chris
--------------
+Lane, Taylor
+------------
 
-* :download:`Chris Gosdin, Pennsylvania State University. Comparison of Navy Fuel: Nuclear Propulsion Versus Diesel Propulsion. Operations & Power <../docs/142.pdf>`
+* :download:`Taylor Lane, Texas A&M University. A Flux-Limited Diffusion Method for Simulating Radiative Shocks. Fusion Energy & Plasmas <../docs/135.pdf>`

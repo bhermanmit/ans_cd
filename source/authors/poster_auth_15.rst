@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-DeWitte, Jacob
---------------
+Ferry, Sara
+-----------
 
-* :download:`Jacob DeWitte, Massachusetts Institute of Technology. How To Burn Actinides: Which Spectrum is Better?. Fuel Cycle & Waste Management <../docs/420.pdf>`
+* :download:`Sara Ferry, Massachusetts Institute of Technology. Life Prediction of Used Fuel Storage Canister Material. Materials Science & Technology <../docs/417.pdf>`

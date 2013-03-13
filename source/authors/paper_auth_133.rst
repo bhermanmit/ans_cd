@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Sim, Ji-hyung
--------------
+Somma, William
+--------------
 
-* :download:`Ji-hyung Sim, Hanyang University. The Characteristics of Fission Gas Release on Metallic Fuels. Materials Science & Technology <../docs/245.pdf>`
+* :download:`William Somma, Pennsylvania State University. Thorium as a Nuclear Fuel: Benefits and Drawbacks. Fuel Cycle & Waste Management <../docs/274.pdf>`

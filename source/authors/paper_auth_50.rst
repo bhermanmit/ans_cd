@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Gurecky, William
-----------------
+Hall, Andrew
+------------
 
-* :download:`William Gurecky, University of Texas at Austin. A Jet Modeling Framework Relevant to LOCA Analysis. Thermal Hydraulics/Fluids <../docs/220.pdf>`
+* :download:`Andrew Hall, University of Michigan. Advanced Neutronics Methods for Analysis of the RBWR-AC. Reactor Physics <../docs/412.pdf>`

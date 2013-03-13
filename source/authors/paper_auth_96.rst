@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-McDermott, Brian
-----------------
+McGahee, Christopher
+--------------------
 
-* :download:`Brian McDermott, Rensselaer Polytechnic Institute. A Detector Array for Measuring Neutron Capture Cross Sections in the keV Region. Nuclear Criticality Safety <../docs/221.pdf>`
+* :download:`Christopher McGahee, Georgia Institute of Technology. Radiation Detection Plate To Be Used at Security Checkpoints in Association with New ZNO Detectors. Detection & Measurements <../docs/197.pdf>`

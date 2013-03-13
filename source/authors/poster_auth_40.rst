@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Phan, Nam
----------
+Sorbom, Brandon
+---------------
 
-* :download:`Nam Phan, Purdue University. Evaluating a Riemann Problem in TFIT as Vertical Two-Phase Bubbly Flow. Thermal Hydraulics/Fluids <../docs/195.pdf>`
+* :download:`Brandon Sorbom, Massachusetts Institute of Technology. A Molten Salt Liquid Immersion Blanket Design For Use in a Compact, Modular Fusion Reactor. Fusion Energy & Plasmas <../docs/344.pdf>`

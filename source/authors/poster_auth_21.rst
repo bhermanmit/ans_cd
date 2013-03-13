@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Fray, Elliott
--------------
+Horwood, Aaron
+--------------
 
-* :download:`Elliott Fray, Massachusetts Institute of Technology. Materials Testing and Development of Functionally Graded Composite Fuel Cladding and Piping for the Lead-Bismuth Cooled Nuclear Reactor. Materials Science & Technology <../docs/326.pdf>`
+* :download:`Aaron Horwood, United States Military Academy. Unmanned Lighter-Than-Air Vehicle For Remote Radiological Survey. Robotics & Remote Systems <../docs/267.pdf>`

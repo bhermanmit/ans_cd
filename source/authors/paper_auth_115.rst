@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Rehal, Jaspreet
----------------
+Riley, Michael P.
+-----------------
 
-* :download:`Jaspreet Rehal, University of Illinois at Urbana-Champaign. SEE RADS Platform: Social, Every Day, and Emergency Radiation Detection System. Detection & Measurements <../docs/206.pdf>`
+* :download:`Michael P. Riley, Pennsylvania State University. Correlation for the Prediction of Nucleate Boiling Heat Flux on a Downward Facing Hemispherical Surface During a Severe Accident. Thermal Hydraulics/Fluids <../docs/128.pdf>`

@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Farmand, Romina
----------------
+Gosdin, Chris
+-------------
 
-* :download:`Romina Farmand, University of Nevada - Las Vegas. Synthesis and Characterization of Low-Valent Rhenium Dimers with Multiple Metal-Metal Bonds. Special Session: Radiochemistry <../docs/407.pdf>`
+* :download:`Chris Gosdin, Pennsylvania State University. Comparison of Navy Fuel: Nuclear Propulsion Versus Diesel Propulsion. Operations & Power <../docs/142.pdf>`

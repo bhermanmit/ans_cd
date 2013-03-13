@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Sosnovsky, Eugeny
------------------
+Stempien, John
+--------------
 
-* :download:`Eugeny Sosnovsky, Massachusetts Institute of Technology. Point Kinetics with Spatially Distributed Feedback via Bond Graphs. Reactor Physics <../docs/418.pdf>`
+* :download:`John Stempien, Massachusetts Institute of Technology. Coolant Chemistry and Materials Compatibility in the Fluoride Salt-Cooled High Temperature Reactor (FHR). Materials Science & Technology <../docs/243.pdf>`

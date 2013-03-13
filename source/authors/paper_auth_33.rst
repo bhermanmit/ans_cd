@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Fischetti, Grace
+Flanagan, Robert
 ----------------
 
-* :download:`Grace Fischetti, North Carolina State University. Design of a Continuous Pyrochemical Process for Actinide Recovery. Fuel Cycle & Waste Management <../docs/227.pdf>`
+* :download:`Robert Flanagan, University of Texas Austin. Input Visualization for the Cyclus Nuclear Fuel Cycle Simulator. Fuel Cycle & Waste Management <../docs/339.pdf>`

@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Vadlamani, Ram A.
------------------
+Verlie, Matthew
+---------------
 
-* :download:`Ram A. Vadlamani, Purdue University. An Experimental Study of Subcooled Choked Flow Through Simulated Steam Generator Tube Cracks. Thermal Hydraulics/Fluids <../docs/253.pdf>`
+* :download:`Matthew Verlie, United States Military Academy. Optimization of a Delayed Neutron Detector Design. Detection & Measurements <../docs/323.pdf>`

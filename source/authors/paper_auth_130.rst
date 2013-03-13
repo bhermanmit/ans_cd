@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Shaver, Dillon
---------------
+Siefman, Daniel
+---------------
 
-* :download:`Dillon Shaver, Rensselaer Polytechnic Institute. Model Development for Large-Scale Nuclear Power Reactor Simulations. Thermal Hydraulics/Fluids <../docs/313.pdf>`
+* :download:`Daniel Siefman, University of Florida. The Quest for a Negligible-Risk Reactor: A Safety Analysis of the University of Florida Training Reactor. Nuclear Installations Safety <../docs/380.pdf>`

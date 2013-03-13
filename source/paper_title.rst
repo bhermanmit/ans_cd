@@ -38,7 +38,6 @@ Papers - All
 * :download:`Jacob DeWitte, Massachusetts Institute of Technology. Maximizing the US Nuclear Fleet Through Life Extension and Mega Uprates. Operations & Power <docs/400.pdf>`
 * :download:`Wesley Deason, Oregon State University. Modeling of Fission Product Transport in a Representative Helium-cooled Fast Reactor Using STELLA. Nuclear Installations Safety <docs/395.pdf>`
 * :download:`Christian DiSanzo, University of California - Berkeley. Minimum Volume of Breed and Burn Cores. Reactor Physics <docs/369.pdf>`
-* :download:`Conor Dougherty, United States Military Academy. Late Cloud Film Analysis: Determining Cloud Rise From Film. Mathematics & Computation <docs/309.pdf>`
 * :download:`Thomas Eiden, University of Wisconsin - Madison. Get Out of the Way, NRC!. Policy <docs/351.pdf>`
 * :download:`Grace Fischetti, North Carolina State University. Design of a Continuous Pyrochemical Process for Actinide Recovery. Fuel Cycle & Waste Management <docs/227.pdf>`
 * :download:`Robert Flanagan, University of Texas Austin. Input Visualization for the Cyclus Nuclear Fuel Cycle Simulator. Fuel Cycle & Waste Management <docs/339.pdf>`
@@ -78,7 +77,6 @@ Papers - All
 * :download:`Timothy Jacomb-Hood, Pennsylvania State University. Unraveling Environmental Contributions to Fallout Formation. Special Session: Radiochemistry <docs/149.pdf>`
 * :download:`Jennifer Jarvis, Massachusetts Institute of Technology. PWR Water Chemistry Modeling for Hydrogen Pickup in Zircaloy Cladding. Materials Science & Technology <docs/356.pdf>`
 * :download:`Jon Jensen, Idaho State University. Design and Testing for a Pedestrian Portal Monitor System. Nonproliferation & Nuclear Safeguards <docs/108.pdf>`
-* :download:`Jon Jensen, Idaho State University. Design and Testing of a Model Boiling Water Reactor. Operations & Power <docs/109.pdf>`
 * :download:`Sol Jeong, Hanyang University. Dose Evaluation in Accidental Release of Tritium Gas with Consideration of Tritiated Water Vapor Oxidized in Soil. Biology & Medicine <docs/311.pdf>`
 * :download:`Hong Jiao, Rensselaer Polytechnic Institute. Modeling and Analysis of Thermal Phenomena Governing Bubble Growth and Collapse in Subcooled Boiling. Thermal Hydraulics/Fluids <docs/298.pdf>`
 * :download:`HangJin Jo, POSTECH. Pool Boiling on Hydrophilic and Hydrophobic Nano/Microstructure with Different Wetting Surfaces. Thermal Hydraulics/Fluids <docs/251.pdf>`
@@ -123,7 +121,6 @@ Papers - All
 * :download:`Branden Passons, United States Military Academy. One in Eight: A Study on Computer-aided Detection as a Viable Means for Mass Mammography Screenings. Biology & Medicine <docs/255.pdf>`
 * :download:`Branden Passons, United States Military Academy. Compact Production of Novel X-rays as a New Modality for Imaging Soft Tissue. Accelerator Applications <docs/286.pdf>`
 * :download:`Rita Patel, University of Pittsburgh. Creation of a Coursera Course in Nuclear Science and Technology. Education, Training & Workforce Development <docs/147.pdf>`
-* :download:`Shawn Pearson, Idaho State University. Spent Fuel Heating System. Fuel Cycle & Waste Management <docs/303.pdf>`
 * :download:`Francesco Pedretti, University of Pisa. Ideas for the Definition of the Heat Transfer Surface. Thermal Hydraulics/Fluids <docs/138.pdf>`
 * :download:`Danny Permar, University of Florida. FRAPCON 3.4 To Determine Enhanced Performance of UO2 Composite Fuel Fabricated by Spark Plasma Sintering. Materials Science & Technology <docs/153.pdf>`
 * :download:`Urairisa Phathanapirom, University of Texas at Austin. Resource Intensities of the Front End of the Nuclear Fuel Cycle. Fuel Cycle & Waste Management <docs/307.pdf>`
@@ -180,4 +177,3 @@ Papers - All
 * :download:`Jianguo Zhong, Rensselaer Polytechnic Institute. Analysis of Heat Transfer in Supercritical Water Reactor Core. Thermal Hydraulics/Fluids <docs/398.pdf>`
 * :download:`Kristofer Zieb, Oregon State University. Optimal PID Tuning in Coupled Flow Rate-Pressure Control System at the Oregon State Hydro-Mechanical Fuel Test Facility. Human Factors, Instrumentation & Controls <docs/342.pdf>`
 * :download:`Alexander Zorrilla, University of Florida. Analysis of Skin Dose Mapping for a Standard Fluoroscopy Procedure in Patients of Varying Sizes. Biology & Medicine <docs/280.pdf>`
-* :download:`Gian de Guzman, Idaho State University. What are the Risks and Benefits of Accelerated Spent Fuel Transfer?. Fuel Cycle & Waste Management <docs/130.pdf>`

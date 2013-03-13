@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Garcia, Tim
------------
+Geringer, Robert J.
+-------------------
 
-* :download:`Tim Garcia, Ohio State University. 4H-SiC Schottky Diode Alpha Particle Detectors for In-situ Pyroprocessing Safeguards. Detection & Measurements <../docs/324.pdf>`
+* :download:`Robert J. Geringer, University of Illinois at Urbana-Champaign. Deep Borehole Storage of Nuclear Waste in Central Illinois Geology: A Technical, Economic, and Political Feasibility Analysis. Fuel Cycle & Waste Management <../docs/172.pdf>`

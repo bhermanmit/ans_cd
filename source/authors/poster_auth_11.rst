@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Choi, HyeonJun
+DeWitte, Jacob
 --------------
 
-* :download:`HyeonJun Choi, Hanyang University. Revisiting Adequacy of the Size of Emergency Planning Zone for Nuclear Power Plants. Radiation Protection & Shielding <../docs/247.pdf>`
+* :download:`Jacob DeWitte, Massachusetts Institute of Technology. How To Burn Actinides: Which Spectrum is Better?. Fuel Cycle & Waste Management <../docs/420.pdf>`

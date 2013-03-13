@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Eiden, Thomas
--------------
+Fischetti, Grace
+----------------
 
-* :download:`Thomas Eiden, University of Wisconsin - Madison. Get Out of the Way, NRC!. Policy <../docs/351.pdf>`
+* :download:`Grace Fischetti, North Carolina State University. Design of a Continuous Pyrochemical Process for Actinide Recovery. Fuel Cycle & Waste Management <../docs/227.pdf>`

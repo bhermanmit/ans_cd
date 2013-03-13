@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Roberts, Jeremy
----------------
+Romatoski, Rebecca R.
+---------------------
 
-* :download:`Jeremy Roberts, Massachusetts Institute of Technology. Angular Expansions for the Response Matrix Method. Mathematics & Computation <../docs/371.pdf>`
+* :download:`Rebecca R. Romatoski, Massachusetts Institute of Technology. Natural Circulation Liquid-Salt Loop Conceptual Design for the MIT Reactor. Thermal Hydraulics/Fluids <../docs/203.pdf>`

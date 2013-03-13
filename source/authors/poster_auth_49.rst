@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Shaner, Sam
------------
+Wozniak, Nicholas
+-----------------
 
-* :download:`Sam Shaner, Massachusetts Institute of Technology. Transient CMFD-accelerated MOC via IQS with Fully-Implicit Coarse-Time Stepping. Reactor Physics <../docs/346.pdf>`
+* :download:`Nicholas Wozniak, University of Nevada - Las Vegas. Photoreduction Synthesis of U (IV) Organophosphate Nanoparticles from Uranyl Perchlorate. Special Session: Radiochemistry <../docs/219.pdf>`

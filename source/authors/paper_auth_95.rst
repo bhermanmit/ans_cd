@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-McCulloch, Molly
+McDermott, Brian
 ----------------
 
-* :download:`Molly McCulloch, Oregon State University. Design of Optimization of the Advanced Test Reactor Low Enrichment Fuel for Conversion. Reactor Physics <../docs/210.pdf>`
+* :download:`Brian McDermott, Rensselaer Polytechnic Institute. A Detector Array for Measuring Neutron Capture Cross Sections in the keV Region. Nuclear Criticality Safety <../docs/221.pdf>`

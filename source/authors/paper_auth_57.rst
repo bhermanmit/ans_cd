@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Hogan, Daniel
+Holschuh, Tom
 -------------
 
-* :download:`Daniel Hogan, University of California - Berkeley. Approaches To Detecting Coherent Neutrino-Nucleus Scattering with High-Purity Germanium Detectors. Detection & Measurements <../docs/343.pdf>`
+* :download:`Tom Holschuh, Oregon State University. Methodology for Strain Gage Adhesion To Test Plates for Measurement During Operations. Thermal Hydraulics/Fluids <../docs/282.pdf>`

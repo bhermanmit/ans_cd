@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Dougherty, Conor
-----------------
+Eiden, Thomas
+-------------
 
-* :download:`Conor Dougherty, United States Military Academy. Late Cloud Film Analysis: Determining Cloud Rise From Film. Mathematics & Computation <../docs/309.pdf>`
+* :download:`Thomas Eiden, University of Wisconsin - Madison. Get Out of the Way, NRC!. Policy <../docs/351.pdf>`

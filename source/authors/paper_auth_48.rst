@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Goddard, Braden
----------------
+Graves, Joshua
+--------------
 
-* :download:`Braden Goddard, Texas A&M University. Development of a Neutron Multiplicity Counting Laboratory Experiment at Texas A&M University. Education, Training & Workforce Development <../docs/127.pdf>`
+* :download:`Joshua Graves, Oregon State University. Top-Down Scaling Analysis of the Integral Reactor Vessel Test Facility. Thermal Hydraulics/Fluids <../docs/225.pdf>`

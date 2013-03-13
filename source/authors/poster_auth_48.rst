@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Selby, Aaron P.
----------------
+Woodley, David
+--------------
 
-* :download:`Aaron P. Selby, University of Tennessee. Comparison of Defect Production by High-Energy Displacement Cascades in Molybdenum, Chromium, and Iron. Materials Science & Technology <../docs/222.pdf>`
+* :download:`David Woodley, North Carolina State University. High Temperature Test Capsule for Irradiation Experiments in the Pulstar Reactor. Materials Science & Technology <../docs/259.pdf>`

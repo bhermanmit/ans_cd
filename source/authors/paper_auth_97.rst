@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-McGahee, Christopher
---------------------
+McLain, Derek
+-------------
 
-* :download:`Christopher McGahee, Georgia Institute of Technology. Radiation Detection Plate To Be Used at Security Checkpoints in Association with New ZNO Detectors. Detection & Measurements <../docs/197.pdf>`
+* :download:`Derek McLain, University of Nevada - Las Vegas. Effect of Elemental Interferences on Radioanalytical Analysis of Steel. Nonproliferation & Nuclear Safeguards <../docs/106.pdf>`

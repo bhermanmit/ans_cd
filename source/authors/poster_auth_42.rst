@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Riblett, Matthew J.
--------------------
+Styron, Jedediah
+----------------
 
-* :download:`Matthew J. Riblett, Rensselaer Polytechnic Institute. Use of Hardware Accelerators for Monte Carlo-based Radiation Transport: Preliminary Strategies for Tackling Neutron Radiation. Mathematics & Computation <../docs/350.pdf>`
+* :download:`Jedediah Styron, University of New Mexico. Review of the Thorium Fuel Cycle and Its Higher Burn-up Capabilities in Future PWR Designs. Operations & Power <../docs/354.pdf>`

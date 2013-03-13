@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Santora, Joseph
----------------
+Schmidt, Lukas
+--------------
 
-* :download:`Joseph Santora, University of Utah. Viticulture Improvement Applicable to All Plants. Special Session: Radiochemistry <../docs/408.pdf>`
+* :download:`Lukas Schmidt, ETH. Investigations of Single Phase Turbulent Mixing with Stable Density Stratification. Thermal Hydraulics/Fluids <../docs/224.pdf>`

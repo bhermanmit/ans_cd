@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Geleskie, Dominic M.
---------------------
+Kristo, Paul
+------------
 
-* :download:`Dominic M. Geleskie, Pennsylvania State University. Carbon Dioxide Emissions from the Nuclear Fuel Cycle Compared to Emissions from a Coal-fired Power Plant. Environmental Sciences <../docs/141.pdf>`
+* :download:`Paul Kristo, University of Pittsburgh. Design of a Constant Temperature Anemometer Calibration Procedure for Use with Heated Flows. Thermal Hydraulics/Fluids <../docs/231.pdf>`

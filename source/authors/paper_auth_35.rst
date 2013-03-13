@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Forrest, Eric
--------------
+Forsberg, Phillip
+-----------------
 
-* :download:`Eric Forrest, Massachusetts Institute of Technology. Experimental Study of Turbulent Single-Phase Heat Transfer in a Prototypic Materials Test Reactor Coolant Channel. Thermal Hydraulics/Fluids <../docs/422.pdf>`
+* :download:`Phillip Forsberg, Purdue University. Data Encryption of Radiation Signals Using Chaotic Artificial Neural Networks. Mathematics & Computation <../docs/304.pdf>`

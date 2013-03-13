@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Gallardo, Athena
-----------------
+Gao, Yiming
+-----------
 
-* :download:`Athena Gallardo, University of Nevada - Las Vegas. Investigation of Storage-Phosphor Autoradiography for the Rapid Quantitative Screening of Air Filters for Emergency Response Purposes. Detection & Measurements <../docs/397.pdf>`
+* :download:`Yiming Gao, Rensselaer Polytechnic Institute. Tube Current Modulated Computed Tomography Simulation and Dose Calculation with Monte Carlo Method. Biology & Medicine <../docs/283.pdf>`

@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Schweitzer, Amanda
-------------------
+Vaquer, Pablo
+-------------
 
-* :download:`Amanda Schweitzer, Pennsylvania State University. A Study of PWR's Water Chemistry and the Effects on the Reactor Operation and Surrounding Environment. Environmental Sciences <../docs/170.pdf>`
+* :download:`Pablo Vaquer, University of Florida. A Low Temperature Gas Reactor with VASIMR Thrusters for Near-Term Interplanetary Travel. Aerospace Nuclear Science & Technology <../docs/352.pdf>`

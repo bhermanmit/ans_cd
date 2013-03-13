@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Schmidt, Lukas
---------------
+Shapiro, Rachel
+---------------
 
-* :download:`Lukas Schmidt, ETH. Investigations of Single Phase Turbulent Mixing with Stable Density Stratification. Thermal Hydraulics/Fluids <../docs/224.pdf>`
+* :download:`Rachel Shapiro, Pennsylvania State University. Optimization of Boron Distribution in ORNL High Flux Isotope Reactor LEU Core. Reactor Physics <../docs/177.pdf>`

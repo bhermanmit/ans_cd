@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Phathanapirom, Urairisa
------------------------
+Raouafi, Haykel
+---------------
 
-* :download:`Urairisa Phathanapirom, University of Texas at Austin. Resource Intensities of the Front End of the Nuclear Fuel Cycle. Fuel Cycle & Waste Management <../docs/307.pdf>`
+* :download:`Haykel Raouafi, Polytechnique Montreal. DRAGON 3D Simulation of Spatial Self-Shielding Effect in Sample Irradiated in SLOWPOKE-2 Reactor. Reactor Physics <../docs/348.pdf>`

@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Styron, Jedediah
-----------------
+Swan, David C.
+--------------
 
-* :download:`Jedediah Styron, University of New Mexico. Optimization of a Fast Neutron Beryllium/Scintillator Layer Detector Using a Monte Carlo Approach. Detection & Measurements <../docs/250.pdf>`
+* :download:`David C. Swan, North Carolina State University. Design of a Next-Generation Neutron Multiplicity Counter Independent of Helium-3. Detection & Measurements <../docs/338.pdf>`

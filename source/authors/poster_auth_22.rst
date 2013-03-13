@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Gatto, Nadine
--------------
+Jeong, Uiju
+-----------
 
-* :download:`Nadine Gatto, Pennsylvania State University. Design and Objectives of the International Thermonuclear Experimental Reactor (ITER). Fusion Energy & Plasmas <../docs/415.pdf>`
+* :download:`Uiju Jeong, Hanyang University. CFD Analysis of Liquid Sodium Flow in the Vicinity of Permanent Magnet Probe Flow Meter Using FLUENT. Thermal Hydraulics/Fluids <../docs/176.pdf>`

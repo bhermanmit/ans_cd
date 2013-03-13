@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Raouafi, Haykel
+Rehal, Jaspreet
 ---------------
 
-* :download:`Haykel Raouafi, Polytechnique Montreal. DRAGON 3D Simulation of Spatial Self-Shielding Effect in Sample Irradiated in SLOWPOKE-2 Reactor. Reactor Physics <../docs/348.pdf>`
+* :download:`Jaspreet Rehal, University of Illinois at Urbana-Champaign. SEE RADS Platform: Social, Every Day, and Emergency Radiation Detection System. Detection & Measurements <../docs/206.pdf>`

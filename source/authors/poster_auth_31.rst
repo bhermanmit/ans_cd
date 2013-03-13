@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Lane, Taylor
-------------
+Parson, Jenelle
+---------------
 
-* :download:`Taylor Lane, Texas A&M University. A Flux-Limited Diffusion Method for Simulating Radiative Shocks. Fusion Energy & Plasmas <../docs/135.pdf>`
+* :download:`Jenelle Parson, Colorado State University. Dose Rate Profile Surrounding a Waste Repository. Radiation Protection & Shielding <../docs/161.pdf>`

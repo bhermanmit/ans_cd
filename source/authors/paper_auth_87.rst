@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Liu, Ruirui
------------
+Maginot, Peter
+--------------
 
-* :download:`Ruirui Liu, Oregon State University. Study on Sampling and Measurement of 210Po in the Waste Stream of Coal-fired Power Plant. Radiation Protection & Shielding <../docs/246.pdf>`
+* :download:`Peter Maginot, Texas A&M University. Effects of Cross Section Discretization on Pointwise Interaction Rates and Spatial Convergence Rates in Discrete Ordinates DFEM Transport Calculations. Mathematics & Computation <../docs/299.pdf>`

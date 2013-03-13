@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Yoo, Min
---------
+Yurko, Joseph
+-------------
 
-* :download:`Min Yoo, Korea Advanced Institute of Science and Technology. Harness Design for the Improvement of Transmitter Survivability in a Severe Accident. Nuclear Installations Safety <../docs/357.pdf>`
+* :download:`Joseph Yurko, Massachusetts Institute of Technology. Gaussian Process Emulators for Bayesian Calibration Using Separate and Integral Effect Test Data. Thermal Hydraulics/Fluids <../docs/401.pdf>`

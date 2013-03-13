@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Misner, Jesse
--------------
+Riddle, William
+---------------
 
-* :download:`Jesse Misner, Idaho State University. Analysis of Synchrotron Radiation Diffraction Data on Experiments To Determine Phases and Microstructure of Zirconium Alloy Oxides. Materials Science & Technology <../docs/240.pdf>`
+* :download:`William Riddle, North Carolina State University. Fuel Assembly Design for Improved Transuranics Recylcing in Light Water Reactors. Fuel Cycle & Waste Management <../docs/178.pdf>`

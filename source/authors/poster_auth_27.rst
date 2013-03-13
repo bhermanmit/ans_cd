@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Hill, Jordan
-------------
+Misner, Jesse
+-------------
 
-* :download:`Jordan Hill, Pennsylvania State University. ONKALO: A Look at the First Spent Nuclear Fuel Geological Repository. Fuel Cycle & Waste Management <../docs/165.pdf>`
+* :download:`Jesse Misner, Idaho State University. Analysis of Synchrotron Radiation Diffraction Data on Experiments To Determine Phases and Microstructure of Zirconium Alloy Oxides. Materials Science & Technology <../docs/240.pdf>`

@@ -3,11 +3,9 @@ paper id;First Name;Last Name;Institution;Affiliation;Track;Podium?;title;Follow
 106;Derek;McLain;University of Nevada - Las Vegas;UNLV;13;1;Effect of Elemental Interferences on Radioanalytical Analysis of Steel;
 107;Alecksandra;Sirotkina;St.Petersburg State Polytechnical University;SPBSTU;16;1;Light Water Reactor with Supercritical Pressure and Spectral Control: Construction, Perspectives, Safety;Title
 108;Jon;Jensen;Idaho State University;ISU;13;1;Design and Testing for a Pedestrian Portal Monitor System;
-109;Jon;Jensen;Idaho State University;ISU;16;1;Design and Testing of a Model Boiling Water Reactor;
 126;Oluwatomi;Akindele;Texas A&M University;TAMU;4;1;Investigation of PVT Detector Performance Based on Detector Thickness;
 127;Braden;Goddard;Texas A&M University;TAMU;5;1;Development of a Neutron Multiplicity Counting Laboratory Experiment at Texas A&M University;
 128;Michael P.;Riley;Pennsylvania State University;PSU;22;1;Correlation for the Prediction of Nucleate Boiling Heat Flux on a Downward Facing Hemispherical Surface During a Severe Accident;
-130;Gian;de Guzman;Idaho State University;ISU;7;1;What are the Risks and Benefits of Accelerated Spent Fuel Transfer?;
 131;Margaret;Root;Massachusetts Institute of Technology;MIT;13;1;Monte Carlo Simulations in Support of PNEM Field Trial Data Analysis;
 133;Can;Liao;University of Utah;Utah;4;1;Study on Pulse Shape Discrimination with an EJ339A Boron-Loaded Liquid Scintillation Detector;
 134;Pablo;Vaquer;University of Florida ;UF;12;1;A Quantitative Comparison of Inverse Transport Methods Using Three-Dimensional Problems That Have Local Minima and Multiple Solutions;
@@ -32,13 +30,11 @@ paper id;First Name;Last Name;Institution;Affiliation;Track;Podium?;title;Follow
 154;Jyothier;Nimmagadda;Idaho State University;ISU;20;1;Iron Reflector Effects in the Fast Neutron Reactors;Name
 155;Valerie;Fudurich;Pennsylvania State University;PSU;10;1;Food Irradiation: The Future of Food Safety;
 156;Thomas;Clerc;Polytechnique Montreal;PolyMTL;12;1;Presentation of the MERC Work-flow for the Computation of a 2D Radial Reflector in a PWR;
-157;William;Sames;Texas A&M University;TAMU;11;0;Delayed Hydride Cracking in Zirconium Alloys;
 158;Alice;Cunha da Silva;Federal University of Rio de Janeiro;UFRJ;22;1;Analysis of Transient Heat Conduction In a Heterogeneous Spherical Fuel Element;
 160;Malwina;Chaczko;Idaho State University;ISU;11;1;Cerium Oxide Crystal Growth with High Frequency Induction Furnace;
 161;Jenelle;Parson;Colorado State University;ColoState;18;0;Dose Rate Profile Surrounding a Waste Repository;
 162;Jeff;Harris;Utah State University;USU;22;1;Single Phase Forced Convection Validation and Simulation;
 163;Daniel;Isaacs;Idaho State University;ISU;18;1;Construction of a Large Volume Glovebox for Work with Uranium;
-165;Jordan;Hill;Pennsylvania State University;PSU;7;0;ONKALO: A Look at the First Spent Nuclear Fuel Geological Repository;
 413;Scott;McBeath;Idaho State University;ISU;7;1;Production of NanoVision Sensors via Focused Ion Beam Milling;
 380;Daniel;Siefman;University of Florida;UF;15;1;The Quest for a Negligible-Risk Reactor: A Safety Analysis of the University of Florida Training Reactor;
 168;Andrew;Cartas;University of Florida;UF;11;1;Fabricating the Next Generation of Nuclear Fuel Utilizing Spark Plasma Sintering;
@@ -55,7 +51,6 @@ paper id;First Name;Last Name;Institution;Affiliation;Track;Podium?;title;Follow
 181;Keri;Campbell;University of Nevada - Las Vegas;UNLV;23;1;Laser Ablation of Actinide Oxides;
 182;Amanda;Lang;University of Wisconsin - Madison;WISC;20;1;The Use of Freeze-Cast Scaffolds in Nuclear Fuel Design;
 184;Mouza;Al Hebsi;Khalifa University;Khalifa;22;1;Numerical Investigation on the Dissolution of a Light Gas Stratification in a Safety Containment Model;
-185;David;Amos;University of Houston - Downtown;UHD;11;0;A Quantum Mechanical Study of Ce(IV)-tetrakis(chatecolato) as a Model for Pu(IV)-tetrakis(chatecholato);
 187;Dan;Kotlyar;Ben Gurion University;BGU;20;1;Comparison of Monte Carlo-Burnup-Thermal Hydraulic Coupling Schemes;
 415;Nadine;Gatto;Pennsylvania State University;PSU;8;0;Design and Objectives of the International Thermonuclear Experimental Reactor (ITER);
 192;Siwan;Noh;Hanyang University;Hanyang;18;1;Development of In Vitro Internal Dosimetry Methodology for Short-Lived Radioisotopes;
@@ -89,7 +84,6 @@ paper id;First Name;Last Name;Institution;Affiliation;Track;Podium?;title;Follow
 223;Ross;Barnowski;University of California - Berkeley;Berkeley;4;1;Advances in Real-time Radiation Imaging with the Compact Compton Imager: A Double-sided Strip High Purity Germanium Detector System;
 224;Lukas;Schmidt;ETH;ETH;22;1;Investigations of Single Phase Turbulent Mixing with Stable Density Stratification;
 225;Joshua;Graves;Oregon State University;ORST;22;1;Top-Down Scaling Analysis of the Integral Reactor Vessel Test Facility;
-226;Daniel;Curtis;Massachusetts Institute of Technology;MIT;16;0;Nuclear Shale Oil Development Reactor Arrays and System Effects;
 227;Grace;Fischetti;North Carolina State University;NCSU;7;1;Design of a Continuous Pyrochemical Process for Actinide Recovery ;
 228;Ryan M.;Bergmann;University of California - Berkeley;Berkeley;12;1;GPU Ray Tracing for Monte Carlo Neutron Transport Using NVIDIA OptiX;
 230;Matthew;Wargon;Pennsylvania State University;PSU;20;1;Modeling Of Depletion In Molten Salt Reactors;
@@ -146,7 +140,6 @@ paper id;First Name;Last Name;Institution;Affiliation;Track;Podium?;title;Follow
 289;Erika;Suzuki;University of California - Berkeley;Berkeley;17;1;The Three-Stage Proposal: Establishing an International Nuclear Forensics Database;
 290;Remy;Devoe;University of Tennessee;UTK;0;0;Characterization of Inorganic Scintillators with Synchrotron Radiation: Cerium Dopant Concentration Non-Uniformity from Czochralski Growth Process;
 291;James;Car IV;Virginia Commonwealth University;VCU;11;0;Techniques To Improve the Corrosion Resistance of Metals;
-292;Dustin;Langewisch;Massachusetts Institute of Technology;MIT;12;0;Uncertainty Quantification for Computational Multiphase Fluid Dynamics;
 293;Nick;Boulton;Oregon State University ;ORST;1;0;Quasi Steady-State Analysis of Mars Hopper Concept;
 295;Greg;Borza;Pennsylvania State University;PSU;7;1;Recycling of Nuclear Fuel to Improve Resource Utilization and Reduce Waste;
 296;Jordan;Sabella;University of California - Berkeley;Berkeley;10;1;Testing Relativistic Time Dilation Using Cosmic-Ray Muons;
@@ -154,12 +147,10 @@ paper id;First Name;Last Name;Institution;Affiliation;Track;Podium?;title;Follow
 298;Hong;Jiao;Rensselaer Polytechnic Institute;RPI;22;1;Modeling and Analysis of Thermal Phenomena Governing Bubble Growth and Collapse in Subcooled Boiling;
 299;Peter;Maginot;Texas A&M University;TAMU;12;1;Effects of Cross Section Discretization on Pointwise Interaction Rates and Spatial Convergence Rates in Discrete Ordinates DFEM Transport Calculations;
 302;Stefan;Badza;Universtiy of Utah;Utah;6;1;Neutron Activation Analysis of Californian and Japanese Rice;
-303;Shawn;Pearson;Idaho State University;ISU;7;1;Spent Fuel Heating System;
 304;Phillip;Forsberg;Purdue University;Purdue;12;1;Data Encryption of Radiation Signals Using Chaotic Artificial Neural Networks;
 306;Ethan;Bates;Massachusetts Institute of Technology;MIT;7;1;Radiological Implications of Extended Storage of Spent Nuclear Fuel;
 307;Urairisa;Phathanapirom;University of Texas at Austin;Texas;7;1;Resource Intensities of the Front End of the Nuclear Fuel Cycle;
 308;Ethan;Bates;Massachusetts Institute of Technology;MIT;7;1;Onset and Stability of Natural Convection in Deep Boreholes;
-309;Conor;Dougherty;United States Military Academy;USMA;12;1;Late Cloud Film Analysis: Determining Cloud Rise From Film;
 310;Benjamin;Reinke;Ohio State University;OSU;11;1;Temperature Controlled Cryostat for Electrical and Optical Reactor Irradiation Experiments;
 311;Sol;Jeong;Hanyang University;Hanyang;2;1;Dose Evaluation in Accidental Release of Tritium Gas with Consideration of Tritiated Water Vapor Oxidized in Soil;
 312;Mario;Ortega;University of New Mexico;UNM;20;0;Reactor Physics Characterization of Minor Actinide Incineration in Modified MYRRHA/XT-ADS Reactor;
@@ -192,7 +183,6 @@ paper id;First Name;Last Name;Institution;Affiliation;Track;Podium?;title;Follow
 343;Daniel;Hogan;University of California - Berkeley;Berkeley;4;1;Approaches To Detecting Coherent Neutrino-Nucleus Scattering with High-Purity Germanium Detectors;
 344;Brandon;Sorbom;Massachusetts Institute of Technology;MIT;8;0;A Molten Salt Liquid Immersion Blanket Design For Use in a Compact, Modular Fusion Reactor;Title
 345;Lucas;Boron-Brenner;University of Nevada - Las Vegas;UNLV;23;0;Scandium and Titanium Adsorption Data Studies Using Eicrhom's Ln Resin Under Hydrochloric, Nitric, and Sulfuric Acid Conditions;Title
-346;Sam;Shaner;Massachusetts Institute of Technology;MIT;20;0;Transient CMFD-accelerated MOC via IQS with Fully-Implicit Coarse-Time Stepping;
 348;Haykel;Raouafi;Polytechnique Montreal;PolyMTL;20;1;DRAGON 3D Simulation of Spatial Self-Shielding Effect in Sample Irradiated in SLOWPOKE-2 Reactor;
 349;Christopher;Pannier;Texas A&M University;TAMU;20;0;Point Reactor Kinetics Model of a Reactivity Oscillator in the Texas A&M AGN-201M Research Reactor;
 350;Matthew J.;Riblett;Rensselaer Polytechnic Institute;RPI;12;0;Use of Hardware Accelerators for Monte Carlo-based Radiation Transport: Preliminary Strategies for Tackling Neutron Radiation;
@@ -213,17 +203,14 @@ paper id;First Name;Last Name;Institution;Affiliation;Track;Podium?;title;Follow
 388;Matthew;Zimmer;Rensselaer Polytechnic Institute;RPI;22;0;An Analysis of Multidimensional Models of Turbulent Flow in Nuclear Reactors;
 377;Christopher;Herman;North Carolina State University;NCSU;20;1;Reactivity Defect Benchmarking of the OpenMC Monte Carlo Transport Code;
 378;Carl;Haugen;Massachusetts Institute of Technology;MIT;7;1;A Deterministic Method for Core Loading Analysis in LWRs;
-379;Alexandre;Guion;Massachusetts Institute of Technology;MIT;22;0;On the Liquid Microlayer Underneath a Vapor Bubble Growing at a Heated Wall;
 381;Samuel;Brinton;Massachusetts Institute of Technology;MIT;17;1;Protons and Policy: The Integration of the Technology Policy Program and Nuclear Science and Engineering Departments of MIT;
 382;Piyatida;Trinuruk;Tokyo Institute of Technology;TITech;20;1;The Application of SiC Coating in Prismatic HTGRs To Prevent Accidents Caused by Graphite Oxidation;
 383;Rosemary;Sugrue;Massachusetts Institute of Technology;MIT;22;0;A Modified Mechanistic Model for Predicting Bubble Departure Diameter in Subcooled Flow Boiling;
 384;Bryan;Herman;Massachusetts Institute of Technology;MIT;12;1;Accelerated Fission Source Convergence of OpenMC using Nonlinear Diffusion Methods;
-385;Harishchandra;Aryal;Idaho State University;ISU;1;0;Whale System Design;
 386;Jackson;Harter;Oregon State University;ORST;20;1;Verification of Burnup-Depletion Results for Vented Nuclear Fuel in MCNPX Using ORIGEN-ARP;
 391;Lulu;Li;Massachusetts Institute of Technology;MIT;20;1;A Low Order Acceleration Scheme for Using Methods of Characteristics To Solve Transport Equation;
 399;Alex;Salazar;Massachusetts Institute of Technology;MIT;7;1;Effect of Temperature on Permeability of Cement Sealant for Deep Borehole Repositories;
 395;Wesley;Deason;Oregon State University;ORST;15;1;Modeling of Fission Product Transport in a Representative Helium-cooled Fast Reactor Using STELLA;
-396;Sarah;Don;Massachusetts Institute of Technology;MIT;22;0;Surface Analysis of Materials Test Reactor Cladding;
 397;Athena;Gallardo;University of Nevada - Las Vegas;UNLV;4;1;Investigation of Storage-Phosphor Autoradiography for the Rapid Quantitative Screening of Air Filters for Emergency Response Purposes;
 398;Jianguo;Zhong;Rensselaer Polytechnic Institute;RPI;22;1;Analysis of Heat Transfer in Supercritical Water Reactor Core;
 400;Jacob;DeWitte;Massachusetts Institute of Technology;MIT;16;1;Maximizing the US Nuclear Fleet Through Life Extension and Mega Uprates;
@@ -232,7 +219,6 @@ paper id;First Name;Last Name;Institution;Affiliation;Track;Podium?;title;Follow
 422;Eric;Forrest;Massachusetts Institute of Technology;MIT;22;1;Experimental Study of Turbulent Single-Phase Heat Transfer in a Prototypic Materials Test Reactor Coolant Channel;
 407;Romina;Farmand;University of Nevada - Las Vegas;UNLV;23;0;Synthesis and Characterization of Low-Valent Rhenium Dimers with Multiple Metal-Metal Bonds;
 408;Joseph;Santora;University of Utah;Utah;23;1;Viticulture Improvement Applicable to All Plants;
-410;Kathryn;Biegel;Massachusetts Institute of Technology;MIT;12;0;PySPORe: Python System for Plotting OpenMC Results;
 412;Andrew;Hall;University of Michigan;Umich;20;1;Advanced Neutronics Methods for Analysis of the RBWR-AC;
 418;Eugeny;Sosnovsky;Massachusetts Institute of Technology;MIT;20;1;Point Kinetics with Spatially Distributed Feedback via Bond Graphs;
 420;Jacob;DeWitte;Massachusetts Institute of Technology;MIT;7;0;How To Burn Actinides: Which Spectrum is Better?;

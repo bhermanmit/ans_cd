@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Liao, Can
----------
+Lindner, Harry
+--------------
 
-* :download:`Can Liao, University of Utah. Study on Pulse Shape Discrimination with an EJ339A Boron-Loaded Liquid Scintillation Detector. Detection & Measurements <../docs/133.pdf>`
+* :download:`Harry Lindner, University of Texas at Austin. Cost Updates to Uranium Recovery from Seawater. Fuel Cycle & Waste Management <../docs/322.pdf>`
