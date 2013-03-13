@@ -1,11 +1,13 @@
  :ref:`Back to Index <index>`
 
-University of Texas at Austin
------------------------------
+University of Utah
+------------------
 
-* :download:`Hirotatsu Armstrong, University of Texas at Austin. Modeling a Spanning Set of Active Interrogation Scenarios. Nonproliferation & Nuclear Safeguards <../docs/150.pdf>`
-* :download:`William Gurecky, University of Texas at Austin. A Jet Modeling Framework Relevant to LOCA Analysis. Thermal Hydraulics/Fluids <../docs/220.pdf>`
-* :download:`Gleb Kuzmin, University of Texas at Austin. Minimizing Sample Sizes While Achieving Accurate Elemental Concentrations in Neutron Activation Analysis of Precious Pottery. Detection & Measurements <../docs/340.pdf>`
-* :download:`Harry Lindner, University of Texas at Austin. Cost Updates to Uranium Recovery from Seawater. Fuel Cycle & Waste Management <../docs/322.pdf>`
-* :download:`Urairisa Phathanapirom, University of Texas at Austin. Resource Intensities of the Front End of the Nuclear Fuel Cycle. Fuel Cycle & Waste Management <../docs/307.pdf>`
-* :download:`Sierra Treanor, University of Texas at Austin. Neutron Activation Analysis as a Preferred Method for Determining Uranium and Thorium Concentrations in Soil. Environmental Sciences <../docs/297.pdf>`
+* :download:`Samuel Brown, University of Utah. Low-Activation Reinforced Concrete for Reducing the Volume of Low-Level Radioactive Waste in the U.S.A.. Decommissioning, Decontamination & Reutilization <../docs/208.pdf>`
+* :download:`Chris Dances, University of Utah. University of Utah TRIGA Virtual Reactor Simulator in Python and Qt. Mathematics & Computation <../docs/216.pdf>`
+* :download:`Can Liao, University of Utah. Study on Pulse Shape Discrimination with an EJ339A Boron-Loaded Liquid Scintillation Detector. Detection & Measurements <../docs/133.pdf>`
+* :download:`Gregory Moffitt, University of Utah. MCNP5 Based Neutron Source Modeling for BNCT. Biology & Medicine <../docs/266.pdf>`
+* :download:`Gregory Moffitt, University of Utah. MCNPX Modeling of the Fast Neutron Beam at the University of Washington. Accelerator Applications <../docs/270.pdf>`
+* :download:`Lyman Owen, University of Utah. Automated Signal-layered Algorithm for Processing Complex Gamma Radiation Spectra. Isotopes & Radiation <../docs/319.pdf>`
+* :download:`Daniel Painter, University of Utah. Analysis of City Grown Bing Cherry Trees Using Neutron Activation Analysis. Environmental Sciences <../docs/368.pdf>`
+* :download:`Joseph Santora, University of Utah. Viticulture Improvement Applicable to All Plants. Special Session: Radiochemistry <../docs/408.pdf>`

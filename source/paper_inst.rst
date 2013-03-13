@@ -43,5 +43,3 @@ Papers - First Author's Institution
     insts/paper_inst_35
     insts/paper_inst_36
     insts/paper_inst_37
-    insts/paper_inst_38
-    insts/paper_inst_39

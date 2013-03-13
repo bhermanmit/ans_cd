@@ -1,8 +1,7 @@
  :ref:`Back to Index <index>`
 
-Hanyang University
-------------------
+Georgia Institute of Technology
+-------------------------------
 
-* :download:`Sol Jeong, Hanyang University. Dose Evaluation in Accidental Release of Tritium Gas with Consideration of Tritiated Water Vapor Oxidized in Soil. Biology & Medicine <../docs/311.pdf>`
-* :download:`Siwan Noh, Hanyang University. Development of In Vitro Internal Dosimetry Methodology for Short-Lived Radioisotopes. Radiation Protection & Shielding <../docs/192.pdf>`
-* :download:`Ji-hyung Sim, Hanyang University. The Characteristics of Fission Gas Release on Metallic Fuels. Materials Science & Technology <../docs/245.pdf>`
+* :download:`Molly C. Cook, Georgia Institute of Technology. Using Social Media to Brand and Promote a Student Section. Student Sections Activities <../docs/285.pdf>`
+* :download:`Christopher McGahee, Georgia Institute of Technology. Radiation Detection Plate To Be Used at Security Checkpoints in Association with New ZNO Detectors. Detection & Measurements <../docs/197.pdf>`

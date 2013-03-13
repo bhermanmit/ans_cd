@@ -8,7 +8,7 @@ Posters - All
 * :download:`Chris Antweiler, United States Military Academy. Material Optimization of the Dry Cask Storage System: A Comparison of Attenuation Coefficients. Radiation Protection & Shielding <docs/269.pdf>`
 * :download:`Lauren Ayers, Massachusetts Institute of Technology. Evaluating Equipotential Switching Direct Current Potential Drop as an Online Pipe Monitoring Technique. Materials Science & Technology <docs/271.pdf>`
 * :download:`Philip Belsterling, Oregon State University. Reactor Clad Types and Failure Mechanisms. Materials Science & Technology <docs/353.pdf>`
-* :download:`Lucas Boron-Brenner, University of Nevada - Las Vegas. Scandium and Titanium Adsorption Data Studies Using Eicrhom's Ln Resin Under Hydrochloric, Nitric, and Sulfuric Acid Conditions. Special Session: Radiochemistry <docs/345.pdf>`
+* :download:`Lucas Boron-Brenner, University of Nevada-Las Vegas. Scandium and Titanium Adsorption Data Studies Using Eicrhom's Ln Resin Under Hydrochloric, Nitric, and Sulfuric Acid Conditions. Special Session: Radiochemistry <docs/345.pdf>`
 * :download:`Nick Boulton, Oregon State University. Quasi Steady-State Analysis of Mars Hopper Concept. Aerospace Nuclear Science & Technology <docs/293.pdf>`
 * :download:`Emory Brown, University of New Mexico. Pre-conceptual Design Concept of a Co-Located Component Testing and Plant Health Optimization Facility for a Commercial FHR. Operations & Power <docs/277.pdf>`
 * :download:`James Car IV, Virginia Commonwealth University. Techniques To Improve the Corrosion Resistance of Metals. Materials Science & Technology <docs/291.pdf>`
@@ -18,8 +18,8 @@ Posters - All
 * :download:`Brent Cross, University of Illinois at Urbana-Champaign. Increasing X-Ray Fluorescence Emission Tomography (XFET) Speed with Novel Geometry. Biology & Medicine <docs/317.pdf>`
 * :download:`Jacob DeWitte, Massachusetts Institute of Technology. How To Burn Actinides: Which Spectrum is Better?. Fuel Cycle & Waste Management <docs/420.pdf>`
 * :download:`Remy Devoe, University of Tennessee. Characterization of Inorganic Scintillators with Synchrotron Radiation: Cerium Dopant Concentration Non-Uniformity from Czochralski Growth Process. Accelerator Applications <docs/290.pdf>`
-* :download:`Jacquelyn Dorhout, University of Nevada - Las Vegas. Synthesis of Rapid Separation Targets by Hydrothermal Methods. Special Session: Radiochemistry <docs/139.pdf>`
-* :download:`Romina Farmand, University of Nevada - Las Vegas. Synthesis and Characterization of Low-Valent Rhenium Dimers with Multiple Metal-Metal Bonds. Special Session: Radiochemistry <docs/407.pdf>`
+* :download:`Jacquelyn Dorhout, University of Nevada-Las Vegas. Synthesis of Rapid Separation Targets by Hydrothermal Methods. Special Session: Radiochemistry <docs/139.pdf>`
+* :download:`Romina Farmand, University of Nevada-Las Vegas. Synthesis and Characterization of Low-Valent Rhenium Dimers with Multiple Metal-Metal Bonds. Special Session: Radiochemistry <docs/407.pdf>`
 * :download:`Sara Ferry, Massachusetts Institute of Technology. Life Prediction of Used Fuel Storage Canister Material. Materials Science & Technology <docs/417.pdf>`
 * :download:`Elliott Fray, Massachusetts Institute of Technology. Materials Testing and Development of Functionally Graded Composite Fuel Cladding and Piping for the Lead-Bismuth Cooled Nuclear Reactor. Materials Science & Technology <docs/326.pdf>`
 * :download:`Nadine Gatto, Pennsylvania State University. Design and Objectives of the International Thermonuclear Experimental Reactor (ITER). Fusion Energy & Plasmas <docs/415.pdf>`
@@ -51,9 +51,9 @@ Posters - All
 * :download:`Jedediah Styron, University of New Mexico. Review of the Thorium Fuel Cycle and Its Higher Burn-up Capabilities in Future PWR Designs. Operations & Power <docs/354.pdf>`
 * :download:`Rosemary Sugrue, Massachusetts Institute of Technology. A Modified Mechanistic Model for Predicting Bubble Departure Diameter in Subcooled Flow Boiling. Thermal Hydraulics/Fluids <docs/383.pdf>`
 * :download:`Ryan Sweet, University of Tennessee. Helium Bubble Formation in Plasma Facing Surfaces for Fusion Reactor Applications. Fusion Energy & Plasmas <docs/328.pdf>`
-* :download:`Andrew J. Swift, University of Nevada - Las Vegas. Evaluation and Preparation of Uranium Alloys Based on Fuel Burnup. Special Session: Radiochemistry <docs/213.pdf>`
+* :download:`Andrew J. Swift, University of Nevada-Las Vegas. Evaluation and Preparation of Uranium Alloys Based on Fuel Burnup. Special Session: Radiochemistry <docs/213.pdf>`
 * :download:`Antonio Tahhan, Idaho State University. The Hydrogen Economy. Environmental Sciences <docs/402.pdf>`
 * :download:`Pablo Vaquer, University of Florida. A Low Temperature Gas Reactor with VASIMR Thrusters for Near-Term Interplanetary Travel. Aerospace Nuclear Science & Technology <docs/352.pdf>`
 * :download:`David Woodley, North Carolina State University. High Temperature Test Capsule for Irradiation Experiments in the Pulstar Reactor. Materials Science & Technology <docs/259.pdf>`
-* :download:`Nicholas Wozniak, University of Nevada - Las Vegas. Photoreduction Synthesis of U (IV) Organophosphate Nanoparticles from Uranyl Perchlorate. Special Session: Radiochemistry <docs/219.pdf>`
+* :download:`Nicholas Wozniak, University of Nevada-Las Vegas. Photoreduction Synthesis of U (IV) Organophosphate Nanoparticles from Uranyl Perchlorate. Special Session: Radiochemistry <docs/219.pdf>`
 * :download:`Matthew Zimmer, Rensselaer Polytechnic Institute. An Analysis of Multidimensional Models of Turbulent Flow in Nuclear Reactors. Thermal Hydraulics/Fluids <docs/388.pdf>`

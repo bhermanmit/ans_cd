@@ -3,4 +3,4 @@
 Lang, Amanda
 ------------
 
-* :download:`Amanda Lang, University of Wisconsin - Madison. The Use of Freeze-Cast Scaffolds in Nuclear Fuel Design. Reactor Physics <../docs/182.pdf>`
+* :download:`Amanda Lang, University of Wisconsin-Madison. The Use of Freeze-Cast Scaffolds in Nuclear Fuel Design. Reactor Physics <../docs/182.pdf>`

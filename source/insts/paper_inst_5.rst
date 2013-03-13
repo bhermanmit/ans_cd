@@ -1,15 +1,8 @@
  :ref:`Back to Index <index>`
 
-Idaho State University
-----------------------
+Hanyang University
+------------------
 
-* :download:`Malwina Chaczko, Idaho State University. Cerium Oxide Crystal Growth with High Frequency Induction Furnace. Materials Science & Technology <../docs/160.pdf>`
-* :download:`Matthew Horkley, Idaho State University. Nuclear Proliferation Resistant Aqueous Reprocessing Methods. Nonproliferation & Nuclear Safeguards <../docs/233.pdf>`
-* :download:`Daniel Isaacs, Idaho State University. Construction of a Large Volume Glovebox for Work with Uranium. Radiation Protection & Shielding <../docs/163.pdf>`
-* :download:`Jon Jensen, Idaho State University. Design and Testing for a Pedestrian Portal Monitor System. Nonproliferation & Nuclear Safeguards <../docs/108.pdf>`
-* :download:`Scott McBeath, Idaho State University. MCNP Simulation of a Shielding Enclosure for a Cargo Interrogation System. Nonproliferation & Nuclear Safeguards <../docs/148.pdf>`
-* :download:`Scott McBeath, Idaho State University. Production of NanoVision Sensors via Focused Ion Beam Milling. Fuel Cycle & Waste Management <../docs/413.pdf>`
-* :download:`Jyothier Nimmagadda, Idaho State University. Iron Reflector Effects in the Fast Neutron Reactors. Reactor Physics <../docs/154.pdf>`
-* :download:`Emerald Ryan, Idaho State University. Crystal Furnace Graphical Interface for Growth of Oxide Nuclear Fuel Materials. Materials Science & Technology <../docs/151.pdf>`
-* :download:`Dallin Steele, Idaho State University. Photonic Crystal Design for an In-Pile Real-Time Sensor. Materials Science & Technology <../docs/256.pdf>`
-* :download:`Austin Tam, Idaho State University. Variable Zinc Oxide Nanostructure Growth on Sapphire Substrate for Neutron Detection. Nonproliferation & Nuclear Safeguards <../docs/145.pdf>`
+* :download:`Sol Jeong, Hanyang University. Dose Evaluation in Accidental Release of Tritium Gas with Consideration of Tritiated Water Vapor Oxidized in Soil. Biology & Medicine <../docs/311.pdf>`
+* :download:`Siwan Noh, Hanyang University. Development of In Vitro Internal Dosimetry Methodology for Short-Lived Radioisotopes. Radiation Protection & Shielding <../docs/192.pdf>`
+* :download:`Ji-hyung Sim, Hanyang University. The Characteristics of Fission Gas Release on Metallic Fuels. Materials Science & Technology <../docs/245.pdf>`

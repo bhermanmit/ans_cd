@@ -5,7 +5,7 @@ Mathematics & Computation
 
 * :download:`Ryan M. Bergmann, University of California - Berkeley. GPU Ray Tracing for Monte Carlo Neutron Transport Using NVIDIA OptiX. Mathematics & Computation <../docs/228.pdf>`
 * :download:`Will Boyd, Massachusetts Institute of Technology. Challenges and Opportunities for Massively Parallel Neutron Transport Calculations on GPUs. Mathematics & Computation <../docs/200.pdf>`
-* :download:`Thomas Clerc, Polytechnique Montreal. Presentation of the MERC Work-flow for the Computation of a 2D Radial Reflector in a PWR. Mathematics & Computation <../docs/156.pdf>`
+* :download:`Thomas Clerc, Ecole Polytechnique de Montreal. Presentation of the MERC Work-flow for the Computation of a 2D Radial Reflector in a PWR. Mathematics & Computation <../docs/156.pdf>`
 * :download:`Chris Dances, University of Utah. University of Utah TRIGA Virtual Reactor Simulator in Python and Qt. Mathematics & Computation <../docs/216.pdf>`
 * :download:`Phillip Forsberg, Purdue University. Data Encryption of Radiation Signals Using Chaotic Artificial Neural Networks. Mathematics & Computation <../docs/304.pdf>`
 * :download:`Bryan Herman, Massachusetts Institute of Technology. Accelerated Fission Source Convergence of OpenMC using Nonlinear Diffusion Methods. Mathematics & Computation <../docs/384.pdf>`

@@ -10,13 +10,13 @@ Reactor Physics
 * :download:`Andrew Hall, University of Michigan. Advanced Neutronics Methods for Analysis of the RBWR-AC. Reactor Physics <../docs/412.pdf>`
 * :download:`Jackson Harter, Oregon State University. Verification of Burnup-Depletion Results for Vented Nuclear Fuel in MCNPX Using ORIGEN-ARP. Reactor Physics <../docs/386.pdf>`
 * :download:`Christopher Herman, North Carolina State University. Reactivity Defect Benchmarking of the OpenMC Monte Carlo Transport Code. Reactor Physics <../docs/377.pdf>`
-* :download:`Amal Hraiz, Khalifa University. 3-D Full Core Calculations of Westinghouse AP1000 Using WIMS/PARCS/SNAP Code System. Reactor Physics <../docs/193.pdf>`
+* :download:`Amal Hraiz, Khalifa University of Science Technology & Research. 3-D Full Core Calculations of Westinghouse AP1000 Using WIMS/PARCS/SNAP Code System. Reactor Physics <../docs/193.pdf>`
 * :download:`Dan Kotlyar, Ben Gurion University. Comparison of Monte Carlo-Burnup-Thermal Hydraulic Coupling Schemes. Reactor Physics <../docs/187.pdf>`
-* :download:`Amanda Lang, University of Wisconsin - Madison. The Use of Freeze-Cast Scaffolds in Nuclear Fuel Design. Reactor Physics <../docs/182.pdf>`
+* :download:`Amanda Lang, University of Wisconsin-Madison. The Use of Freeze-Cast Scaffolds in Nuclear Fuel Design. Reactor Physics <../docs/182.pdf>`
 * :download:`Lulu Li, Massachusetts Institute of Technology. A Low Order Acceleration Scheme for Using Methods of Characteristics To Solve Transport Equation. Reactor Physics <../docs/391.pdf>`
 * :download:`Molly McCulloch, Oregon State University. Design of Optimization of the Advanced Test Reactor Low Enrichment Fuel for Conversion. Reactor Physics <../docs/210.pdf>`
 * :download:`Jyothier Nimmagadda, Idaho State University. Iron Reflector Effects in the Fast Neutron Reactors. Reactor Physics <../docs/154.pdf>`
-* :download:`Haykel Raouafi, Polytechnique Montreal. DRAGON 3D Simulation of Spatial Self-Shielding Effect in Sample Irradiated in SLOWPOKE-2 Reactor. Reactor Physics <../docs/348.pdf>`
+* :download:`Haykel Raouafi, Ecole Polytechnique de Montreal. DRAGON 3D Simulation of Spatial Self-Shielding Effect in Sample Irradiated in SLOWPOKE-2 Reactor. Reactor Physics <../docs/348.pdf>`
 * :download:`Mark Reed, Massachusetts Institute of Technology. Pin-Level Reconstruction of Various Neutronic Quantities in Fast Reactors: Enhanced Physical Insight and Visualization Tools. Reactor Physics <../docs/196.pdf>`
 * :download:`Rachel Shapiro, Pennsylvania State University. Optimization of Boron Distribution in ORNL High Flux Isotope Reactor LEU Core. Reactor Physics <../docs/177.pdf>`
 * :download:`Eugeny Sosnovsky, Massachusetts Institute of Technology. Point Kinetics with Spatially Distributed Feedback via Bond Graphs. Reactor Physics <../docs/418.pdf>`

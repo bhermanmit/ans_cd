@@ -1,9 +1,7 @@
  :ref:`Back to Index <index>`
 
-Korea Advanced Institute of Science and Technology
---------------------------------------------------
+Khalifa University of Science Technology & Research
+---------------------------------------------------
 
-* :download:`Bo Gyung Kim, Korea Advanced Institute of Science and Technology. Conceptual Design Suggestion of Operator Support and Automated System for Reducing Human Error in Nuclear Power Plants. Human Factors, Instrumentation & Controls <../docs/242.pdf>`
-* :download:`Hee Eun Kim, Korea Advanced Institute of Science and Technology. An Approach To Evaluate the Safety Network Communication Reliability. Nuclear Installations Safety <../docs/263.pdf>`
-* :download:`Sungmin Shin, Korea Advanced Institute of Science and Technology. Monitoring Method Development for Safety Component on Standby State. Nuclear Installations Safety <../docs/215.pdf>`
-* :download:`Min Yoo, Korea Advanced Institute of Science and Technology. Harness Design for the Improvement of Transmitter Survivability in a Severe Accident. Nuclear Installations Safety <../docs/357.pdf>`
+* :download:`Mouza Al Hebsi, Khalifa University of Science Technology & Research. Numerical Investigation on the Dissolution of a Light Gas Stratification in a Safety Containment Model. Thermal Hydraulics/Fluids <../docs/184.pdf>`
+* :download:`Amal Hraiz, Khalifa University of Science Technology & Research. 3-D Full Core Calculations of Westinghouse AP1000 Using WIMS/PARCS/SNAP Code System. Reactor Physics <../docs/193.pdf>`

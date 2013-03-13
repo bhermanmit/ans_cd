@@ -1,6 +1,7 @@
  :ref:`Back to Index <index>`
 
-Federal University of Rio de Janeiro
-------------------------------------
+Ecole Polytechnique de Montreal
+-------------------------------
 
-* :download:`Alice Cunha da Silva, Federal University of Rio de Janeiro. Analysis of Transient Heat Conduction In a Heterogeneous Spherical Fuel Element. Thermal Hydraulics/Fluids <../docs/158.pdf>`
+* :download:`Thomas Clerc, Ecole Polytechnique de Montreal. Presentation of the MERC Work-flow for the Computation of a 2D Radial Reflector in a PWR. Mathematics & Computation <../docs/156.pdf>`
+* :download:`Haykel Raouafi, Ecole Polytechnique de Montreal. DRAGON 3D Simulation of Spatial Self-Shielding Effect in Sample Irradiated in SLOWPOKE-2 Reactor. Reactor Physics <../docs/348.pdf>`

@@ -3,4 +3,4 @@
 Weier, Angela
 -------------
 
-* :download:`Angela Weier, University of Wisconsin. Calibration and Quality Assurance and Uses of Planar Brachytherapy Sources. Biology & Medicine <../docs/254.pdf>`
+* :download:`Angela Weier, University of Wisconsin-Madison. Calibration and Quality Assurance and Uses of Planar Brachytherapy Sources. Biology & Medicine <../docs/254.pdf>`

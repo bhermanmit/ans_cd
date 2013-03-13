@@ -3,4 +3,4 @@
 Clerc, Thomas
 -------------
 
-* :download:`Thomas Clerc, Polytechnique Montreal. Presentation of the MERC Work-flow for the Computation of a 2D Radial Reflector in a PWR. Mathematics & Computation <../docs/156.pdf>`
+* :download:`Thomas Clerc, Ecole Polytechnique de Montreal. Presentation of the MERC Work-flow for the Computation of a 2D Radial Reflector in a PWR. Mathematics & Computation <../docs/156.pdf>`
