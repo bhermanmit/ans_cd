@@ -3,4 +3,4 @@
 Colorado State University - Posters
 -----------------------------------
 
-* :download:`Jenelle Parson, Colorado State University. Dose Rate Profile Surrounding a Waste Repository. Radiation Protection & Shielding <../docs/161.pdf>`
+* `Jenelle Parson, Colorado State University. Dose Rate Profile Surrounding a Waste Repository. Radiation Protection & Shielding <../_static/docs/161.pdf>`_

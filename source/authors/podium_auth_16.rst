@@ -3,4 +3,4 @@
 Boyd, Will - Podiums
 --------------------
 
-* :download:`Will Boyd, Massachusetts Institute of Technology. Challenges and Opportunities for Massively Parallel Neutron Transport Calculations on GPUs. Mathematics & Computation <../docs/200.pdf>`
+* `Will Boyd, Massachusetts Institute of Technology. Challenges and Opportunities for Massively Parallel Neutron Transport Calculations on GPUs. Mathematics & Computation <../_static/docs/200.pdf>`_

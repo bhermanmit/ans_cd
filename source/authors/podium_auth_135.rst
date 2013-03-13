@@ -3,4 +3,4 @@
 Stempien, John - Podiums
 ------------------------
 
-* :download:`John Stempien, Massachusetts Institute of Technology. Coolant Chemistry and Materials Compatibility in the Fluoride Salt-Cooled High Temperature Reactor (FHR). Materials Science & Technology <../docs/243.pdf>`
+* `John Stempien, Massachusetts Institute of Technology. Coolant Chemistry and Materials Compatibility in the Fluoride Salt-Cooled High Temperature Reactor (FHR). Materials Science & Technology <../_static/docs/243.pdf>`_

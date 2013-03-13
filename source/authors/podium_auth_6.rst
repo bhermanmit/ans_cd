@@ -3,4 +3,4 @@
 Armstrong, Hirotatsu - Podiums
 ------------------------------
 
-* :download:`Hirotatsu Armstrong, University of Texas. Modeling a Spanning Set of Active Interrogation Scenarios. Nonproliferation & Nuclear Safeguards <../docs/150.pdf>`
+* `Hirotatsu Armstrong, University of Texas. Modeling a Spanning Set of Active Interrogation Scenarios. Nonproliferation & Nuclear Safeguards <../_static/docs/150.pdf>`_

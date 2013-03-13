@@ -3,4 +3,4 @@
 Student Sections Activities - Podiums
 -------------------------------------
 
-* :download:`Molly C. Cook, Georgia Institute of Technology. Using Social Media to Brand and Promote a Student Section. Student Sections Activities <../docs/285.pdf>`
+* `Molly C. Cook, Georgia Institute of Technology. Using Social Media to Brand and Promote a Student Section. Student Sections Activities <../_static/docs/285.pdf>`_

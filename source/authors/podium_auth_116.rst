@@ -3,4 +3,4 @@
 Rockman, Joshua - Podiums
 -------------------------
 
-* :download:`Joshua Rockman, Pennsylvania State University. Operation Crossroads: An Historical Review into the World's First Case of Widespread Radioactive Contamination. Detection & Measurements <../docs/194.pdf>`
+* `Joshua Rockman, Pennsylvania State University. Operation Crossroads: An Historical Review into the World's First Case of Widespread Radioactive Contamination. Detection & Measurements <../_static/docs/194.pdf>`_

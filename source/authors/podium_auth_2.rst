@@ -3,4 +3,4 @@
 Akindele, Oluwatomi - Podiums
 -----------------------------
 
-* :download:`Oluwatomi Akindele, Texas A&M University. Investigation of PVT Detector Performance Based on Detector Thickness. Detection & Measurements <../docs/126.pdf>`
+* `Oluwatomi Akindele, Texas A&M University. Investigation of PVT Detector Performance Based on Detector Thickness. Detection & Measurements <../_static/docs/126.pdf>`_

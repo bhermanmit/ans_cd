@@ -3,4 +3,4 @@
 Sosnovsky, Eugeny - Podiums
 ---------------------------
 
-* :download:`Eugeny Sosnovsky, Massachusetts Institute of Technology. Point Kinetics with Spatially Distributed Feedback via Bond Graphs. Reactor Physics <../docs/418.pdf>`
+* `Eugeny Sosnovsky, Massachusetts Institute of Technology. Point Kinetics with Spatially Distributed Feedback via Bond Graphs. Reactor Physics <../_static/docs/418.pdf>`_

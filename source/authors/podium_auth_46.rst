@@ -3,4 +3,4 @@
 Gilman, Lindsey - Podiums
 -------------------------
 
-* :download:`Lindsey Gilman, Massachusetts Institute of Technology. Advancements on Wall Boiling Modeling in CFD: Leveraging New Understanding from MIT Flow Boiling Facility. Thermal Hydraulics/Fluids <../docs/202.pdf>`
+* `Lindsey Gilman, Massachusetts Institute of Technology. Advancements on Wall Boiling Modeling in CFD: Leveraging New Understanding from MIT Flow Boiling Facility. Thermal Hydraulics/Fluids <../_static/docs/202.pdf>`_

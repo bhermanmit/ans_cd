@@ -3,4 +3,4 @@
 Eiden, Thomas - Podiums
 -----------------------
 
-* :download:`Thomas Eiden, University of Wisconsin-Madison. Get Out of the Way, NRC!. Policy <../docs/351.pdf>`
+* `Thomas Eiden, University of Wisconsin-Madison. Get Out of the Way, NRC!. Policy <../_static/docs/351.pdf>`_

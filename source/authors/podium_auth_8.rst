@@ -3,4 +3,4 @@
 Badza, Stefan - Podiums
 -----------------------
 
-* :download:`Stefan Badza, Universtiy of Utah. Neutron Activation Analysis of Californian and Japanese Rice. Environmental Sciences <../docs/302.pdf>`
+* `Stefan Badza, Universtiy of Utah. Neutron Activation Analysis of Californian and Japanese Rice. Environmental Sciences <../_static/docs/302.pdf>`_

@@ -3,4 +3,4 @@
 Fudurich, Valerie - Podiums
 ---------------------------
 
-* :download:`Valerie Fudurich, Pennsylvania State University. Food Irradiation: The Future of Food Safety. Isotopes & Radiation <../docs/155.pdf>`
+* `Valerie Fudurich, Pennsylvania State University. Food Irradiation: The Future of Food Safety. Isotopes & Radiation <../_static/docs/155.pdf>`_

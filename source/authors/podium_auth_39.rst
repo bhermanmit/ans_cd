@@ -3,4 +3,4 @@
 Galegar, Natalie - Podiums
 --------------------------
 
-* :download:`Natalie Galegar, Texas A&M University. The Setup and Use of Laser Doppler Velocimetry for Measuring Flow Fields in Fuel Assemblies of Pressurized Water Reactors. Thermal Hydraulics/Fluids <../docs/173.pdf>`
+* `Natalie Galegar, Texas A&M University. The Setup and Use of Laser Doppler Velocimetry for Measuring Flow Fields in Fuel Assemblies of Pressurized Water Reactors. Thermal Hydraulics/Fluids <../_static/docs/173.pdf>`_

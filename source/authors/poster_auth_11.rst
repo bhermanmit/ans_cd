@@ -3,4 +3,4 @@
 DeWitte, Jacob - Posters
 ------------------------
 
-* :download:`Jacob DeWitte, Massachusetts Institute of Technology. How To Burn Actinides: Which Spectrum is Better?. Fuel Cycle & Waste Management <../docs/420.pdf>`
+* `Jacob DeWitte, Massachusetts Institute of Technology. How To Burn Actinides: Which Spectrum is Better?. Fuel Cycle & Waste Management <../_static/docs/420.pdf>`_

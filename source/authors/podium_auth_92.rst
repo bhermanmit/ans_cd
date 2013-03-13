@@ -3,5 +3,5 @@
 McBeath, Scott - Podiums
 ------------------------
 
-* :download:`Scott McBeath, Idaho State University. MCNP Simulation of a Shielding Enclosure for a Cargo Interrogation System. Nonproliferation & Nuclear Safeguards <../docs/148.pdf>`
-* :download:`Scott McBeath, Idaho State University. Production of NanoVision Sensors via Focused Ion Beam Milling. Fuel Cycle & Waste Management <../docs/413.pdf>`
+* `Scott McBeath, Idaho State University. MCNP Simulation of a Shielding Enclosure for a Cargo Interrogation System. Nonproliferation & Nuclear Safeguards <../_static/docs/148.pdf>`_
+* `Scott McBeath, Idaho State University. Production of NanoVision Sensors via Focused Ion Beam Milling. Fuel Cycle & Waste Management <../_static/docs/413.pdf>`_

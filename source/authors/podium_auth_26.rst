@@ -3,4 +3,4 @@
 Czeszumska, Agnieszka - Podiums
 -------------------------------
 
-* :download:`Agnieszka Czeszumska, University of California - Berkeley. Beta-Delayed Neutron Spectroscopy Using Trapped Ions: Future Plans and Recent Accomplishments. Isotopes & Radiation <../docs/330.pdf>`
+* `Agnieszka Czeszumska, University of California - Berkeley. Beta-Delayed Neutron Spectroscopy Using Trapped Ions: Future Plans and Recent Accomplishments. Isotopes & Radiation <../_static/docs/330.pdf>`_
