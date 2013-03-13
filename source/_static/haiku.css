@@ -213,6 +213,11 @@ table.index a:hover, table.index a:active {
     color: #ff4500;
 }
 
+img.front-img {
+  position: absolute;
+  right: 0px;
+  top: 120px;
+}
 
 /* Haiku User Guide styles and layout */
 
