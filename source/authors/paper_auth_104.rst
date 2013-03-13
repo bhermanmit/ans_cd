@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Painter, Daniel
----------------
+Owen, Lyman
+-----------
 
-* :download:`Daniel Painter, University of Utah. Analysis of City Grown Bing Cherry Trees Using Neutron Activation Analysis. Environmental Sciences <../docs/368.pdf>`
+* :download:`Lyman Owen, University of Utah. Automated Signal-layered Algorithm for Processing Complex Gamma Radiation Spectra. Isotopes & Radiation <../docs/319.pdf>`

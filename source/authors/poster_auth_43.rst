@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Rubio, Floren
--------------
+Riddle, William
+---------------
 
-* :download:`Floren Rubio, Los Alamos National Laboratory. Corrosion and Oxygen Control Studies Using a Lead Bismuth Eutectic Flow Loop (DELTA). Materials Science & Technology <../docs/143.pdf>`
+* :download:`William Riddle, North Carolina State University. Fuel Assembly Design for Improved Transuranics Recylcing in Light Water Reactors. Fuel Cycle & Waste Management <../docs/178.pdf>`

@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Majcher, Amanda
----------------
+Maginot, Peter
+--------------
 
-* :download:`Amanda Majcher, Pennsylvania State University. Importance of Doping in Graphene Field Effect Transistors for Alpha Particle Detection. Materials Science & Technology <../docs/171.pdf>`
+* :download:`Peter Maginot, Texas A&M University. Effects of Cross Section Discretization on Pointwise Interaction Rates and Spatial Convergence Rates in Discrete Ordinates DFEM Transport Calculations. Mathematics & Computation <../docs/299.pdf>`

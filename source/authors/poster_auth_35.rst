@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-O'Brien, Lindsay
-----------------
+Misner, Jesse
+-------------
 
-* :download:`Lindsay O'Brien, Massachusetts Institute of Technology. The Effect of Environment Chemistry and Microstructure on the Corrosion Fatigue Behavior of Austenitic Stainless Steels. Materials Science & Technology <../docs/355.pdf>`
+* :download:`Jesse Misner, Idaho State University. Analysis of Synchrotron Radiation Diffraction Data on Experiments To Determine Phases and Microstructure of Zirconium Alloy Oxides. Materials Science & Technology <../docs/240.pdf>`

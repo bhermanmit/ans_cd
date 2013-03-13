@@ -6,6 +6,7 @@ Reactor Physics
 * :download:`Daniel Abercrombie, Pennsylvania State University. Development of a Deterministic Multi-Group Diffusion Code for a Molten Salt Reactor. Reactor Physics <../docs/265.pdf>`
 * :download:`Sandra Bogetic, Paul Scherrer Institute. Comparison of U.S. NRC PARCS Against Studsvik Simulate-3 Core Simulator for Modeling and Analysis of Swiss PWRs. Reactor Physics <../docs/268.pdf>`
 * :download:`Christian DiSanzo, University of California - Berkeley. Minimum Volume of Breed and Burn Cores. Reactor Physics <../docs/369.pdf>`
+* :download:`Nathan Gibson, Massachusetts Institute of Technology. A Group Mapping Algorithm for the Discrete Generalized Multigroup Method. Reactor Physics <../docs/421.pdf>`
 * :download:`Andrew Hall, University of Michigan. Advanced Neutronics Methods for Analysis of the RBWR-AC. Reactor Physics <../docs/412.pdf>`
 * :download:`Jackson Harter, Oregon State University. Verification of Burnup-Depletion Results for Vented Nuclear Fuel in MCNPX Using ORIGEN-ARP. Reactor Physics <../docs/386.pdf>`
 * :download:`Christopher Herman, North Carolina State University. Reactivity Defect Benchmarking of the OpenMC Monte Carlo Transport Code. Reactor Physics <../docs/377.pdf>`

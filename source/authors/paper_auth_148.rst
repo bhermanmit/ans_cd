@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Waite, Brian
-------------
+Verlie, Matthew
+---------------
 
-* :download:`Brian Waite, Rensselaer Polytechnic Institute. Multidimensional Analysis of Local Flow Obstacles in Nuclear Reactors. Thermal Hydraulics/Fluids <../docs/315.pdf>`
+* :download:`Matthew Verlie, United States Military Academy. Optimization of a Delayed Neutron Detector Design. Detection & Measurements <../docs/323.pdf>`

@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Raouafi, Haykel
----------------
+Phillips, Bren
+--------------
 
-* :download:`Haykel Raouafi, Polytechnique Montreal. DRAGON 3D Simulation of Spatial Self-Shielding Effect in Sample Irradiated in SLOWPOKE-2 Reactor. Reactor Physics <../docs/348.pdf>`
+* :download:`Bren Phillips, Massachusetts Institute of Technology. Nucleation Site Density, Bubble Departure Diameter, Wait Time and Local Temperature Distribution in Subcooled Flow Boiling of Water at Atmospheric Pressure. Thermal Hydraulics/Fluids <../docs/180.pdf>`

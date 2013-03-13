@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Suzuki, Erika
--------------
+Styron, Jedediah
+----------------
 
-* :download:`Erika Suzuki, University of California - Berkeley. The Three-Stage Proposal: Establishing an International Nuclear Forensics Database. Policy <../docs/289.pdf>`
+* :download:`Jedediah Styron, University of New Mexico. Optimization of a Fast Neutron Beryllium/Scintillator Layer Detector Using a Monte Carlo Approach. Detection & Measurements <../docs/250.pdf>`

@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Zorrilla, Alexander
--------------------
+Zieb, Kristofer
+---------------
 
-* :download:`Alexander Zorrilla, University of Florida. Analysis of Skin Dose Mapping for a Standard Fluoroscopy Procedure in Patients of Varying Sizes. Biology & Medicine <../docs/280.pdf>`
+* :download:`Kristofer Zieb, Oregon State University. Optimal PID Tuning in Coupled Flow Rate-Pressure Control System at the Oregon State Hydro-Mechanical Fuel Test Facility. Human Factors, Instrumentation & Controls <../docs/342.pdf>`

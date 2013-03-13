@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Harris, Jeff
+Hall, Andrew
 ------------
 
-* :download:`Jeff Harris, Utah State University. Single Phase Forced Convection Validation and Simulation. Thermal Hydraulics/Fluids <../docs/162.pdf>`
+* :download:`Andrew Hall, University of Michigan. Advanced Neutronics Methods for Analysis of the RBWR-AC. Reactor Physics <../docs/412.pdf>`

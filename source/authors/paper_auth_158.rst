@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Yoo, Min
+Yee, Ben
 --------
 
-* :download:`Min Yoo, Korea Advanced Institute of Science and Technology. Harness Design for the Improvement of Transmitter Survivability in a Severe Accident. Nuclear Installations Safety <../docs/357.pdf>`
+* :download:`Ben Yee, University of California - Berkeley. Continuous Monitoring of Radon Progeny in Air Using a High Purity Germanium Detector and an Air Filtration System. Detection & Measurements <../docs/367.pdf>`

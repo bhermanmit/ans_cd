@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Schmidt, Lukas
---------------
+Sarnoski, Sarah
+---------------
 
-* :download:`Lukas Schmidt, ETH. Investigations of Single Phase Turbulent Mixing with Stable Density Stratification. Thermal Hydraulics/Fluids <../docs/224.pdf>`
+* :download:`Sarah Sarnoski, University of Florida. University of Florida Digital Controls Work Force Training. Education, Training & Workforce Development <../docs/278.pdf>`

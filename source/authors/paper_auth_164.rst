@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-de Guzman, Gian
----------------
+Zorrilla, Alexander
+-------------------
 
-* :download:`Gian de Guzman, Idaho State University. What are the Risks and Benefits of Accelerated Spent Fuel Transfer?. Fuel Cycle & Waste Management <../docs/130.pdf>`
+* :download:`Alexander Zorrilla, University of Florida. Analysis of Skin Dose Mapping for a Standard Fluoroscopy Procedure in Patients of Varying Sizes. Biology & Medicine <../docs/280.pdf>`

@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Young, Jason
-------------
+Yoo, Min
+--------
 
-* :download:`Jason Young, Purdue University. Advances to the Radiation Source Search Toolkit. Nonproliferation & Nuclear Safeguards <../docs/284.pdf>`
+* :download:`Min Yoo, Korea Advanced Institute of Science and Technology. Harness Design for the Improvement of Transmitter Survivability in a Severe Accident. Nuclear Installations Safety <../docs/357.pdf>`

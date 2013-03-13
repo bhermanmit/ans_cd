@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Lang, Amanda
+Lane, Taylor
 ------------
 
-* :download:`Amanda Lang, University of Wisconsin - Madison. The Use of Freeze-Cast Scaffolds in Nuclear Fuel Design. Reactor Physics <../docs/182.pdf>`
+* :download:`Taylor Lane, Texas A&M University. Self-Similar Radiation-Hydrodynamics Solutions in the Equilibrium Diffusion Limit. Mathematics & Computation <../docs/288.pdf>`

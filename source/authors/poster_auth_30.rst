@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Lane, Taylor
+Kristo, Paul
 ------------
 
-* :download:`Taylor Lane, Texas A&M University. A Flux-Limited Diffusion Method for Simulating Radiative Shocks. Fusion Energy & Plasmas <../docs/135.pdf>`
+* :download:`Paul Kristo, University of Pittsburgh. Design of a Constant Temperature Anemometer Calibration Procedure for Use with Heated Flows. Thermal Hydraulics/Fluids <../docs/231.pdf>`

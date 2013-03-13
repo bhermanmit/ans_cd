@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Gurecky, William
-----------------
+Graves, Joshua
+--------------
 
-* :download:`William Gurecky, University of Texas at Austin. A Jet Modeling Framework Relevant to LOCA Analysis. Thermal Hydraulics/Fluids <../docs/220.pdf>`
+* :download:`Joshua Graves, Oregon State University. Top-Down Scaling Analysis of the Integral Reactor Vessel Test Facility. Thermal Hydraulics/Fluids <../docs/225.pdf>`

@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Ferry, Sara
------------
+Farmand, Romina
+---------------
 
-* :download:`Sara Ferry, Massachusetts Institute of Technology. Life Prediction of Used Fuel Storage Canister Material. Materials Science & Technology <../docs/417.pdf>`
+* :download:`Romina Farmand, University of Nevada - Las Vegas. Synthesis and Characterization of Low-Valent Rhenium Dimers with Multiple Metal-Metal Bonds. Special Session: Radiochemistry <../docs/407.pdf>`

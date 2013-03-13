@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Zimmer, Matthew
----------------
+Wozniak, Nicholas
+-----------------
 
-* :download:`Matthew Zimmer, Rensselaer Polytechnic Institute. An Analysis of Multidimensional Models of Turbulent Flow in Nuclear Reactors. Thermal Hydraulics/Fluids <../docs/388.pdf>`
+* :download:`Nicholas Wozniak, University of Nevada - Las Vegas. Photoreduction Synthesis of U (IV) Organophosphate Nanoparticles from Uranyl Perchlorate. Special Session: Radiochemistry <../docs/219.pdf>`

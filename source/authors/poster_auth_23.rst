@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Gosdin, Chris
--------------
+Geleskie, Dominic M.
+--------------------
 
-* :download:`Chris Gosdin, Pennsylvania State University. Comparison of Navy Fuel: Nuclear Propulsion Versus Diesel Propulsion. Operations & Power <../docs/142.pdf>`
+* :download:`Dominic M. Geleskie, Pennsylvania State University. Carbon Dioxide Emissions from the Nuclear Fuel Cycle Compared to Emissions from a Coal-fired Power Plant. Environmental Sciences <../docs/141.pdf>`

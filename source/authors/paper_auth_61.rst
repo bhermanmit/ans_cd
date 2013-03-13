@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Howard, Trevor
---------------
+Horkley, Matthew
+----------------
 
-* :download:`Trevor Howard, Oregon State University. Computational Fluid Dynamics Simulation of Vortex Shedding Between Inline Plates. Thermal Hydraulics/Fluids <../docs/335.pdf>`
+* :download:`Matthew Horkley, Idaho State University. Nuclear Proliferation Resistant Aqueous Reprocessing Methods. Nonproliferation & Nuclear Safeguards <../docs/233.pdf>`

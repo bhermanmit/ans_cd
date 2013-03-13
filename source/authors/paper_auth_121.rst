@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Ryan, Emerald
--------------
+Root, Margaret
+--------------
 
-* :download:`Emerald Ryan, Idaho State University. Crystal Furnace Graphical Interface for Growth of Oxide Nuclear Fuel Materials. Materials Science & Technology <../docs/151.pdf>`
+* :download:`Margaret Root, Massachusetts Institute of Technology. Monte Carlo Simulations in Support of PNEM Field Trial Data Analysis. Nonproliferation & Nuclear Safeguards <../docs/131.pdf>`

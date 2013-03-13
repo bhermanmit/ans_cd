@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Verlie, Matthew
----------------
+Vaquer, Pablo
+-------------
 
-* :download:`Matthew Verlie, United States Military Academy. Optimization of a Delayed Neutron Detector Design. Detection & Measurements <../docs/323.pdf>`
+* :download:`Pablo Vaquer, University of Florida. A Quantitative Comparison of Inverse Transport Methods Using Three-Dimensional Problems That Have Local Minima and Multiple Solutions. Mathematics & Computation <../docs/134.pdf>`

@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Hombourger, Boris
------------------
+Holschuh, Tom
+-------------
 
-* :download:`Boris Hombourger, Paul Scherrer Institute. Study of a Closed Thorium-232 Fuel Cycle Molten Salt Reactor Core in Different Spectra. Fuel Cycle & Waste Management <../docs/264.pdf>`
+* :download:`Tom Holschuh, Oregon State University. Methodology for Strain Gage Adhesion To Test Plates for Measurement During Operations. Thermal Hydraulics/Fluids <../docs/282.pdf>`

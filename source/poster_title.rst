@@ -20,6 +20,7 @@ Posters - All
 * :download:`Price Collins, University of Tennessee. Fault Simulation for Integral Pressurized Water Reactors. Human Factors, Instrumentation & Controls <docs/146.pdf>`
 * :download:`Brent Cross, University of Illinois at Urbana-Champaign. Increasing X-Ray Fluorescence Emission Tomography (XFET) Speed with Novel Geometry. Biology & Medicine <docs/317.pdf>`
 * :download:`Daniel Curtis, Massachusetts Institute of Technology. Nuclear Shale Oil Development Reactor Arrays and System Effects. Operations & Power <docs/226.pdf>`
+* :download:`Jacob DeWitte, Massachusetts Institute of Technology. How To Burn Actinides: Which Spectrum is Better?. Fuel Cycle & Waste Management <docs/420.pdf>`
 * :download:`Remy Devoe, University of Tennessee. Characterization of Inorganic Scintillators with Synchrotron Radiation: Cerium Dopant Concentration Non-Uniformity from Czochralski Growth Process. Accelerator Applications <docs/290.pdf>`
 * :download:`Sarah Don, Massachusetts Institute of Technology. Surface Analysis of Materials Test Reactor Cladding. Thermal Hydraulics/Fluids <docs/396.pdf>`
 * :download:`Jacquelyn Dorhout, University of Nevada - Las Vegas. Synthesis of Rapid Separation Targets by Hydrothermal Methods. Special Session: Radiochemistry <docs/139.pdf>`

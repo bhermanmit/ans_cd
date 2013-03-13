@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Yurko, Joseph
--------------
+Young, Jason
+------------
 
-* :download:`Joseph Yurko, Massachusetts Institute of Technology. Gaussian Process Emulators for Bayesian Calibration Using Separate and Integral Effect Test Data. Thermal Hydraulics/Fluids <../docs/401.pdf>`
+* :download:`Jason Young, Purdue University. Advances to the Radiation Source Search Toolkit. Nonproliferation & Nuclear Safeguards <../docs/284.pdf>`

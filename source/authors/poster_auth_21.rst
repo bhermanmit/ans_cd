@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Gatto, Nadine
+Fray, Elliott
 -------------
 
-* :download:`Nadine Gatto, Pennsylvania State University. Design and Objectives of the International Thermonuclear Experimental Reactor (ITER). Fusion Energy & Plasmas <../docs/415.pdf>`
+* :download:`Elliott Fray, Massachusetts Institute of Technology. Materials Testing and Development of Functionally Graded Composite Fuel Cladding and Piping for the Lead-Bismuth Cooled Nuclear Reactor. Materials Science & Technology <../docs/326.pdf>`

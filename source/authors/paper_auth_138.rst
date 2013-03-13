@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Stout, Aaron
-------------
+Stempien, John
+--------------
 
-* :download:`Aaron Stout, United States Military Academy. Design of a Methodology to Calculate Radiation Protection Factors for Army Equipment Using MCNP. Radiation Protection & Shielding <../docs/249.pdf>`
+* :download:`John Stempien, Massachusetts Institute of Technology. Coolant Chemistry and Materials Compatibility in the Fluoride Salt-Cooled High Temperature Reactor (FHR). Materials Science & Technology <../docs/243.pdf>`

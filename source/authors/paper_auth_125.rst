@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Sarnoski, Sarah
+Santora, Joseph
 ---------------
 
-* :download:`Sarah Sarnoski, University of Florida. University of Florida Digital Controls Work Force Training. Education, Training & Workforce Development <../docs/278.pdf>`
+* :download:`Joseph Santora, University of Utah. Viticulture Improvement Applicable to All Plants. Special Session: Radiochemistry <../docs/408.pdf>`

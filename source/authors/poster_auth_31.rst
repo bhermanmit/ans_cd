@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Langewisch, Dustin
-------------------
+Lane, Taylor
+------------
 
-* :download:`Dustin Langewisch, Massachusetts Institute of Technology. Uncertainty Quantification for Computational Multiphase Fluid Dynamics. Mathematics & Computation <../docs/292.pdf>`
+* :download:`Taylor Lane, Texas A&M University. A Flux-Limited Diffusion Method for Simulating Radiative Shocks. Fusion Energy & Plasmas <../docs/135.pdf>`

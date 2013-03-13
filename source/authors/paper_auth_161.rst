@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Zhong, Jianguo
---------------
+Yurko, Joseph
+-------------
 
-* :download:`Jianguo Zhong, Rensselaer Polytechnic Institute. Analysis of Heat Transfer in Supercritical Water Reactor Core. Thermal Hydraulics/Fluids <../docs/398.pdf>`
+* :download:`Joseph Yurko, Massachusetts Institute of Technology. Gaussian Process Emulators for Bayesian Calibration Using Separate and Integral Effect Test Data. Thermal Hydraulics/Fluids <../docs/401.pdf>`

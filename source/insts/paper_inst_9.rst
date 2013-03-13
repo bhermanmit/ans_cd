@@ -9,7 +9,8 @@ Massachusetts Institute of Technology
 * :download:`Samuel Brinton, Massachusetts Institute of Technology. Protons and Policy: The Integration of the Technology Policy Program and Nuclear Science and Engineering Departments of MIT. Policy <../docs/381.pdf>`
 * :download:`Daniel Curtis, Massachusetts Institute of Technology. Nuclear Air-Brayton Combined Cycle for Increased Nuclear Plant Revenue. Operations & Power <../docs/214.pdf>`
 * :download:`Jacob DeWitte, Massachusetts Institute of Technology. Maximizing the US Nuclear Fleet Through Life Extension and Mega Uprates. Operations & Power <../docs/400.pdf>`
-* :download:`Eric Forrest, Massachusetts Institute of Technology. Experimental Study of Turbulent Single-Phase Heat Transfer in a Prototypic Materials Test Reactor Coolant Channel. Thermal Hydraulics/Fluids <../docs/404.pdf>`
+* :download:`Eric Forrest, Massachusetts Institute of Technology. Experimental Study of Turbulent Single-Phase Heat Transfer in a Prototypic Materials Test Reactor Coolant Channel. Thermal Hydraulics/Fluids <../docs/422.pdf>`
+* :download:`Nathan Gibson, Massachusetts Institute of Technology. A Group Mapping Algorithm for the Discrete Generalized Multigroup Method. Reactor Physics <../docs/421.pdf>`
 * :download:`Lindsey Gilman, Massachusetts Institute of Technology. Advancements on Wall Boiling Modeling in CFD: Leveraging New Understanding from MIT Flow Boiling Facility. Thermal Hydraulics/Fluids <../docs/202.pdf>`
 * :download:`Carl Haugen, Massachusetts Institute of Technology. A Deterministic Method for Core Loading Analysis in LWRs. Fuel Cycle & Waste Management <../docs/378.pdf>`
 * :download:`Bryan Herman, Massachusetts Institute of Technology. Accelerated Fission Source Convergence of OpenMC using Nonlinear Diffusion Methods. Mathematics & Computation <../docs/384.pdf>`

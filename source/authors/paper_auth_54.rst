@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Herman, Christopher
--------------------
+Haugen, Carl
+------------
 
-* :download:`Christopher Herman, North Carolina State University. Reactivity Defect Benchmarking of the OpenMC Monte Carlo Transport Code. Reactor Physics <../docs/377.pdf>`
+* :download:`Carl Haugen, Massachusetts Institute of Technology. A Deterministic Method for Core Loading Analysis in LWRs. Fuel Cycle & Waste Management <../docs/378.pdf>`

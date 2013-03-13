@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Geleskie, Dominic M.
---------------------
+Gatto, Nadine
+-------------
 
-* :download:`Dominic M. Geleskie, Pennsylvania State University. Carbon Dioxide Emissions from the Nuclear Fuel Cycle Compared to Emissions from a Coal-fired Power Plant. Environmental Sciences <../docs/141.pdf>`
+* :download:`Nadine Gatto, Pennsylvania State University. Design and Objectives of the International Thermonuclear Experimental Reactor (ITER). Fusion Energy & Plasmas <../docs/415.pdf>`

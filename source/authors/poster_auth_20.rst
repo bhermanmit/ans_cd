@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Fray, Elliott
--------------
+Ferry, Sara
+-----------
 
-* :download:`Elliott Fray, Massachusetts Institute of Technology. Materials Testing and Development of Functionally Graded Composite Fuel Cladding and Piping for the Lead-Bismuth Cooled Nuclear Reactor. Materials Science & Technology <../docs/326.pdf>`
+* :download:`Sara Ferry, Massachusetts Institute of Technology. Life Prediction of Used Fuel Storage Canister Material. Materials Science & Technology <../docs/417.pdf>`

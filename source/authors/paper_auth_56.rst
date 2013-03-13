@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Hogan, Daniel
+Herman, Bryan
 -------------
 
-* :download:`Daniel Hogan, University of California - Berkeley. Approaches To Detecting Coherent Neutrino-Nucleus Scattering with High-Purity Germanium Detectors. Detection & Measurements <../docs/343.pdf>`
+* :download:`Bryan Herman, Massachusetts Institute of Technology. Accelerated Fission Source Convergence of OpenMC using Nonlinear Diffusion Methods. Mathematics & Computation <../docs/384.pdf>`

@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Reed, Mark
-----------
+Raouafi, Haykel
+---------------
 
-* :download:`Mark Reed, Massachusetts Institute of Technology. Pin-Level Reconstruction of Various Neutronic Quantities in Fast Reactors: Enhanced Physical Insight and Visualization Tools. Reactor Physics <../docs/196.pdf>`
+* :download:`Haykel Raouafi, Polytechnique Montreal. DRAGON 3D Simulation of Spatial Self-Shielding Effect in Sample Irradiated in SLOWPOKE-2 Reactor. Reactor Physics <../docs/348.pdf>`

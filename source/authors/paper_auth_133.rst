@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Sirotkina, Alecksandra
-----------------------
+Sim, Ji-hyung
+-------------
 
-* :download:`Alecksandra Sirotkina, St.Petersburg State Polytechnical University. Light Water Reactor with Supercritical Pressure and Spectral Control: Construction, Perspectives, Safety. Operations & Power <../docs/107.pdf>`
+* :download:`Ji-hyung Sim, Hanyang University. The Characteristics of Fission Gas Release on Metallic Fuels. Materials Science & Technology <../docs/245.pdf>`

@@ -42,7 +42,7 @@ Papers - All
 * :download:`Thomas Eiden, University of Wisconsin - Madison. Get Out of the Way, NRC!. Policy <docs/351.pdf>`
 * :download:`Grace Fischetti, North Carolina State University. Design of a Continuous Pyrochemical Process for Actinide Recovery. Fuel Cycle & Waste Management <docs/227.pdf>`
 * :download:`Robert Flanagan, University of Texas Austin. Input Visualization for the Cyclus Nuclear Fuel Cycle Simulator. Fuel Cycle & Waste Management <docs/339.pdf>`
-* :download:`Eric Forrest, Massachusetts Institute of Technology. Experimental Study of Turbulent Single-Phase Heat Transfer in a Prototypic Materials Test Reactor Coolant Channel. Thermal Hydraulics/Fluids <docs/404.pdf>`
+* :download:`Eric Forrest, Massachusetts Institute of Technology. Experimental Study of Turbulent Single-Phase Heat Transfer in a Prototypic Materials Test Reactor Coolant Channel. Thermal Hydraulics/Fluids <docs/422.pdf>`
 * :download:`Phillip Forsberg, Purdue University. Data Encryption of Radiation Signals Using Chaotic Artificial Neural Networks. Mathematics & Computation <docs/304.pdf>`
 * :download:`Andrew Franklin, Texas A&M University. Visualization of RELAP5-3D: Thermal-hydraulic Properties of Multi-Dimensional Components To Study Core Blockage Scenarios. Thermal Hydraulics/Fluids <docs/276.pdf>`
 * :download:`David Frazer, University of California - Berkeley. Nano/micro Scale Characterization of SiC/SiC Composite Materials. Materials Science & Technology <docs/260.pdf>`
@@ -55,6 +55,7 @@ Papers - All
 * :download:`Diego Garcia, University of Florida. Performance Analysis and Fabrication of PARES Based Nuclear Battery for MEMS Application. Isotopes & Radiation <docs/234.pdf>`
 * :download:`Diego Garcia, University of Florida. Effective Communication Strategies for Nuclear Engineering Students in Risk Presentation, Media Engagement, and Political Messaging. Education, Training & Workforce Development <docs/237.pdf>`
 * :download:`Robert J. Geringer, University of Illinois at Urbana-Champaign. Deep Borehole Storage of Nuclear Waste in Central Illinois Geology: A Technical, Economic, and Political Feasibility Analysis. Fuel Cycle & Waste Management <docs/172.pdf>`
+* :download:`Nathan Gibson, Massachusetts Institute of Technology. A Group Mapping Algorithm for the Discrete Generalized Multigroup Method. Reactor Physics <docs/421.pdf>`
 * :download:`Lindsey Gilman, Massachusetts Institute of Technology. Advancements on Wall Boiling Modeling in CFD: Leveraging New Understanding from MIT Flow Boiling Facility. Thermal Hydraulics/Fluids <docs/202.pdf>`
 * :download:`Braden Goddard, Texas A&M University. Development of a Neutron Multiplicity Counting Laboratory Experiment at Texas A&M University. Education, Training & Workforce Development <docs/127.pdf>`
 * :download:`Joshua Graves, Oregon State University. Top-Down Scaling Analysis of the Integral Reactor Vessel Test Facility. Thermal Hydraulics/Fluids <docs/225.pdf>`

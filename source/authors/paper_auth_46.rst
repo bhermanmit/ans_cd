@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Gilman, Lindsey
----------------
+Gibson, Nathan
+--------------
 
-* :download:`Lindsey Gilman, Massachusetts Institute of Technology. Advancements on Wall Boiling Modeling in CFD: Leveraging New Understanding from MIT Flow Boiling Facility. Thermal Hydraulics/Fluids <../docs/202.pdf>`
+* :download:`Nathan Gibson, Massachusetts Institute of Technology. A Group Mapping Algorithm for the Discrete Generalized Multigroup Method. Reactor Physics <../docs/421.pdf>`

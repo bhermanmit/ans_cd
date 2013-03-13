@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Devoe, Remy
------------
+DeWitte, Jacob
+--------------
 
-* :download:`Remy Devoe, University of Tennessee. Characterization of Inorganic Scintillators with Synchrotron Radiation: Cerium Dopant Concentration Non-Uniformity from Czochralski Growth Process. Accelerator Applications <../docs/290.pdf>`
+* :download:`Jacob DeWitte, Massachusetts Institute of Technology. How To Burn Actinides: Which Spectrum is Better?. Fuel Cycle & Waste Management <../docs/420.pdf>`

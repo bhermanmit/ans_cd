@@ -6,6 +6,7 @@ Massachusetts Institute of Technology
 * :download:`Lauren Ayers, Massachusetts Institute of Technology. Evaluating Equipotential Switching Direct Current Potential Drop as an Online Pipe Monitoring Technique. Materials Science & Technology <../docs/271.pdf>`
 * :download:`Kathryn Biegel, Massachusetts Institute of Technology. PySPORe: Python System for Plotting OpenMC Results. Mathematics & Computation <../docs/410.pdf>`
 * :download:`Daniel Curtis, Massachusetts Institute of Technology. Nuclear Shale Oil Development Reactor Arrays and System Effects. Operations & Power <../docs/226.pdf>`
+* :download:`Jacob DeWitte, Massachusetts Institute of Technology. How To Burn Actinides: Which Spectrum is Better?. Fuel Cycle & Waste Management <../docs/420.pdf>`
 * :download:`Sarah Don, Massachusetts Institute of Technology. Surface Analysis of Materials Test Reactor Cladding. Thermal Hydraulics/Fluids <../docs/396.pdf>`
 * :download:`Sara Ferry, Massachusetts Institute of Technology. Life Prediction of Used Fuel Storage Canister Material. Materials Science & Technology <../docs/417.pdf>`
 * :download:`Elliott Fray, Massachusetts Institute of Technology. Materials Testing and Development of Functionally Graded Composite Fuel Cladding and Piping for the Lead-Bismuth Cooled Nuclear Reactor. Materials Science & Technology <../docs/326.pdf>`

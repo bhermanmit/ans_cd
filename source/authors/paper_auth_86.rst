@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Liu, Ruirui
------------
+Lindner, Harry
+--------------
 
-* :download:`Ruirui Liu, Oregon State University. Study on Sampling and Measurement of 210Po in the Waste Stream of Coal-fired Power Plant. Radiation Protection & Shielding <../docs/246.pdf>`
+* :download:`Harry Lindner, University of Texas at Austin. Cost Updates to Uranium Recovery from Seawater. Fuel Cycle & Waste Management <../docs/322.pdf>`

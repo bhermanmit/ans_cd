@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Sames, William
---------------
+Rubio, Floren
+-------------
 
-* :download:`William Sames, Texas A&M University. Delayed Hydride Cracking in Zirconium Alloys. Materials Science & Technology <../docs/157.pdf>`
+* :download:`Floren Rubio, Los Alamos National Laboratory. Corrosion and Oxygen Control Studies Using a Lead Bismuth Eutectic Flow Loop (DELTA). Materials Science & Technology <../docs/143.pdf>`

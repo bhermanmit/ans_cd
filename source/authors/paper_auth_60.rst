@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Horkley, Matthew
-----------------
+Horelik, Nicholas
+-----------------
 
-* :download:`Matthew Horkley, Idaho State University. Nuclear Proliferation Resistant Aqueous Reprocessing Methods. Nonproliferation & Nuclear Safeguards <../docs/233.pdf>`
+* :download:`Nicholas Horelik, Massachusetts Institute of Technology. Benchmark for Evaluation And Validation of Reactor Simulations (BEAVRS). Mathematics & Computation <../docs/273.pdf>`
