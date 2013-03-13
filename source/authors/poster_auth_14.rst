@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Curtis, Daniel
---------------
+Farmand, Romina
+---------------
 
-* :download:`Daniel Curtis, Massachusetts Institute of Technology. Nuclear Shale Oil Development Reactor Arrays and System Effects. Operations & Power <../docs/226.pdf>`
+* :download:`Romina Farmand, University of Nevada - Las Vegas. Synthesis and Characterization of Low-Valent Rhenium Dimers with Multiple Metal-Metal Bonds. Special Session: Radiochemistry <../docs/407.pdf>`

@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Jacomb-Hood, Timothy
---------------------
+Jarvis, Jennifer
+----------------
 
-* :download:`Timothy Jacomb-Hood, Pennsylvania State University. Unraveling Environmental Contributions to Fallout Formation. Special Session: Radiochemistry <../docs/149.pdf>`
+* :download:`Jennifer Jarvis, Massachusetts Institute of Technology. PWR Water Chemistry Modeling for Hydrogen Pickup in Zircaloy Cladding. Materials Science & Technology <../docs/356.pdf>`

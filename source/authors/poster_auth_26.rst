@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Horwood, Aaron
---------------
+McCallum, Jacob
+---------------
 
-* :download:`Aaron Horwood, United States Military Academy. Unmanned Lighter-Than-Air Vehicle For Remote Radiological Survey. Robotics & Remote Systems <../docs/267.pdf>`
+* :download:`Jacob McCallum, Idaho State University. Highly Enriched Uranium Reactor Rocket Propulsion System Modeled by MCNP. Aerospace Nuclear Science & Technology <../docs/244.pdf>`

@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Schweitzer, Amanda
-------------------
+Swift, Andrew J.
+----------------
 
-* :download:`Amanda Schweitzer, Pennsylvania State University. A Study of PWR's Water Chemistry and the Effects on the Reactor Operation and Surrounding Environment. Environmental Sciences <../docs/170.pdf>`
+* :download:`Andrew J. Swift, University of Nevada - Las Vegas. Evaluation and Preparation of Uranium Alloys Based on Fuel Burnup. Special Session: Radiochemistry <../docs/213.pdf>`

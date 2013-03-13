@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Sorbom, Brandon
----------------
+Woodley, David
+--------------
 
-* :download:`Brandon Sorbom, Massachusetts Institute of Technology. A Molten Salt Liquid Immersion Blanket Design For Use in a Compact, Modular Fusion Reactor. Fusion Energy & Plasmas <../docs/344.pdf>`
+* :download:`David Woodley, North Carolina State University. High Temperature Test Capsule for Irradiation Experiments in the Pulstar Reactor. Materials Science & Technology <../docs/259.pdf>`

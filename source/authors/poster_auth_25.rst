@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Hill, Jordan
-------------
+Mankosa, Mike
+-------------
 
-* :download:`Jordan Hill, Pennsylvania State University. ONKALO: A Look at the First Spent Nuclear Fuel Geological Repository. Fuel Cycle & Waste Management <../docs/165.pdf>`
+* :download:`Mike Mankosa, Pennsylvania State University. Outreach Programs to Accurately Inform the Public About Nuclear Power. Education, Training & Workforce Development <../docs/236.pdf>`

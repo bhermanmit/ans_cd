@@ -1,7 +1,6 @@
  :ref:`Back to Index <index>`
 
-Jensen, Jon
------------
+Jeong, Sol
+----------
 
-* :download:`Jon Jensen, Idaho State University. Design and Testing for a Pedestrian Portal Monitor System. Nonproliferation & Nuclear Safeguards <../docs/108.pdf>`
-* :download:`Jon Jensen, Idaho State University. Design and Testing of a Model Boiling Water Reactor. Operations & Power <../docs/109.pdf>`
+* :download:`Sol Jeong, Hanyang University. Dose Evaluation in Accidental Release of Tritium Gas with Consideration of Tritiated Water Vapor Oxidized in Soil. Biology & Medicine <../docs/311.pdf>`

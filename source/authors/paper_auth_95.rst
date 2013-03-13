@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-McClure, Kelly
---------------
+McDermott, Brian
+----------------
 
-* :download:`Kelly McClure, Pennsylvania State University. The American Nuclear Society and THON. Education, Training & Workforce Development <../docs/201.pdf>`
+* :download:`Brian McDermott, Rensselaer Polytechnic Institute. A Detector Array for Measuring Neutron Capture Cross Sections in the keV Region. Nuclear Criticality Safety <../docs/221.pdf>`

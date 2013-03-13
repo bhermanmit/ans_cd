@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Howard, Trevor
---------------
+Hraiz, Amal
+-----------
 
-* :download:`Trevor Howard, Oregon State University. Computational Fluid Dynamics Analysis of Vortex Shedding Between Inline Plates. Thermal Hydraulics/Fluids <../docs/335.pdf>`
+* :download:`Amal Hraiz, Khalifa University. 3-D Full Core Calculations of Westinghouse AP1000 Using WIMS/PARCS/SNAP Code System. Reactor Physics <../docs/193.pdf>`

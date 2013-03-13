@@ -1,7 +1,6 @@
  :ref:`Back to Index <index>`
 
-Garcia, Diego
--------------
+Garcia, Tim
+-----------
 
-* :download:`Diego Garcia, University of Florida. Performance Analysis and Fabrication of PARES Based Nuclear Battery for MEMS Application. Isotopes & Radiation <../docs/234.pdf>`
-* :download:`Diego Garcia, University of Florida. Effective Communication Strategies for Nuclear Engineering Students in Risk Presentation, Media Engagement, and Political Messaging. Education, Training & Workforce Development <../docs/237.pdf>`
+* :download:`Tim Garcia, Ohio State University. 4H-SiC Schottky Diode Alpha Particle Detectors for In-situ Pyroprocessing Safeguards. Detection & Measurements <../docs/324.pdf>`

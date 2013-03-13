@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Lubchenko, Nazar
-----------------
+Majcher, Amanda
+---------------
 
-* :download:`Nazar Lubchenko, Massachusetts Institute of Technology. Thermal Transient Modeling of a Deep Borehole Repository on a MOOSE Framework. Fuel Cycle & Waste Management <../docs/403.pdf>`
+* :download:`Amanda Majcher, Pennsylvania State University. Importance of Doping in Graphene Field Effect Transistors for Alpha Particle Detection. Materials Science & Technology <../docs/171.pdf>`

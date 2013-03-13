@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-University of Houston - Downtown
---------------------------------
+University of Illinois at Urbana-Champaign
+------------------------------------------
 
-* :download:`David Amos, University of Houston - Downtown. A Quantum Mechanical Study of Ce(IV)-tetrakis(chatecolato) as a Model for Pu(IV)-tetrakis(chatecholato). Materials Science & Technology <../docs/185.pdf>`
+* :download:`Brent Cross, University of Illinois at Urbana-Champaign. Increasing X-Ray Fluorescence Emission Tomography (XFET) Speed with Novel Geometry. Biology & Medicine <../docs/317.pdf>`

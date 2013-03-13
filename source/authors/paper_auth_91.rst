@@ -1,7 +1,6 @@
  :ref:`Back to Index <index>`
 
-Malachosky, Christopher
------------------------
+Mart, Justin
+------------
 
-* :download:`Christopher Malachosky, United States Military Academy. Design of an Undergraduate X-Ray Fluorescence Laboratory. Education, Training & Workforce Development <../docs/334.pdf>`
-* :download:`Christopher Malachosky, United States Military Academy. Optical Flash Blindness. Nonproliferation & Nuclear Safeguards <../docs/336.pdf>`
+* :download:`Justin Mart, Oregon State University. Feasibility Study on Soluble Boron-Free Operation in a Prototypical Small Modular Reactor Through an Advanced Control Rod Algorithm. Operations & Power <../docs/316.pdf>`

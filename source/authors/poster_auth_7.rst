@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Boulton, Nick
--------------
+Chen, Elton
+-----------
 
-* :download:`Nick Boulton, Oregon State University. Quasi Steady-State Analysis of Mars Hopper Concept. Aerospace Nuclear Science & Technology <../docs/293.pdf>`
+* :download:`Elton Chen, Georgia Institute of Technology. Comparison of Uranium Properties using EAM and MEAM Potentials. Materials Science & Technology <../docs/218.pdf>`

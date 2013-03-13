@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Green, Hailey
--------------
+Kristo, Paul
+------------
 
-* :download:`Hailey Green, University of Tennessee. Studies of Neutron Transport on Lunar Bases. Radiation Protection & Shielding <../docs/279.pdf>`
+* :download:`Paul Kristo, University of Pittsburgh. Design of a Constant Temperature Anemometer Calibration Procedure for Use with Heated Flows. Thermal Hydraulics/Fluids <../docs/231.pdf>`

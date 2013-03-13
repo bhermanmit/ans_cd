@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Lane, Taylor
-------------
+Ortega, Mario
+-------------
 
-* :download:`Taylor Lane, Texas A&M University. A Flux-Limited Diffusion Method for Simulating Radiative Shocks. Fusion Energy & Plasmas <../docs/135.pdf>`
+* :download:`Mario Ortega, University of New Mexico. Reactor Physics Characterization of Minor Actinide Incineration in Modified MYRRHA/XT-ADS Reactor. Reactor Physics <../docs/312.pdf>`

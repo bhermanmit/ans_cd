@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Mart, Justin
-------------
+McClure, Kelly
+--------------
 
-* :download:`Justin Mart, Oregon State University. Feasibility Study on Soluble Boron-Free Operation in a Prototypical Small Modular Reactor Through an Advanced Control Rod Algorithm. Operations & Power <../docs/316.pdf>`
+* :download:`Kelly McClure, Pennsylvania State University. The American Nuclear Society and THON. Education, Training & Workforce Development <../docs/201.pdf>`

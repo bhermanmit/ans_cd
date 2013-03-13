@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Styron, Jedediah
-----------------
+Zimmer, Matthew
+---------------
 
-* :download:`Jedediah Styron, University of New Mexico. Review of the Thorium Fuel Cycle and Its Higher Burn-up Capabilities in Future PWR Designs. Operations & Power <../docs/354.pdf>`
+* :download:`Matthew Zimmer, Rensselaer Polytechnic Institute. An Analysis of Multidimensional Models of Turbulent Flow in Nuclear Reactors. Thermal Hydraulics/Fluids <../docs/388.pdf>`

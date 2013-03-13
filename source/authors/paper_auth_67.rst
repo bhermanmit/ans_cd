@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Jarvis, Jennifer
-----------------
+Jensen, Jon
+-----------
 
-* :download:`Jennifer Jarvis, Massachusetts Institute of Technology. PWR Water Chemistry Modeling for Hydrogen Pickup in Zircaloy Cladding. Materials Science & Technology <../docs/356.pdf>`
+* :download:`Jon Jensen, Idaho State University. Design and Testing for a Pedestrian Portal Monitor System. Nonproliferation & Nuclear Safeguards <../docs/108.pdf>`

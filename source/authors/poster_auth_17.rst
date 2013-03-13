@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Dorhout, Jacquelyn
-------------------
+Gatto, Nadine
+-------------
 
-* :download:`Jacquelyn Dorhout, University of Nevada - Las Vegas. Synthesis of Rapid Separation Targets by Hydrothermal Methods. Special Session: Radiochemistry <../docs/139.pdf>`
+* :download:`Nadine Gatto, Pennsylvania State University. Design and Objectives of the International Thermonuclear Experimental Reactor (ITER). Fusion Energy & Plasmas <../docs/415.pdf>`

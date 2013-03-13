@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-O'Brien, Lindsay
-----------------
+Riblett, Matthew J.
+-------------------
 
-* :download:`Lindsay O'Brien, Massachusetts Institute of Technology. The Effect of Environment Chemistry and Microstructure on the Corrosion Fatigue Behavior of Austenitic Stainless Steels. Materials Science & Technology <../docs/355.pdf>`
+* :download:`Matthew J. Riblett, Rensselaer Polytechnic Institute. Use of Hardware Accelerators for Monte Carlo-based Radiation Transport: Preliminary Strategies for Tackling Neutron Radiation. Mathematics & Computation <../docs/350.pdf>`

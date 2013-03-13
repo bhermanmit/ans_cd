@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Stribling, Steven
+Wozniak, Nicholas
 -----------------
 
-* :download:`Steven Stribling, University of Tennessee. A Methodology of Investigating Resources for Illicit Trafficking of Radiological and Nuclear Materials at International Crossings. Nonproliferation & Nuclear Safeguards <../docs/262.pdf>`
+* :download:`Nicholas Wozniak, University of Nevada - Las Vegas. Photoreduction Synthesis of U (IV) Organophosphate Nanoparticles from Uranyl Perchlorate. Special Session: Radiochemistry <../docs/219.pdf>`

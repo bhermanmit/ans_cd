@@ -312,6 +312,13 @@ div.content li {
     margin-bottom: 3px;
 }
 
+img.front-img {
+  position: relative;
+  left: 400px;
+  top: -400px;
+  margin-bottom:-400px
+}
+
 td {
     vertical-align: top;
 }

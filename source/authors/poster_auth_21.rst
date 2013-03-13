@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Gatto, Nadine
--------------
+Horwood, Aaron
+--------------
 
-* :download:`Nadine Gatto, Pennsylvania State University. Design and Objectives of the International Thermonuclear Experimental Reactor (ITER). Fusion Energy & Plasmas <../docs/189.pdf>`
+* :download:`Aaron Horwood, United States Military Academy. Unmanned Lighter-Than-Air Vehicle For Remote Radiological Survey. Robotics & Remote Systems <../docs/267.pdf>`

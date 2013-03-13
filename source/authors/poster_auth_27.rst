@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Jeong, Uiju
------------
+Misner, Jesse
+-------------
 
-* :download:`Uiju Jeong, Hanyang University. CFD Analysis of Liquid Sodium Flow in the Vicinity of Permanent Magnet Probe Flow Meter Using FLUENT. Thermal Hydraulics/Fluids <../docs/176.pdf>`
+* :download:`Jesse Misner, Idaho State University. Analysis of Synchrotron Radiation Diffraction Data on Experiments To Determine Phases and Microstructure of Zirconium Alloy Oxides. Materials Science & Technology <../docs/240.pdf>`

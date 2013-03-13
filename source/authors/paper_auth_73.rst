@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Kaplan, Alexis
---------------
+Kim, Bo Gyung
+-------------
 
-* :download:`Alexis Kaplan, University of Michigan. Neutron Detection Threshold and Efficiency Tradeoff in a Nondestructive Spent Fuel Assay Instrument. Nonproliferation & Nuclear Safeguards <../docs/248.pdf>`
+* :download:`Bo Gyung Kim, Korea Advanced Institute of Science and Technology. Conceptual Design Suggestion of Operator Support and Automated System for Reducing Human Error in Nuclear Power Plants. Human Factors, Instrumentation & Controls <../docs/242.pdf>`

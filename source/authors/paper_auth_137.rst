@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Steele, Dallin
---------------
+Stout, Aaron
+------------
 
-* :download:`Dallin Steele, Idaho State University. Photonic Crystal Design for an In-Pile Real-Time Sensor. Materials Science & Technology <../docs/256.pdf>`
+* :download:`Aaron Stout, United States Military Academy. Design of a Methodology to Calculate Radiation Protection Factors for Army Equipment Using MCNP. Radiation Protection & Shielding <../docs/249.pdf>`

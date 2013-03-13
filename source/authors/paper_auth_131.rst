@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Shaver, Dillon
---------------
+Sim, Ji-hyung
+-------------
 
-* :download:`Dillon Shaver, Rensselaer Polytechnic Institute. Model Development for Large-Scale Nuclear Power Reactor Simulations. Thermal Hydraulics/Fluids <../docs/313.pdf>`
+* :download:`Ji-hyung Sim, Hanyang University. The Characteristics of Fission Gas Release on Metallic Fuels. Materials Science & Technology <../docs/245.pdf>`

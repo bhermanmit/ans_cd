@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Noh, Siwan
-----------
+Owen, Lyman
+-----------
 
-* :download:`Siwan Noh, Hanyang University. Development of In Vitro Internal Dosimetry Methodology for Short-Lived Radioisotopes. Radiation Protection & Shielding <../docs/192.pdf>`
+* :download:`Lyman Owen, University of Utah. Automated Signal-layered Algorithm for Processing Complex Gamma Radiation Spectra. Isotopes & Radiation <../docs/319.pdf>`

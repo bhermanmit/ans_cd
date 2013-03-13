@@ -1,6 +1,7 @@
  :ref:`Back to Index <index>`
 
-Franklin, Andrew
-----------------
+Frazer, David
+-------------
 
-* :download:`Andrew Franklin, Texas A&M University. Visualization of RELAP5-3D: Thermal-hydraulic Properties of Multi-Dimensional Components To Study Core Blockage Scenarios. Thermal Hydraulics/Fluids <../docs/276.pdf>`
+* :download:`David Frazer, University of California - Berkeley. Nano/micro Scale Characterization of SiC/SiC Composite Materials. Materials Science & Technology <../docs/260.pdf>`
+* :download:`David Frazer, University of California - Berkeley. Evaluation of Passive Layer Failure Utilizing Micro Bend Bar Testing. Materials Science & Technology <../docs/321.pdf>`

@@ -1,6 +1,7 @@
  :ref:`Back to Index <index>`
 
-Nimmagadda, Jyothier
---------------------
+O'Hagan, Chad
+-------------
 
-* :download:`Jyothier Nimmagadda, Idaho State University. Iron Reflector Effects in the Fast Neutron Reactors. Reactor Physics <../docs/154.pdf>`
+* :download:`Chad O'Hagan, Texas A&M University. Spent Fuel Pool Graphical User Interface Application For Verifying Fuel Assembly Placement. Operations & Power <../docs/209.pdf>`
+* :download:`Chad O'Hagan, Texas A&M University. Sanmen Nuclear Power Plant. Education, Training & Workforce Development <../docs/211.pdf>`

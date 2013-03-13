@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Jiao, Hong
-----------
+Jo, HangJin
+-----------
 
-* :download:`Hong Jiao, Rensselaer Polytechnic Institute. Modeling and Analysis of Thermal Phenomena Governing Bubble Growth and Collapse in Subcooled Boiling. Thermal Hydraulics/Fluids <../docs/298.pdf>`
+* :download:`HangJin Jo, POSTECH. Pool Boiling on Hydrophilic and Hydrophobic Nano/Microstructure with Different Wetting Surfaces. Thermal Hydraulics/Fluids <../docs/251.pdf>`

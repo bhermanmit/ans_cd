@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Ortega, Mario
--------------
+Riddle, William
+---------------
 
-* :download:`Mario Ortega, University of New Mexico. Reactor Physics Characterization of Minor Actinide Incineration in Modified MYRRHA/XT-ADS Reactor. Reactor Physics <../docs/312.pdf>`
+* :download:`William Riddle, North Carolina State University. Fuel Assembly Design for Improved Transuranics Recylcing in Light Water Reactors. Fuel Cycle & Waste Management <../docs/178.pdf>`

@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Salazar, Alex
--------------
+Schmidt, Lukas
+--------------
 
-* :download:`Alex Salazar, Massachusetts Institute of Technology. Effect of Temperature on Permeability of Cement Sealant for Deep Borehole Repositories. Fuel Cycle & Waste Management <../docs/394.pdf>`
+* :download:`Lukas Schmidt, ETH. Investigations of Single Phase Turbulent Mixing with Stable Density Stratification. Thermal Hydraulics/Fluids <../docs/224.pdf>`

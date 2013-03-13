@@ -25,4 +25,3 @@ Posters - First Author's Institution
     insts/poster_inst_17
     insts/poster_inst_18
     insts/poster_inst_19
-    insts/poster_inst_20

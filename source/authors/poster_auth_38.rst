@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Phan, Nam
----------
+Schweitzer, Amanda
+------------------
 
-* :download:`Nam Phan, Purdue University. Evaluating a Riemann Problem in TFIT as Vertical Two-Phase Bubbly Flow. Thermal Hydraulics/Fluids <../docs/195.pdf>`
+* :download:`Amanda Schweitzer, Pennsylvania State University. A Study of PWR's Water Chemistry and the Effects on the Reactor Operation and Surrounding Environment. Environmental Sciences <../docs/170.pdf>`

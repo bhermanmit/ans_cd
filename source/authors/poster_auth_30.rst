@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Langewisch, Dustin
-------------------
+Pannier, Christopher
+--------------------
 
-* :download:`Dustin Langewisch, Massachusetts Institute of Technology. Uncertainty Quantification for Computational Multiphase Fluid Dynamics. Mathematics & Computation <../docs/292.pdf>`
+* :download:`Christopher Pannier, Texas A&M University. Point Reactor Kinetics Model of a Reactivity Oscillator in the Texas A&M AGN-201M Research Reactor. Reactor Physics <../docs/349.pdf>`

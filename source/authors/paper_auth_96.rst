@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-McCulloch, Molly
-----------------
+McGahee, Christopher
+--------------------
 
-* :download:`Molly McCulloch, Oregon State University. Design of Optimization of the Advanced Test Reactor Low Enrichment Fuel for Conversion. Reactor Physics <../docs/210.pdf>`
+* :download:`Christopher McGahee, Georgia Institute of Technology. Radiation Detection Plate To Be Used at Security Checkpoints in Association with New ZNO Detectors. Detection & Measurements <../docs/197.pdf>`

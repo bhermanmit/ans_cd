@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Guion, Alexandre
-----------------
+Lane, Taylor
+------------
 
-* :download:`Alexandre Guion, Massachusetts Institute of Technology. On the Liquid Microplayer Underneath a Vapor Bubble Growing at a Heated Wall. Thermal Hydraulics/Fluids <../docs/379.pdf>`
+* :download:`Taylor Lane, Texas A&M University. A Flux-Limited Diffusion Method for Simulating Radiative Shocks. Fusion Energy & Plasmas <../docs/135.pdf>`

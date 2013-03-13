@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Santora, Joseph
----------------
+Schuster, Patricia
+------------------
 
-* :download:`Joseph Santora, University of Utah. Viticulture Improvement Applicable to All Plants. Special Session: Radiochemistry <../docs/408.pdf>`
+* :download:`Patricia Schuster, University of California - Berkeley. Investigation of Anisotropic Response in Organic Crystal Scintillators for Neutron Detection. Detection & Measurements <../docs/212.pdf>`

@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Mankosa, Mike
--------------
+Parson, Jenelle
+---------------
 
-* :download:`Mike Mankosa, Pennsylvania State University. Outreach Programs to Accurately Inform the Public About Nuclear Power. Education, Training & Workforce Development <../docs/236.pdf>`
+* :download:`Jenelle Parson, Colorado State University. Dose Rate Profile Surrounding a Waste Repository. Radiation Protection & Shielding <../docs/161.pdf>`

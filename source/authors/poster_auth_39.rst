@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Quarrick, Erica
+Selby, Aaron P.
 ---------------
 
-* :download:`Erica Quarrick, Pennsylvania State University. A PYTHON Pre- and Post-Processing GUI Utility for Generic Repository Thermal Analysis. Fuel Cycle & Waste Management <../docs/261.pdf>`
+* :download:`Aaron P. Selby, University of Tennessee. Comparison of Defect Production by High-Energy Displacement Cascades in Molybdenum, Chromium, and Iron. Materials Science & Technology <../docs/222.pdf>`

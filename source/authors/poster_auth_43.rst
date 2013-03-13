@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Sames, William
---------------
+Sugrue, Rosemary
+----------------
 
-* :download:`William Sames, Texas A&M University. Delayed Hydride Cracking in Zirconium Alloys. Materials Science & Technology <../docs/157.pdf>`
+* :download:`Rosemary Sugrue, Massachusetts Institute of Technology. A Modified Mechanistic Model for Predicting Bubble Departure Diameter in Subcooled Flow Boiling. Thermal Hydraulics/Fluids <../docs/383.pdf>`

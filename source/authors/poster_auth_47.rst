@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Shaner, Sam
------------
+Vaquer, Pablo
+-------------
 
-* :download:`Sam Shaner, Massachusetts Institute of Technology. Transient CMFD-accelerated MOC via IQS with Fully-Implicit Coarse-Time Stepping. Reactor Physics <../docs/346.pdf>`
+* :download:`Pablo Vaquer, University of Florida. A Low Temperature Gas Reactor with VASIMR Thrusters for Near-Term Interplanetary Travel. Aerospace Nuclear Science & Technology <../docs/352.pdf>`

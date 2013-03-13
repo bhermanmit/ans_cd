@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Riddle, William
----------------
+Stribling, Steven
+-----------------
 
-* :download:`William Riddle, North Carolina State University. Fuel Assembly Design for Improved Transuranics Recylcing in Light Water Reactors. Fuel Cycle & Waste Management <../docs/178.pdf>`
+* :download:`Steven Stribling, University of Tennessee. A Methodology of Investigating Resources for Illicit Trafficking of Radiological and Nuclear Materials at International Crossings. Nonproliferation & Nuclear Safeguards <../docs/262.pdf>`

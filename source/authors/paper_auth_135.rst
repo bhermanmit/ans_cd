@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Sirotkina, Alecksandra
-----------------------
+Steele, Dallin
+--------------
 
-* :download:`Alecksandra Sirotkina, St.Petersburg State Polytechnical University. Light Water Reactor with Supercritical Pressure and Spectral Control: Construction, Perspectives, Safety. Operations & Power <../docs/107.pdf>`
+* :download:`Dallin Steele, Idaho State University. Photonic Crystal Design for an In-Pile Real-Time Sensor. Materials Science & Technology <../docs/256.pdf>`

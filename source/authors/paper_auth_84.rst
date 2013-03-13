@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Li, Lulu
---------
+Liao, Can
+---------
 
-* :download:`Lulu Li, Massachusetts Institute of Technology. A Low Order Acceleration Scheme for Using Methods of Characteristics To Solve Transport Equation. Reactor Physics <../docs/391.pdf>`
+* :download:`Can Liao, University of Utah. Study on Pulse Shape Discrimination with an EJ339A Boron-Loaded Liquid Scintillation Detector. Detection & Measurements <../docs/133.pdf>`

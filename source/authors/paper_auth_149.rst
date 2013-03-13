@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Waite, Brian
-------------
+Wargon, Matthew
+---------------
 
-* :download:`Brian Waite, Rensselaer Polytechnic Institute. Multidimensional Analysis of Local Flow Obstacles in Nuclear Reactors. Thermal Hydraulics/Fluids <../docs/315.pdf>`
+* :download:`Matthew Wargon, Pennsylvania State University. Modeling Of Depletion In Molten Salt Reactors. Reactor Physics <../docs/230.pdf>`

@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Roberts, Jeremy
----------------
+Root, Margaret
+--------------
 
-* :download:`Jeremy Roberts, Massachusetts Institute of Technology. Angular Expansions for the Response Matrix Method. Mathematics & Computation <../docs/371.pdf>`
+* :download:`Margaret Root, Massachusetts Institute of Technology. Monte Carlo Simulations in Support of PNEM Field Trial Data Analysis. Nonproliferation & Nuclear Safeguards <../docs/131.pdf>`

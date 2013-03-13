@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-McDermott, Brian
-----------------
+McLain, Derek
+-------------
 
-* :download:`Brian McDermott, Rensselaer Polytechnic Institute. A Detector Array for Measuring Neutron Capture Cross Sections in the keV Region. Nuclear Criticality Safety <../docs/221.pdf>`
+* :download:`Derek McLain, University of Nevada - Las Vegas. Effect of Elemental Interferences on Radioanalytical Analysis of Steel. Nonproliferation & Nuclear Safeguards <../docs/106.pdf>`

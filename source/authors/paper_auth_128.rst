@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Schmidt, Lukas
+Shaver, Dillon
 --------------
 
-* :download:`Lukas Schmidt, ETH. Investigations of Single Phase Turbulent Mixing with Stable Density Stratification. Thermal Hydraulics/Fluids <../docs/224.pdf>`
+* :download:`Dillon Shaver, Rensselaer Polytechnic Institute. Model Development for Large-Scale Nuclear Power Reactor Simulations. Thermal Hydraulics/Fluids <../docs/313.pdf>`

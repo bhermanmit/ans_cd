@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Car IV, James
--------------
+Collins, Price
+--------------
 
-* :download:`James Car IV, Virginia Commonwealth University. Techniques To Improve the Corrosion Resistance of Metals. Materials Science & Technology <../docs/291.pdf>`
+* :download:`Price Collins, University of Tennessee. Fault Simulation for Integral Pressurized Water Reactors. Human Factors, Instrumentation & Controls <../docs/146.pdf>`

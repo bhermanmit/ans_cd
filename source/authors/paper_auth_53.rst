@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Harter, Jackson
----------------
+Haugen, Carl
+------------
 
-* :download:`Jackson Harter, Oregon State University. Verification of Burnup-Depletion Results for Vented Nuclear Fuel in MCNPX Using ORIGEN-ARP. Reactor Physics <../docs/386.pdf>`
+* :download:`Carl Haugen, Massachusetts Institute of Technology. A Deterministic Method for Core Loading Analysis in LWRs. Fuel Cycle & Waste Management <../docs/378.pdf>`

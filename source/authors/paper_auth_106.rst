@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Painter, Daniel
----------------
+Patel, Rita
+-----------
 
-* :download:`Daniel Painter, University of Utah. Analysis of City Grown Bing Cherry Trees Using Neutron Activation Analysis. Environmental Sciences <../docs/368.pdf>`
+* :download:`Rita Patel, University of Pittsburgh. Creation of a Coursera Course in Nuclear Science and Technology. Education, Training & Workforce Development <../docs/147.pdf>`

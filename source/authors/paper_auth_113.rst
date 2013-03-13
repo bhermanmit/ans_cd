@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Phillips, Bren
---------------
+Rehal, Jaspreet
+---------------
 
-* :download:`Bren Phillips, Massachusetts Institute of Technology. Nucleation Site Density, Bubble Departure Diameter, Wait Time and Local Temperature Distribution in Subcooled Flow Boiling of Water at Atmospheric Pressure. Thermal Hydraulics/Fluids <../docs/180.pdf>`
+* :download:`Jaspreet Rehal, University of Illinois at Urbana-Champaign. SEE RADS Platform: Social, Every Day, and Emergency Radiation Detection System. Detection & Measurements <../docs/206.pdf>`

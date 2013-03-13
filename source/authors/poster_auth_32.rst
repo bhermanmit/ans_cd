@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-McCallum, Jacob
----------------
+Phan, Nam
+---------
 
-* :download:`Jacob McCallum, Idaho State University. Highly Enriched Uranium Reactor Rocket Propulsion System Modeled by MCNP. Aerospace Nuclear Science & Technology <../docs/244.pdf>`
+* :download:`Nam Phan, Purdue University. Evaluating a Riemann Problem in TFIT as Vertical Two-Phase Bubbly Flow. Thermal Hydraulics/Fluids <../docs/195.pdf>`

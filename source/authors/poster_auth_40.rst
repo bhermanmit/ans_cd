@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Riblett, Matthew J.
--------------------
+Sorbom, Brandon
+---------------
 
-* :download:`Matthew J. Riblett, Rensselaer Polytechnic Institute. Use of Hardware Accelerators for Monte Carlo-based Radiation Transport: Preliminary Strategies for Tackling Neutron Radiation. Mathematics & Computation <../docs/350.pdf>`
+* :download:`Brandon Sorbom, Massachusetts Institute of Technology. A Molten Salt Liquid Immersion Blanket Design For Use in a Compact, Modular Fusion Reactor. Fusion Energy & Plasmas <../docs/344.pdf>`

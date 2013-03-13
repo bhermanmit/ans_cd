@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Somma, William
+Stempien, John
 --------------
 
-* :download:`William Somma, Pennsylvania State University. Thorium as a Nuclear Fuel: Benefits and Drawbacks. Fuel Cycle & Waste Management <../docs/274.pdf>`
+* :download:`John Stempien, Massachusetts Institute of Technology. Coolant Chemistry and Materials Compatibility in the Fluoride Salt-Cooled High Temperature Reactor (FHR). Materials Science & Technology <../docs/243.pdf>`

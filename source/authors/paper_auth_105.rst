@@ -1,6 +1,7 @@
  :ref:`Back to Index <index>`
 
-Owen, Lyman
------------
+Passons, Branden
+----------------
 
-* :download:`Lyman Owen, University of Utah. Automated Signal-layered Algorithm for Processing Complex Gamma Radiation Spectra. Isotopes & Radiation <../docs/319.pdf>`
+* :download:`Branden Passons, United States Military Academy. One in Eight: A Study on Computer-aided Detection as a Viable Means for Mass Mammography Screenings. Biology & Medicine <../docs/255.pdf>`
+* :download:`Branden Passons, United States Military Academy. Compact Production of Novel X-rays as a New Modality for Imaging Soft Tissue. Accelerator Applications <../docs/286.pdf>`

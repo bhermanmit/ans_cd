@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Chen, Elton
------------
+Cross, Brent
+------------
 
-* :download:`Elton Chen, Georgia Institute of Technology. Comparison of Uranium Properties using EAM and MEAM Potentials. Materials Science & Technology <../docs/218.pdf>`
+* :download:`Brent Cross, University of Illinois at Urbana-Champaign. Increasing X-Ray Fluorescence Emission Tomography (XFET) Speed with Novel Geometry. Biology & Medicine <../docs/317.pdf>`

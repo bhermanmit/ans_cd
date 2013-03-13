@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Rubio, Floren
--------------
+Styron, Jedediah
+----------------
 
-* :download:`Floren Rubio, Los Alamos National Laboratory. Corrosion and Oxygen Control Studies Using a Lead Bismuth Eutectic Flow Loop (DELTA). Materials Science & Technology <../docs/143.pdf>`
+* :download:`Jedediah Styron, University of New Mexico. Review of the Thorium Fuel Cycle and Its Higher Burn-up Capabilities in Future PWR Designs. Operations & Power <../docs/354.pdf>`

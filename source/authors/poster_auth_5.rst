@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Biegel, Kathryn
----------------
+Brown, Emory
+------------
 
-* :download:`Kathryn Biegel, Massachusetts Institute of Technology. PySPORe: Python System for Plotting OpenMC Results. Mathematics & Computation <../docs/410.pdf>`
+* :download:`Emory Brown, University of New Mexico. Pre-conceptual Design Concept of a Co-Located Component Testing and Plant Health Optimization Facility for a Commercial FHR. Operations & Power <../docs/277.pdf>`

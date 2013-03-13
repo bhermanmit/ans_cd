@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Ayers, Lauren
--------------
+Boron-Brenner, Lucas
+--------------------
 
-* :download:`Lauren Ayers, Massachusetts Institute of Technology. Evaluating Equipotential Switching Direct Current Potential Drop as an Online Pipe Monitoring Technique. Materials Science & Technology <../docs/271.pdf>`
+* :download:`Lucas Boron-Brenner, University of Nevada - Las Vegas. Scandium and Titanium Adsorption Data Studies Using Eicrhom's Ln Resin Under Hydrochloric, Nitric, and Sulfuric Acid Conditions. Special Session: Radiochemistry <../docs/345.pdf>`

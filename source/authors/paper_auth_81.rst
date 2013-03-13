@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Lafreniere, Philip
-------------------
+Lane, Taylor
+------------
 
-* :download:`Philip Lafreniere, University of New Mexico. Natural Circulation Cooled, 80 MWt Small Modular PWR. Operations & Power <../docs/341.pdf>`
+* :download:`Taylor Lane, Texas A&M University. Self-Similar Radiation-Hydrodynamics Solutions in the Equilibrium Diffusion Limit. Mathematics & Computation <../docs/288.pdf>`

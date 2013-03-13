@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Hraiz, Amal
------------
+Huddar, Lakshana
+----------------
 
-* :download:`Amal Hraiz, Khalifa University. 3-D Full Core Calculations of Westinghouse AP1000 Using WIMS/PARCS/SNAP Code System. Reactor Physics <../docs/193.pdf>`
+* :download:`Lakshana Huddar, University of California - Berkeley. Investigation of Natural Convection Heat Transfer in Fluoride Salts Using Simulant Fluids. Thermal Hydraulics/Fluids <../docs/333.pdf>`

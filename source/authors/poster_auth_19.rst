@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Ferry, Sara
------------
+Gosdin, Chris
+-------------
 
-* :download:`Sara Ferry, Massachusetts Institute of Technology. Life Prediction of Used Fuel Storage Canister Material. Materials Science & Technology <../docs/281.pdf>`
+* :download:`Chris Gosdin, Pennsylvania State University. Comparison of Navy Fuel: Nuclear Propulsion Versus Diesel Propulsion. Operations & Power <../docs/142.pdf>`

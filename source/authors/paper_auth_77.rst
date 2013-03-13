@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Ko, Phyllis
------------
+Kotlyar, Dan
+------------
 
-* :download:`Phyllis Ko, Pennsylvania State University. Boron Isotope Measurements: Nanosecond and Femtosecond Laser-Induced Breakdown Spectroscopy of Boron Carbide with Non-Gated Detection. Detection & Measurements <../docs/136.pdf>`
+* :download:`Dan Kotlyar, Ben Gurion University. Comparison of Monte Carlo-Burnup-Thermal Hydraulic Coupling Schemes. Reactor Physics <../docs/187.pdf>`

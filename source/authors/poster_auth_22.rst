@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Gosdin, Chris
--------------
+Jeong, Uiju
+-----------
 
-* :download:`Chris Gosdin, Pennsylvania State University. Comparison of Navy Fuel: Nuclear Propulsion Versus Diesel Propulsion. Operations & Power <../docs/142.pdf>`
+* :download:`Uiju Jeong, Hanyang University. CFD Analysis of Liquid Sodium Flow in the Vicinity of Permanent Magnet Probe Flow Meter Using FLUENT. Thermal Hydraulics/Fluids <../docs/176.pdf>`

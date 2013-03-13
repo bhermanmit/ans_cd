@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Mulligan, Padhraic
-------------------
+Noh, Siwan
+----------
 
-* :download:`Padhraic Mulligan, Ohio State University. Fabrication and Characterization Of A Freestanding n-Type GaN Radiation Detector. Detection & Measurements <../docs/329.pdf>`
+* :download:`Siwan Noh, Hanyang University. Development of In Vitro Internal Dosimetry Methodology for Short-Lived Radioisotopes. Radiation Protection & Shielding <../docs/192.pdf>`
