@@ -3,4 +3,4 @@
 Verlie, Matthew - Podiums
 -------------------------
 
-* :download:`Matthew Verlie, United States Military Academy. Optimization of a Delayed Neutron Detector Design. Detection & Measurements <../docs/323.pdf>`
+* `Matthew Verlie, United States Military Academy. Optimization of a Delayed Neutron Detector Design. Detection & Measurements <../_static/docs/323.pdf>`_

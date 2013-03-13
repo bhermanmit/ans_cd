@@ -3,4 +3,4 @@
 Kim, Hee Eun - Podiums
 ----------------------
 
-* :download:`Hee Eun Kim, Korea Advanced Institute of Science and Technology. An Approach To Evaluate the Safety Network Communication Reliability. Nuclear Installations Safety <../docs/263.pdf>`
+* `Hee Eun Kim, Korea Advanced Institute of Science and Technology. An Approach To Evaluate the Safety Network Communication Reliability. Nuclear Installations Safety <../_static/docs/263.pdf>`_

@@ -3,4 +3,4 @@
 Boulton, Nick - Posters
 -----------------------
 
-* :download:`Nick Boulton, Oregon State University. Quasi Steady-State Analysis of Mars Hopper Concept. Aerospace Nuclear Science & Technology <../docs/293.pdf>`
+* `Nick Boulton, Oregon State University. Quasi Steady-State Analysis of Mars Hopper Concept. Aerospace Nuclear Science & Technology <../_static/docs/293.pdf>`_

@@ -3,4 +3,4 @@
 Hogan, Daniel - Podiums
 -----------------------
 
-* :download:`Daniel Hogan, University of California - Berkeley. Approaches To Detecting Coherent Neutrino-Nucleus Scattering with High-Purity Germanium Detectors. Detection & Measurements <../docs/343.pdf>`
+* `Daniel Hogan, University of California - Berkeley. Approaches To Detecting Coherent Neutrino-Nucleus Scattering with High-Purity Germanium Detectors. Detection & Measurements <../_static/docs/343.pdf>`_

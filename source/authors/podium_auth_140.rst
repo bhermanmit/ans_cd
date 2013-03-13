@@ -3,4 +3,4 @@
 Tam, Austin - Podiums
 ---------------------
 
-* :download:`Austin Tam, Idaho State University. Variable Zinc Oxide Nanostructure Growth on Sapphire Substrate for Neutron Detection. Nonproliferation & Nuclear Safeguards <../docs/145.pdf>`
+* `Austin Tam, Idaho State University. Variable Zinc Oxide Nanostructure Growth on Sapphire Substrate for Neutron Detection. Nonproliferation & Nuclear Safeguards <../_static/docs/145.pdf>`_

@@ -3,4 +3,4 @@
 Roberts, Jeremy - Podiums
 -------------------------
 
-* :download:`Jeremy Roberts, Massachusetts Institute of Technology. Angular Expansions for the Response Matrix Method. Mathematics & Computation <../docs/371.pdf>`
+* `Jeremy Roberts, Massachusetts Institute of Technology. Angular Expansions for the Response Matrix Method. Mathematics & Computation <../_static/docs/371.pdf>`_

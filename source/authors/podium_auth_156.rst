@@ -3,4 +3,4 @@
 Yoo, Min - Podiums
 ------------------
 
-* :download:`Min Yoo, Korea Advanced Institute of Science and Technology. Harness Design for the Improvement of Transmitter Survivability in a Severe Accident. Nuclear Installations Safety <../docs/357.pdf>`
+* `Min Yoo, Korea Advanced Institute of Science and Technology. Harness Design for the Improvement of Transmitter Survivability in a Severe Accident. Nuclear Installations Safety <../_static/docs/357.pdf>`_

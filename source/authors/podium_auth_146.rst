@@ -3,4 +3,4 @@
 Waite, Brian - Podiums
 ----------------------
 
-* :download:`Brian Waite, Rensselaer Polytechnic Institute. Multidimensional Analysis of Local Flow Obstacles in Nuclear Reactors. Thermal Hydraulics/Fluids <../docs/315.pdf>`
+* `Brian Waite, Rensselaer Polytechnic Institute. Multidimensional Analysis of Local Flow Obstacles in Nuclear Reactors. Thermal Hydraulics/Fluids <../_static/docs/315.pdf>`_

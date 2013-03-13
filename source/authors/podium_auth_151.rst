@@ -3,4 +3,4 @@
 West, Derek - Podiums
 ---------------------
 
-* :download:`Derek West, United States Military Academy. Benchmark Rutherford Scattering Experiment Using Pelletron Accelerator. Accelerator Applications <../docs/325.pdf>`
+* `Derek West, United States Military Academy. Benchmark Rutherford Scattering Experiment Using Pelletron Accelerator. Accelerator Applications <../_static/docs/325.pdf>`_

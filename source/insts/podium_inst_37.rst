@@ -3,4 +3,4 @@
 Utah State University - Podiums
 -------------------------------
 
-* :download:`Jeff Harris, Utah State University. Single Phase Forced Convection Validation and Simulation. Thermal Hydraulics/Fluids <../docs/162.pdf>`
+* `Jeff Harris, Utah State University. Single Phase Forced Convection Validation and Simulation. Thermal Hydraulics/Fluids <../_static/docs/162.pdf>`_

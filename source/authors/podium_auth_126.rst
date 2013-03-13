@@ -3,4 +3,4 @@
 Shapiro, Rachel - Podiums
 -------------------------
 
-* :download:`Rachel Shapiro, Pennsylvania State University. Optimization of Boron Distribution in ORNL High Flux Isotope Reactor LEU Core. Reactor Physics <../docs/177.pdf>`
+* `Rachel Shapiro, Pennsylvania State University. Optimization of Boron Distribution in ORNL High Flux Isotope Reactor LEU Core. Reactor Physics <../_static/docs/177.pdf>`_

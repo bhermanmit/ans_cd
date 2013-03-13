@@ -3,4 +3,4 @@
 Steele, Dallin - Podiums
 ------------------------
 
-* :download:`Dallin Steele, Idaho State University. Photonic Crystal Design for an In-Pile Real-Time Sensor. Materials Science & Technology <../docs/256.pdf>`
+* `Dallin Steele, Idaho State University. Photonic Crystal Design for an In-Pile Real-Time Sensor. Materials Science & Technology <../_static/docs/256.pdf>`_

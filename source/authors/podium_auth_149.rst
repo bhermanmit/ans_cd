@@ -3,4 +3,4 @@
 Webster, Jeff - Podiums
 -----------------------
 
-* :download:`Jeff Webster, Purdue University. Demonstrating Tensioned Metastable Fluid Detectors as Gamma-Blind Nuclear Particle Sensors. Detection & Measurements <../docs/314.pdf>`
+* `Jeff Webster, Purdue University. Demonstrating Tensioned Metastable Fluid Detectors as Gamma-Blind Nuclear Particle Sensors. Detection & Measurements <../_static/docs/314.pdf>`_

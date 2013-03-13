@@ -3,4 +3,4 @@
 McCulloch, Molly - Podiums
 --------------------------
 
-* :download:`Molly McCulloch, Oregon State University. Design of Optimization of the Advanced Test Reactor Low Enrichment Fuel for Conversion. Reactor Physics <../docs/210.pdf>`
+* `Molly McCulloch, Oregon State University. Design of Optimization of the Advanced Test Reactor Low Enrichment Fuel for Conversion. Reactor Physics <../_static/docs/210.pdf>`_

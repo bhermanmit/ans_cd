@@ -3,4 +3,4 @@
 Brown, Emory - Posters
 ----------------------
 
-* :download:`Emory Brown, University of New Mexico. Pre-conceptual Design Concept of a Co-Located Component Testing and Plant Health Optimization Facility for a Commercial FHR. Operations & Power <../docs/277.pdf>`
+* `Emory Brown, University of New Mexico. Pre-conceptual Design Concept of a Co-Located Component Testing and Plant Health Optimization Facility for a Commercial FHR. Operations & Power <../_static/docs/277.pdf>`_

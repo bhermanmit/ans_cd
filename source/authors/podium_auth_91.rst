@@ -3,4 +3,4 @@
 Mart, Justin - Podiums
 ----------------------
 
-* :download:`Justin Mart, Oregon State University. Feasibility Study on Soluble Boron-Free Operation in a Prototypical Small Modular Reactor Through an Advanced Control Rod Algorithm. Operations & Power <../docs/316.pdf>`
+* `Justin Mart, Oregon State University. Feasibility Study on Soluble Boron-Free Operation in a Prototypical Small Modular Reactor Through an Advanced Control Rod Algorithm. Operations & Power <../_static/docs/316.pdf>`_

@@ -95,17 +95,17 @@ def make_docs(papers,prefix):
   for paper in papers:
     if not (paper[1],paper[2]) in names:
       names.append((paper[1],paper[2]))
-      outstr += "    authors/{1}_auth_{0}\n".format(len(names)-1,prefix)
+      outstr += "   {2}, {3} <authors/{1}_auth_{0}>\n".format(len(names)-1,prefix,paper[2],paper[1])
       name = "{0}, {1} - {2}".format(paper[2],paper[1],titlepre)
       docs.append(""" :ref:`Back to Index <index>`
 
 {0}
 {1}
 
-* :download:`{2} <../docs/{3}.pdf>`
+* `{2} <../_static/docs/{3}.pdf>`_
 """.format(name,'-'*len(name),paper[-1],paper[0]))
     else:
-      docs[-1] += "* :download:`{0} <../docs/{1}.pdf>`\n".format(paper[-1],paper[0])
+      docs[-1] += "* `{0} <../_static/docs/{1}.pdf>`_\n".format(paper[-1],paper[0])
   with open('source/{0}_author.rst'.format(prefix),'w') as fh:
     fh.write(outstr)
   for i,authdoc in enumerate(docs):
@@ -130,17 +130,17 @@ def make_docs(papers,prefix):
   for paper in papers:
     if not paper[3] in insts:
       insts.append(paper[3])
-      outstr += "    insts/{1}_inst_{0}\n".format(len(insts)-1,prefix)
+      outstr += "   {2} <insts/{1}_inst_{0}>\n".format(len(insts)-1,prefix,paper[3])
       if not paper[3]: paper[3] = 'None'
       docs.append(""" :ref:`Back to Index <index>`
 
 {0}
 {1}
 
-* :download:`{2} <../docs/{3}.pdf>`
+* `{2} <../_static/docs/{3}.pdf>`_
 """.format(paper[3] + ' - '+titlepre,'-'*len(paper[3] + ' - '+titlepre),paper[-1],paper[0]))
     else:
-      docs[-1] += "* :download:`{0} <../docs/{1}.pdf>`\n".format(paper[-1],paper[0])
+      docs[-1] += "* `{0} <../_static/docs/{1}.pdf>`_\n".format(paper[-1],paper[0])
   with open('source/{0}_inst.rst'.format(prefix),'w') as fh:
     fh.write(outstr)
   for i,authdoc in enumerate(docs):
@@ -161,7 +161,7 @@ def make_docs(papers,prefix):
 """.format(title,'-'*len(title))
   papers = sorted(papers, key=lambda x: x[2])
   for paper in papers:
-    outstr += "* :download:`{0} <docs/{1}.pdf>`\n".format(paper[-1],paper[0])
+    outstr += "* `{0} <_static/docs/{1}.pdf>`_\n".format(paper[-1],paper[0])
   with open('source/{0}_title.rst'.format(prefix),'w') as fh:
     fh.write(outstr)
 
@@ -179,7 +179,7 @@ def make_docs(papers,prefix):
 
 """.format(title,'-'*len(title))
   for i in range(24):
-    outstr += "    tracks/{1}_tr{0}\n".format(i,prefix)
+    outstr += "    {2} <tracks/{1}_tr{0}>\n".format(i,prefix,tracks[str(i)])
   with open('source/{0}_track.rst'.format(prefix),'w') as fh:
     fh.write(outstr)
   for i in range(24):
@@ -191,7 +191,7 @@ def make_docs(papers,prefix):
 """.format(tracks[str(i)]+' - '+titlepre,'-'*len(tracks[str(i)]+' - '+titlepre))
     for paper in papers:
       if paper[5] == str(i):
-        outstr += "* :download:`{0} <../docs/{1}.pdf>`\n".format(paper[-1],paper[0])
+        outstr += "* `{0} <../_static/docs/{1}.pdf>`_\n".format(paper[-1],paper[0])
     with open('source/tracks/{1}_tr{0}.rst'.format(i,prefix),'w') as fh:
       fh.write(outstr)
       

@@ -3,4 +3,4 @@
 Schuster, Patricia - Podiums
 ----------------------------
 
-* :download:`Patricia Schuster, University of California - Berkeley. Investigation of Anisotropic Response in Organic Crystal Scintillators for Neutron Detection. Detection & Measurements <../docs/212.pdf>`
+* `Patricia Schuster, University of California - Berkeley. Investigation of Anisotropic Response in Organic Crystal Scintillators for Neutron Detection. Detection & Measurements <../_static/docs/212.pdf>`_

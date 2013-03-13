@@ -3,4 +3,4 @@
 Ferry, Sara - Posters
 ---------------------
 
-* :download:`Sara Ferry, Massachusetts Institute of Technology. Life Prediction of Used Fuel Storage Canister Material. Materials Science & Technology <../docs/417.pdf>`
+* `Sara Ferry, Massachusetts Institute of Technology. Life Prediction of Used Fuel Storage Canister Material. Materials Science & Technology <../_static/docs/417.pdf>`_

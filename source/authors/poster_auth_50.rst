@@ -3,4 +3,4 @@
 Wozniak, Nicholas - Posters
 ---------------------------
 
-* :download:`Nicholas Wozniak, University of Nevada-Las Vegas. Photoreduction Synthesis of U (IV) Organophosphate Nanoparticles from Uranyl Perchlorate. Special Session: Radiochemistry <../docs/219.pdf>`
+* `Nicholas Wozniak, University of Nevada-Las Vegas. Photoreduction Synthesis of U (IV) Organophosphate Nanoparticles from Uranyl Perchlorate. Special Session: Radiochemistry <../_static/docs/219.pdf>`_

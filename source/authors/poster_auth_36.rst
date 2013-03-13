@@ -3,4 +3,4 @@
 Riddle, William - Posters
 -------------------------
 
-* :download:`William Riddle, North Carolina State University. Fuel Assembly Design for Improved Transuranics Recylcing in Light Water Reactors. Fuel Cycle & Waste Management <../docs/178.pdf>`
+* `William Riddle, North Carolina State University. Fuel Assembly Design for Improved Transuranics Recylcing in Light Water Reactors. Fuel Cycle & Waste Management <../_static/docs/178.pdf>`_

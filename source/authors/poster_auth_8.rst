@@ -3,4 +3,4 @@
 Choi, HyeonJun - Posters
 ------------------------
 
-* :download:`HyeonJun Choi, Hanyang University. Revisiting Adequacy of the Size of Emergency Planning Zone for Nuclear Power Plants. Radiation Protection & Shielding <../docs/247.pdf>`
+* `HyeonJun Choi, Hanyang University. Revisiting Adequacy of the Size of Emergency Planning Zone for Nuclear Power Plants. Radiation Protection & Shielding <../_static/docs/247.pdf>`_

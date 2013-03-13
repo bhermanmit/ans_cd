@@ -3,4 +3,4 @@
 Herman, Christopher - Podiums
 -----------------------------
 
-* :download:`Christopher Herman, North Carolina State University. Reactivity Defect Benchmarking of the OpenMC Monte Carlo Transport Code. Reactor Physics <../docs/377.pdf>`
+* `Christopher Herman, North Carolina State University. Reactivity Defect Benchmarking of the OpenMC Monte Carlo Transport Code. Reactor Physics <../_static/docs/377.pdf>`_

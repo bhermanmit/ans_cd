@@ -3,4 +3,4 @@
 Painter, Daniel - Podiums
 -------------------------
 
-* :download:`Daniel Painter, University of Utah. Analysis of City Grown Bing Cherry Trees Using Neutron Activation Analysis. Environmental Sciences <../docs/368.pdf>`
+* `Daniel Painter, University of Utah. Analysis of City Grown Bing Cherry Trees Using Neutron Activation Analysis. Environmental Sciences <../_static/docs/368.pdf>`_

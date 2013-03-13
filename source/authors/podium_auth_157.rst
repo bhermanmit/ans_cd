@@ -3,4 +3,4 @@
 Young, Jason - Podiums
 ----------------------
 
-* :download:`Jason Young, Purdue University. Advances to the Radiation Source Search Toolkit. Nonproliferation & Nuclear Safeguards <../docs/284.pdf>`
+* `Jason Young, Purdue University. Advances to the Radiation Source Search Toolkit. Nonproliferation & Nuclear Safeguards <../_static/docs/284.pdf>`_

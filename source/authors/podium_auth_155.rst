@@ -3,4 +3,4 @@
 Yee, Ben - Podiums
 ------------------
 
-* :download:`Ben Yee, University of California - Berkeley. Continuous Monitoring of Radon Progeny in Air Using a High Purity Germanium Detector and an Air Filtration System. Detection & Measurements <../docs/367.pdf>`
+* `Ben Yee, University of California - Berkeley. Continuous Monitoring of Radon Progeny in Air Using a High Purity Germanium Detector and an Air Filtration System. Detection & Measurements <../_static/docs/367.pdf>`_
