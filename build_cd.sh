@@ -13,7 +13,17 @@ rm -rf iso
 mkdir iso
 cd iso
 cp -R ../build/html .
-ln -s html/index.html start_here.html
+echo "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\"" > start_here.html
+echo "  \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">" >> start_here.html
+echo "" >> start_here.html
+echo "<html xmlns=\"http://www.w3.org/1999/xhtml\">" >> start_here.html
+echo "  <head>" >> start_here.html
+echo "    <meta http-equiv=\"refresh\" content=\"0; url=html/index.html\"> " >> start_here.html
+echo "  </head>" >> start_here.html
+echo "  <body>" >> start_here.html
+echo "Loading..." >> start_here.html
+echo "  </body>" >> start_here.html
+echo "</html>" >> start_here.html
 cd ..
 mkisofs -o ans_cd.iso -J -r -V ANS_student2013 iso
 
