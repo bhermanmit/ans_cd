@@ -27,6 +27,15 @@ Poster Abstracts
     First Author's Institution <poster_inst>
     Technical Track <poster_track>
 
+.. toctree::
+    :hidden:
+ 
+    Acknowledgements <acknowledgements>
+
+.. container:: acknowledgements
+
+   :ref:`Acknowledgements <acknowledgements>`
+
 .. image:: img/cd.png
    :height: 450px
    :class: front-img
