@@ -26,3 +26,7 @@ Poster Abstracts
     First Author's Name <poster_author>
     First Author's Institution <poster_inst>
     Technical Track <poster_track>
+
+.. image:: img/cd_cover_MIT.png
+  :height: 450px
+  :class: front_img
