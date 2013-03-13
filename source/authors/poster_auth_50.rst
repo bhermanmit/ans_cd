@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Wozniak, Nicholas - Posters
----------------------------
+Woodley, David - Posters
+------------------------
 
-* `Nicholas Wozniak, University of Nevada-Las Vegas. Photoreduction Synthesis of U (IV) Organophosphate Nanoparticles from Uranyl Perchlorate. Special Session: Radiochemistry <../_static/docs/219.pdf>`_
+* `David Woodley, North Carolina State University. High Temperature Test Capsule for Irradiation Experiments in the Pulstar Reactor. Materials Science & Technology <../_static/docs/259.pdf>`_

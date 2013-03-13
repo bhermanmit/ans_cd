@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Styron, Jedediah - Posters
---------------------------
+Stribling, Steven - Posters
+---------------------------
 
-* `Jedediah Styron, University of New Mexico. Review of the Thorium Fuel Cycle and Its Higher Burn-up Capabilities in Future PWR Designs. Operations & Power <../_static/docs/354.pdf>`_
+* `Steven Stribling, University of Tennessee. A Methodology of Investigating Resources for Illicit Trafficking of Radiological and Nuclear Materials at International Crossings. Nonproliferation & Nuclear Safeguards <../_static/docs/262.pdf>`_

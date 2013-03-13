@@ -43,6 +43,7 @@ Posters - All
 * `Matthew J. Riblett, Rensselaer Polytechnic Institute. Use of Hardware Accelerators for Monte Carlo-based Radiation Transport: Preliminary Strategies for Tackling Neutron Radiation. Mathematics & Computation <_static/docs/350.pdf>`_
 * `William Riddle, North Carolina State University. Fuel Assembly Design for Improved Transuranics Recylcing in Light Water Reactors. Fuel Cycle & Waste Management <_static/docs/178.pdf>`_
 * `Floren Rubio, Los Alamos National Laboratory. Corrosion and Oxygen Control Studies Using a Lead Bismuth Eutectic Flow Loop (DELTA). Materials Science & Technology <_static/docs/143.pdf>`_
+* `William Sames, Texas A&M University. Delayed Hydride Cracking in Zirconium Alloys. Materials Science & Technology <_static/docs/157.pdf>`_
 * `David Saucier, University of New Mexico. Using MCNP to Analyze Radiation Qualifications in Positron Emission Tomography (PET) Suite Environments. Biology & Medicine <_static/docs/337.pdf>`_
 * `David Saucier, University of New Mexico. Small Modular Reactor Design: Designing a Molten Salt Reactor with a Thorium Fuel Cycle. Thermal Hydraulics/Fluids <_static/docs/359.pdf>`_
 * `Amanda Schweitzer, Pennsylvania State University. A Study of PWR's Water Chemistry and the Effects on the Reactor Operation and Surrounding Environment. Environmental Sciences <_static/docs/170.pdf>`_

@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Stribling, Steven - Posters
----------------------------
+Sorbom, Brandon - Posters
+-------------------------
 
-* `Steven Stribling, University of Tennessee. A Methodology of Investigating Resources for Illicit Trafficking of Radiological and Nuclear Materials at International Crossings. Nonproliferation & Nuclear Safeguards <../_static/docs/262.pdf>`_
+* `Brandon Sorbom, Massachusetts Institute of Technology. A Molten Salt Liquid Immersion Blanket Design For Use in a Compact, Modular Fusion Reactor. Fusion Energy & Plasmas <../_static/docs/344.pdf>`_

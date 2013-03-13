@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Woodley, David - Posters
-------------------------
+Vaquer, Pablo - Posters
+-----------------------
 
-* `David Woodley, North Carolina State University. High Temperature Test Capsule for Irradiation Experiments in the Pulstar Reactor. Materials Science & Technology <../_static/docs/259.pdf>`_
+* `Pablo Vaquer, University of Florida. A Low Temperature Gas Reactor with VASIMR Thrusters for Near-Term Interplanetary Travel. Aerospace Nuclear Science & Technology <../_static/docs/352.pdf>`_

@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Sorbom, Brandon - Posters
+Selby, Aaron P. - Posters
 -------------------------
 
-* `Brandon Sorbom, Massachusetts Institute of Technology. A Molten Salt Liquid Immersion Blanket Design For Use in a Compact, Modular Fusion Reactor. Fusion Energy & Plasmas <../_static/docs/344.pdf>`_
+* `Aaron P. Selby, University of Tennessee. Comparison of Defect Production by High-Energy Displacement Cascades in Molybdenum, Chromium, and Iron. Materials Science & Technology <../_static/docs/222.pdf>`_

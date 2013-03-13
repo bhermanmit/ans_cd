@@ -51,6 +51,10 @@ div.acknowledgements.container {
     bottom: -53px;
 }
 
+div.acklist.container li{
+    margin-bottom: 3px !important;
+}
+
 /* link colors and text decoration */
 
 a:link {
@@ -308,8 +312,13 @@ div.content li {
     list-style-image: none;
     list-style-type: none;
     padding: 0 0 0 1.666em;
-    margin-bottom: 3px;
+    margin-bottom: 20px;
 }
+
+li.toctree-l1 {
+    margin-bottom: 3px !important;
+}
+
 
 img.front-img {
   position: relative;

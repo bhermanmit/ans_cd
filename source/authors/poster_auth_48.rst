@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Vaquer, Pablo - Posters
------------------------
+Tahhan, Antonio - Posters
+-------------------------
 
-* `Pablo Vaquer, University of Florida. A Low Temperature Gas Reactor with VASIMR Thrusters for Near-Term Interplanetary Travel. Aerospace Nuclear Science & Technology <../_static/docs/352.pdf>`_
+* `Antonio Tahhan, Idaho State University. The Hydrogen Economy. Environmental Sciences <../_static/docs/402.pdf>`_

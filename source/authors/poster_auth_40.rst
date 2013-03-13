@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Selby, Aaron P. - Posters
--------------------------
+Schweitzer, Amanda - Posters
+----------------------------
 
-* `Aaron P. Selby, University of Tennessee. Comparison of Defect Production by High-Energy Displacement Cascades in Molybdenum, Chromium, and Iron. Materials Science & Technology <../_static/docs/222.pdf>`_
+* `Amanda Schweitzer, Pennsylvania State University. A Study of PWR's Water Chemistry and the Effects on the Reactor Operation and Surrounding Environment. Environmental Sciences <../_static/docs/170.pdf>`_
