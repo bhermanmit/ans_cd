@@ -1,7 +1,7 @@
  :ref:`Back to Index <index>`
 
-Idaho State University
-----------------------
+Idaho State University - Posters
+--------------------------------
 
 * :download:`Jacob McCallum, Idaho State University. Highly Enriched Uranium Reactor Rocket Propulsion System Modeled by MCNP. Aerospace Nuclear Science & Technology <../docs/244.pdf>`
 * :download:`Jesse Misner, Idaho State University. Analysis of Synchrotron Radiation Diffraction Data on Experiments To Determine Phases and Microstructure of Zirconium Alloy Oxides. Materials Science & Technology <../docs/240.pdf>`

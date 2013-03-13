@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Tahhan, Antonio
----------------
+Swift, Andrew J. - Posters
+--------------------------
 
-* :download:`Antonio Tahhan, Idaho State University. The Hydrogen Economy. Environmental Sciences <../docs/402.pdf>`
+* :download:`Andrew J. Swift, University of Nevada-Las Vegas. Evaluation and Preparation of Uranium Alloys Based on Fuel Burnup. Special Session: Radiochemistry <../docs/213.pdf>`

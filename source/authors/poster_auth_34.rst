@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Riblett, Matthew J.
--------------------
+Quarrick, Erica - Posters
+-------------------------
 
-* :download:`Matthew J. Riblett, Rensselaer Polytechnic Institute. Use of Hardware Accelerators for Monte Carlo-based Radiation Transport: Preliminary Strategies for Tackling Neutron Radiation. Mathematics & Computation <../docs/350.pdf>`
+* :download:`Erica Quarrick, Pennsylvania State University. A PYTHON Pre- and Post-Processing GUI Utility for Generic Repository Thermal Analysis. Fuel Cycle & Waste Management <../docs/261.pdf>`

@@ -1,7 +1,7 @@
  :ref:`Back to Index <index>`
 
-University of New Mexico
-------------------------
+University of New Mexico - Posters
+----------------------------------
 
 * :download:`Emory Brown, University of New Mexico. Pre-conceptual Design Concept of a Co-Located Component Testing and Plant Health Optimization Facility for a Commercial FHR. Operations & Power <../docs/277.pdf>`
 * :download:`Mario Ortega, University of New Mexico. Reactor Physics Characterization of Minor Actinide Incineration in Modified MYRRHA/XT-ADS Reactor. Reactor Physics <../docs/312.pdf>`

@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Sugrue, Rosemary
-----------------
+Styron, Jedediah - Posters
+--------------------------
 
-* :download:`Rosemary Sugrue, Massachusetts Institute of Technology. A Modified Mechanistic Model for Predicting Bubble Departure Diameter in Subcooled Flow Boiling. Thermal Hydraulics/Fluids <../docs/383.pdf>`
+* :download:`Jedediah Styron, University of New Mexico. Review of the Thorium Fuel Cycle and Its Higher Burn-up Capabilities in Future PWR Designs. Operations & Power <../docs/354.pdf>`

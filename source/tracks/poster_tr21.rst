@@ -1,5 +1,5 @@
  :ref:`Back to Index <index>`
 
-Student Sections Activities
----------------------------
+Student Sections Activities - Posters
+-------------------------------------
 

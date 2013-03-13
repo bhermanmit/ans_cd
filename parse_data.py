@@ -62,7 +62,7 @@ def main():
   os.mkdir('source/tracks')
   os.mkdir('source/insts')
   
-  make_docs(papers,'paper')
+  make_docs(papers,'podium')
   make_docs(posters,'poster')
 
 
@@ -96,7 +96,7 @@ def make_docs(papers,prefix):
     if not (paper[1],paper[2]) in names:
       names.append((paper[1],paper[2]))
       outstr += "    authors/{1}_auth_{0}\n".format(len(names)-1,prefix)
-      name = "{0}, {1}".format(paper[2],paper[1])
+      name = "{0}, {1} - {2}".format(paper[2],paper[1],titlepre)
       docs.append(""" :ref:`Back to Index <index>`
 
 {0}
@@ -138,7 +138,7 @@ def make_docs(papers,prefix):
 {1}
 
 * :download:`{2} <../docs/{3}.pdf>`
-""".format(paper[3],'-'*len(paper[3]),paper[-1],paper[0]))
+""".format(paper[3] + ' - '+titlepre,'-'*len(paper[3] + ' - '+titlepre),paper[-1],paper[0]))
     else:
       docs[-1] += "* :download:`{0} <../docs/{1}.pdf>`\n".format(paper[-1],paper[0])
   with open('source/{0}_inst.rst'.format(prefix),'w') as fh:
@@ -188,7 +188,7 @@ def make_docs(papers,prefix):
 {0}
 {1}
 
-""".format(tracks[str(i)],'-'*len(tracks[str(i)]))
+""".format(tracks[str(i)]+' - '+titlepre,'-'*len(tracks[str(i)]+' - '+titlepre))
     for paper in papers:
       if paper[5] == str(i):
         outstr += "* :download:`{0} <../docs/{1}.pdf>`\n".format(paper[-1],paper[0])

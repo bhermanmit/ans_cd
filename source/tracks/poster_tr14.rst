@@ -1,5 +1,5 @@
  :ref:`Back to Index <index>`
 
-Nuclear Criticality Safety
---------------------------
+Nuclear Criticality Safety - Posters
+------------------------------------
 

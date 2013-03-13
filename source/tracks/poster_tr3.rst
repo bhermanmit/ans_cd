@@ -1,5 +1,5 @@
  :ref:`Back to Index <index>`
 
-Decommissioning, Decontamination & Reutilization
-------------------------------------------------
+Decommissioning, Decontamination & Reutilization - Posters
+----------------------------------------------------------
 

@@ -1,7 +1,7 @@
  :ref:`Back to Index <index>`
 
-University of Nevada-Las Vegas
-------------------------------
+University of Nevada-Las Vegas - Posters
+----------------------------------------
 
 * :download:`Lucas Boron-Brenner, University of Nevada-Las Vegas. Scandium and Titanium Adsorption Data Studies Using Eicrhom's Ln Resin Under Hydrochloric, Nitric, and Sulfuric Acid Conditions. Special Session: Radiochemistry <../docs/345.pdf>`
 * :download:`Jacquelyn Dorhout, University of Nevada-Las Vegas. Synthesis of Rapid Separation Targets by Hydrothermal Methods. Special Session: Radiochemistry <../docs/139.pdf>`

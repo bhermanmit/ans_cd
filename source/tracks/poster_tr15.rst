@@ -1,5 +1,5 @@
  :ref:`Back to Index <index>`
 
-Nuclear Installations Safety
-----------------------------
+Nuclear Installations Safety - Posters
+--------------------------------------
 

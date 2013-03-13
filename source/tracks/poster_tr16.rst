@@ -1,7 +1,7 @@
  :ref:`Back to Index <index>`
 
-Operations & Power
-------------------
+Operations & Power - Posters
+----------------------------
 
 * :download:`Emory Brown, University of New Mexico. Pre-conceptual Design Concept of a Co-Located Component Testing and Plant Health Optimization Facility for a Commercial FHR. Operations & Power <../docs/277.pdf>`
 * :download:`Chris Gosdin, Pennsylvania State University. Comparison of Navy Fuel: Nuclear Propulsion Versus Diesel Propulsion. Operations & Power <../docs/142.pdf>`

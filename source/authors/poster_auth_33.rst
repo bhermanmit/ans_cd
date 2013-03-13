@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Quarrick, Erica
----------------
+Phillips, Bren - Posters
+------------------------
 
-* :download:`Erica Quarrick, Pennsylvania State University. A PYTHON Pre- and Post-Processing GUI Utility for Generic Repository Thermal Analysis. Fuel Cycle & Waste Management <../docs/261.pdf>`
+* :download:`Bren Phillips, Massachusetts Institute of Technology. Nucleation Site Density, Bubble Departure Diameter, Wait Time and Local Temperature Distribution in Subcooled Flow Boiling of Water at Atmospheric Pressure. Thermal Hydraulics/Fluids <../docs/180.pdf>`

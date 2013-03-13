@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Belsterling, Philip
--------------------
+Belsterling, Philip - Posters
+-----------------------------
 
 * :download:`Philip Belsterling, Oregon State University. Reactor Clad Types and Failure Mechanisms. Materials Science & Technology <../docs/353.pdf>`

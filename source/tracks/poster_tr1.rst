@@ -1,7 +1,7 @@
  :ref:`Back to Index <index>`
 
-Aerospace Nuclear Science & Technology
---------------------------------------
+Aerospace Nuclear Science & Technology - Posters
+------------------------------------------------
 
 * :download:`Nick Boulton, Oregon State University. Quasi Steady-State Analysis of Mars Hopper Concept. Aerospace Nuclear Science & Technology <../docs/293.pdf>`
 * :download:`Jacob McCallum, Idaho State University. Highly Enriched Uranium Reactor Rocket Propulsion System Modeled by MCNP. Aerospace Nuclear Science & Technology <../docs/244.pdf>`

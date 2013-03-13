@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Gatto, Nadine
--------------
+Gatto, Nadine - Posters
+-----------------------
 
 * :download:`Nadine Gatto, Pennsylvania State University. Design and Objectives of the International Thermonuclear Experimental Reactor (ITER). Fusion Energy & Plasmas <../docs/415.pdf>`

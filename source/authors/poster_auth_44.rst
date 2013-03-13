@@ -1,6 +1,6 @@
  :ref:`Back to Index <index>`
 
-Sweet, Ryan
------------
+Sugrue, Rosemary - Posters
+--------------------------
 
-* :download:`Ryan Sweet, University of Tennessee. Helium Bubble Formation in Plasma Facing Surfaces for Fusion Reactor Applications. Fusion Energy & Plasmas <../docs/328.pdf>`
+* :download:`Rosemary Sugrue, Massachusetts Institute of Technology. A Modified Mechanistic Model for Predicting Bubble Departure Diameter in Subcooled Flow Boiling. Thermal Hydraulics/Fluids <../docs/383.pdf>`

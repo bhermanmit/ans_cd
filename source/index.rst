@@ -1,23 +1,23 @@
 .. _index:
 
-Abstract Archive
-================
+Paper Archive
+=============
 
 * :ref:`Search <search>`
 
-Paper Abstracts
----------------
+Podium Presentations 
+--------------------
 
 .. toctree::
     :maxdepth: 1
 
-    All <paper_title>
-    First Author's Name <paper_author>
-    First Author's Institution <paper_inst>
-    Technical Track <paper_track>
+    All <podium_title>
+    First Author's Name <podium_author>
+    First Author's Institution <podium_inst>
+    Technical Track <podium_track>
 
-Poster Abstracts
-----------------
+Poster Presentations
+--------------------
 
 .. toctree::
     :maxdepth: 1
